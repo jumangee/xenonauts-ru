@@ -12203,23 +12203,23 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedPistol</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Pistol Tech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Улучшение технологии пистолетов</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedRifle</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Rifle Tech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Улучшение технологии винтовок</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedMG</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Machinegun Tech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Улучшение технологии пулеметов</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedHP</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Heavy Pistol Tech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Технология тяжелых пистолетов</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedSH</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Shotgun Tech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Технология улучшения дробовиков</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s93"><Data ss:Type="String">weapon.SMGEnforcer</Data></Cell>
@@ -12231,19 +12231,19 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s96"><Data ss:Type="String">weapon.HMGKorhang</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">Machinegun HMG Korhang KR-R331</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Пулемет HMG Корханг KR-R331</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s96"><Data ss:Type="String">weapon.HPWarhawk</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">Laser Aid WarHawk WR-H33</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">WarHawk WR-H33 Боевой ястреб с лазерным ЦУ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s96"><Data ss:Type="String">weapon.DualWarhawk</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">Dual WarHawk WR-H33</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">WR-H33 Двойной боевой ястреб</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s96"><Data ss:Type="String">weapon.SHThunder</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">ThunderBolt AZT300 </Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">AZT300 Удар молнии</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Researches.AdvancedPistolDesc</Data></Cell>
@@ -12267,7 +12267,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ManTech.AdvancedMedpack</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Advanced Medipack</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Улучшенная аптечка</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s97"><Data ss:Type="String">ManTech.SMGEnforcer</Data></Cell>
@@ -12327,7 +12327,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s97"><Data ss:Type="String">Researches.AdvancedLaserPistol</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">Advanced Laser Pistol</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">Улучшенный лазерный пистолет</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s97"><Data ss:Type="String">Researches.AdvancedSniperLaser</Data></Cell>
@@ -12351,7 +12351,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s88"><Data ss:Type="String">Researches.impjackal</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Reflective Assault Armor</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Отражающая штурмовая броня</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s88"><Data ss:Type="String">Researches.impjackalDesc</Data></Cell>
@@ -12395,7 +12395,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s88"><Data ss:Type="String">airplane.human.apollo</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Apollo</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Аполлон</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s88"><Data ss:Type="String">M2x Apollo</Data></Cell>
@@ -12511,15 +12511,15 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">AV.MAMMOTH</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Mammoth Torpedo</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Торпена Маммонт</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">AV.JUPITER</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Jupiter Cannon</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пушка Юпитер</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">AV.MAUSER</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">D-2x Mauser</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">D-2x Маузер</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">AV.GAIUS</Data></Cell>
@@ -12595,31 +12595,31 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.CorvetteHull</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Recovered Corvette Equipement</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Захваченное оборудование корвета</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.LandingHull</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Recovered Landing Ship Equipement</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Захваченное оборудование десантного корабля</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.CrusierHull</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Recovered Crusier Ship Equipement</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Захваченное оборудование крейсера</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.CarrierHull</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Recovered Carrier Ship Equipement</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Захваченное оборудование корабля-носителя</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.BattleshipHull</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Recovered Battleship Equipement</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Захваченное оборудование боевого корабля</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">Items.Omega</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Stunned Omega Viper</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Парализованный Омега-гадюка</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.OmegaCorpse</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Dead Omega Viper</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Мертвый Омега-Гадюка</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.Egg</Data></Cell>
@@ -12627,11 +12627,11 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.GargolCorpse</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Abducted Human Remanent</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Останки похищенного человека</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.Gargol</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Abducted Human</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Похищенный человек</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.ViperCorpse</Data></Cell>
@@ -12643,23 +12643,23 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.AlphaCorpse</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Alpha Viper Corpse</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Труп Альфа-Гадюки</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.Alpha</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Stunned Alpha Viper</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Парализованный Альфа-Гадюка</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.DeltaCorpse</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Delta Viper Corpse</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Труп Дельта-Гадюки</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s104"><Data ss:Type="String">Items.Delta</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Stunned Delta Viper</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Парализованный Дельта-Гадюка</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">Researches.AlienAlloyProduction</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Advanced Alloys Production</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Продвинутое производство сплавов</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">Researches.AlienAlloyProductionDesc</Data></Cell>
@@ -12683,11 +12683,11 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">weapon.RPGSulfur</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">RPG Sulfur SS-6 </Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">РПГ SS-6 Сера</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s103"><Data ss:Type="String">weapon.RPGRage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">RPG Rage YT-63</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">РПГ YT-63 Ярость</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -12698,11 +12698,11 @@
     <VerticalResolution>300</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>2205</TopRowVisible>
+   <TopRowVisible>2110</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2189</ActiveRow>
+     <ActiveRow>2110</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
