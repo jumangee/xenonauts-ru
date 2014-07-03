@@ -1823,13 +1823,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">cantproduce</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Производство %1% остановлено в связи с финансовыми проблемами.</Data><NamedCell
+    <Cell><Data ss:Type="String">Производство '%1%' остановлено в связи с финансовыми проблемами.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">cantproducematerial</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Производство %1% на %2% было приостановлено из-за нехватки %3%.</Data><NamedCell
+    <Cell><Data ss:Type="String">Производство '%1%' на %2% было приостановлено из-за нехватки %3%.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -2360,7 +2360,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Empty</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Empty</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String"> </Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">Engage</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -5619,7 +5619,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">manufacturefinished</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Производство %1% завершено.</Data><NamedCell
+    <Cell><Data ss:Type="String">Производство '%1%' завершено.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -7718,7 +7718,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SCCS</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Стратегическое командование И СИСТЕМА УПРАВЛЕНИЯ</Data><NamedCell
+    <Cell><Data ss:Type="String">Стратегическое командование и система управления</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">

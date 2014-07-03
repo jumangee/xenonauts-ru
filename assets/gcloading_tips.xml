@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <GCLoadingTips>
 
-<Tip showOnFirstGroundCombat="true">&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Лаунчер игры содержит кнопку с ссылкой на "Краткое руководство", в котором описана механика игры.
+<Tip showOnFirstGroundCombat="true">&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Лаунчер игры содержит ссылку на "Краткое руководство", в котором описана механика игры.
 
-Используйте его, если столкнетесь с сложностями.&lt;/font&gt;
+Используйте его, если столкнетесь со сложностями.&lt;/font&gt;
 </Tip>
 
 <Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете изменить папку для сохранений прямо в лаунчере игры.&lt;/font&gt;</Tip>
