@@ -1,7 +1,8 @@
 xenonauts-ru
 ============
 
-Народная русификация игры Xenonauts, за основу используется русификатор с tbs-play ( http://tbs-play.com/community/resources/xenonauts-rus.2/ он же http://icongames.ru/resources/xenonauts-rus.7/ )
+Народная русификация игры Xenonauts с модом XNT- INTO DARKNESS V5.2
+За основу используется русификатор с tbs-play ( http://tbs-play.com/community/resources/xenonauts-rus.2/ он же http://icongames.ru/resources/xenonauts-rus.7/ )
 
 
 Цели проекта
@@ -25,9 +26,5 @@ xenonauts-ru
 История изменения
 ------------------------
 
- * 03.07.2014: Создание проекта из версии 0.82 русификатора с tbs-play
-  * Модифицированный файл Xenonauts.exe не используется
-  * Исправлены ошибки формата XML файла strings.xml (теперь открывается в excel)
-  * Везде Alenium теперь "Элениум" (было вперемешку с "Алениум")
-  * strings.xml взят из версии 1.07 объединён с переведённым strings.xml, т.е. файл совместим с этой версией игры
-  * Файлы от 1.07 ( gcloading_tips.xml, soldiernames.xml, soldiernamesfemale.xml и xenopedia.xml ) не содержат изменений по сравнению с предыдущими версиями и могут быть использованы в этой версии
+ * 03.07.2014: Первичная заливка
+  * strings.xml объединён с переводом из главной ветки
