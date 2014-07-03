@@ -30,4 +30,4 @@ xenonauts-ru
   * Исправлены ошибки формата XML файла strings.xml (теперь открывается в excel)
   * Везде Alenium теперь "Элениум" (было вперемешку с "Алениум")
   * strings.xml взят из версии 1.07 объединён с переведённым strings.xml, т.е. файл совместим с этой версией игры
-	* Файлы от 1.07 ( gcloading_tips.xml, soldiernames.xml, soldiernamesfemale.xml и xenopedia.xml ) не содержат изменений по сравнению с предыдущими версиями и могут быть использованы в этой версии
+  * Файлы от 1.07 ( gcloading_tips.xml, soldiernames.xml, soldiernamesfemale.xml и xenopedia.xml ) не содержат изменений по сравнению с предыдущими версиями и могут быть использованы в этой версии
