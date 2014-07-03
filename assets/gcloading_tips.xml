@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<GCLoadingTips>
+
+<Tip showOnFirstGroundCombat="true">&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Лаунчер игры содержит кнопку с ссылкой на "Краткое руководство", в котором описана механика игры.
+
+Используйте его, если столкнетесь с сложностями.&lt;/font&gt;
+</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете изменить папку для сохранений прямо в лаунчере игры.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Игра включает в себя рассказ, который описывает Инцидент в Исландии 1958 года, а также появление организации "Ксенонавты".
+
+Этот рассказ можно найти в лаунчере игры в разделе "Дополнительно".&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Специализация солдата не влияет на игровой процесс, но помогает сортировать войска и подобрать снаряжение.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Даже если система защиты базы не в состоянии отразить атакующий НЛО, то она может хотя бы сократить количество десанта пришельцев.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; С помощью аптечки возможно исцелить только половину нанесенных повреждений.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете иметь до трех перехватчиков в эскадрилье: полезное решение для перехвата больших НЛО.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Солдаты и самолеты могут быть отправлены в бой, только когда у них есть более 50% здоровья/прочности.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Воздушный удар по месту крушения НЛО дает столько же денег, сколько и при наземной миссии, но при этом не будет получено новых технологий и опыта солдат.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; У ксенонавта есть шанс выжить при серьезном ранении в бою. Чем ниже нуля уровень здоровья, тем ниже шанс выжить.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Сбитый над водой НЛО не оставляет обломков, но влияет отношения со странами.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Создание этой игры не было бы возможным без поддержки людей, которые сделали предварительный заказ до релиза.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Исследовательские проекты могут быть разделены между несколькими базами. Проекты Мастерской не могут быть разделены.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Если перехватчик будет сбит, позже его автоматически восстановят.
+
+Это займет гораздо больше времени, чем обычный ремонт, поэтому старайтесь сохранять свои машины.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Возможно использовать свободный режим прицеливания. Он активируется нажатием клавиши Ctrl или кликом на картинку оружия в интерфейсе.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Двери можно открывать нажатием правой кнопки мыши, находясь на соседней с дверью клетке, при этом не проходя через саму дверь.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Щелчок правой кнопкой мыши на цель тратит дополнительные ОД (очки действия) для повышения точности выстрела. Некоторые виды оружия имеют несколько режимов стрельбы.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Подавленная цель не может вести ответный огонь, кроме того у нее уменьшается количество ОД (очки действия) в следущем ходу.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Стрельба очередями неточна, но хороша для подавления на коротких дистанциях.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Когда между вами и целью 5 тайлов или меньше, вы получаете +15% бонус к меткости за каждый тайл, получая максимум 60% бонус.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; В присевшую цель труднее попасть.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Находясь позади укрывшегося ксенонавта вы можете не опасаться нанести ему урон.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Защитные свойства брони как людей, так и пришельцев уменьшаются при попаданиях в течение миссии.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Повреждения имеют большой элемент случайности - при выстреле можно нанести от 50% до 150% от базового урона.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Точность и урон резко уменьшаются, если цель находится слишком далеко.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Медали прибавляют бойцам +1 к храбрости.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Ваш начальный отряд имеет лучшие параметры, чем новобранцы, поэтому следите за их выживаемостью.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Переименовывание солдат именами своих друзей и знакомых делает их смерть трагичнее/веселее.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Строительство дополнительных радарных установок расширяет диапазон сканирования базы.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Используя кнопки увеличения/уменьшения количества, можно щелкнуть правой кнопкой мыши, чтобы добавить сразу 10 единиц или Ctrl + Click, чтобы добавить максимум.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Дымовые гранаты - это хороший способ скрыть своих солдат.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Щиты всегда блокируют лобовые атаки, но менее эффективны при боковых атаках.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете установить траекторию полета для перехватчика, удерживая SHIFT для создания серии точек движения.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Солдаты получают бонус морали, если они находятся в радиусе 10 клеток рядом друг с другом.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Высокий боевой дух обеспечивает защиту от псионических атак.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Боец с самым высоким званием является командиром отряда, обеспечивая глобальный бонус морали, пока жив.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Травма может вызвать кровотечение, уменьшая ОЗ (очки здоровья) каждый ход, пока не будет использована аптечка.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; У солдата будут уменьшены ОД (очки действия), если он нагружен больше, чем позволяет его сила.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Для стрельбы из тяжелого оружия необходима большая сила, при этом тяжелое оружие менее точное, чем обычное.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Солдат с низким моральным духом может запаниковать, бежать или впасть в неистовство в начале каждого хода.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; По умолчанию юнит может зарезервировать ОД (очки действия) для стрельбы, для того, чтобы по окончанию движения сохранялась возможность использовать оружие.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Важно строить дополнительные базы и увеличивать радиус покрытия перехватчиков/радаров по всей планете. Одной базы будет недостаточно.&lt;/font&gt;</Tip>
+
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Ответный огонь расчитывается из параметра РЕАКЦИЯ и процента оставшихся ОД (очки действия). 
+
+Юниты с высоким процентом оставшихся ОД, при выполнении действия имеют больше шансов избежать ответного огня.&lt;/font&gt;</Tip>
+
+<Tip>Оценка изменения финансирования региона отображается при наведении курсора в правый верхний угол мировой карты.</Tip>
+
+<!-- <Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; The game is bundled with an example developer mod (Soviet Weapons Pack) and a selection of community-made mods.&lt;/font&gt;</Tip> -->
+
+</GCLoadingTips>
+
