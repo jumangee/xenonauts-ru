@@ -216,19 +216,19 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AC.TOOLTIP.AFTERBURNER</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Форсаж:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Форсаж дает двадцати пяти процентное увеличение &lt;br /&gt;максимальной скорости. Это достигается за счет четырехкратного &lt;br /&gt;увеличения потребления топлива, так что используйте его умеренно!</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Форсаж:&lt;/b&gt;&lt;br&gt;   Форсаж дает двадцати пяти процентное увеличение &lt;br /&gt;максимальной скорости. Это достигается за счет четырехкратного &lt;br /&gt;увеличения потребления топлива, так что используйте его умеренно!</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AC.TOOLTIP.EVADE</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Уклонение:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Уклонение дает приказ перехватчику выполнить серию горизонтальных вращений, полезных при &lt;br /&gt;уклонении от приближающихся снарядов. Эта способность расходует топливо и имеет время отката, &lt;br /&gt;так что используйте ее тактически (используйте паузу, чтобы идеально выбрать время для маневра)!&lt;br/&gt;&lt;br/&gt;Не все перехватчики способны выполнять этот маневр уклонения.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Уклонение:&lt;/b&gt;&lt;br&gt;   Уклонение дает приказ перехватчику выполнить серию горизонтальных вращений, полезных при &lt;br /&gt;уклонении от приближающихся снарядов. Эта способность расходует топливо и имеет время отката, &lt;br /&gt;так что используйте ее тактически (используйте паузу, чтобы идеально выбрать время для маневра)!&lt;br&gt;   Не все перехватчики способны выполнять этот маневр уклонения.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AC.TOOLTIP.RETREAT</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Отступление:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Отступление дает приказ перехватчику выйти из боя и направится к ближайшему &lt;br /&gt;краю зоны боевых действий в попытке выйти из сражения. Самолет будет автоматически &lt;br /&gt;стрелять из пушки в любого противника, попавшего в его сектор обстрела, но не будет использовать ракеты.&lt;br/&gt;&lt;br/&gt;Отступление можно отменить отдав новый приказ отступающему перехватчику, &lt;br /&gt;только если это не вынужденное отступление из-за нехватки горючего.&lt;/font\&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Отступление:&lt;/b&gt;&lt;br&gt;   Отступление дает приказ перехватчику выйти из боя и направится к ближайшему &lt;br /&gt;краю зоны боевых действий в попытке выйти из сражения. Самолет будет автоматически &lt;br /&gt;стрелять из пушки в любого противника, попавшего в его сектор обстрела, но не будет использовать ракеты.&lt;br&gt;   Отступление можно отменить отдав новый приказ отступающему перехватчику, &lt;br /&gt;только если это не вынужденное отступление из-за нехватки горючего.&lt;/font\&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1116,7 +1116,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AU</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Австралазия</Data><NamedCell
+    <Cell><Data ss:Type="String">Австралия</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1275,19 +1275,19 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BA.DefFailedHasTroops</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;br/&gt;Защитные батареи нанесли урон, но не смогли сбить корабль пришельцев!&lt;br/&gt;&lt;br/&gt;Гарнизон базы готовится к оборонительным действиям!</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;br/&gt;Защитные батареи нанесли урон, но не смогли сбить корабль пришельцев!&lt;br&gt;   Гарнизон базы готовится к оборонительным действиям!</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BA.DefFailedNoTroops</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;br/&gt;Защитные батареи нанесли урон, но не смогли сбить корабль пришельцев!&lt;br/&gt;&lt;br/&gt;База потеряна из-за отсутствия наземных сил Ксенонавтов.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;br/&gt;Защитные батареи нанесли урон, но не смогли сбить корабль пришельцев!&lt;br&gt;   База потеряна из-за отсутствия наземных сил Ксенонавтов.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BA.DefFiring</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около &lt;font color='FAA902'&gt;%2%&lt;/font&gt;.&lt;br/&gt;&lt;br/&gt;Защитные  батареи базы наводятся на цель... %3% %4% Залп!&lt;br/&gt;&lt;br/&gt;ЦЕЛЬ: %5%</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около &lt;font color='FAA902'&gt;%2%&lt;/font&gt;.&lt;br&gt;   Защитные  батареи базы наводятся на цель... %3% %4% Залп!&lt;br&gt;   ЦЕЛЬ: %5%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1299,13 +1299,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BA.NoDefHasTroops</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около  &lt;font color='FAA902'&gt;%2%&lt;/font&gt;! &lt;br/&gt;&lt;br/&gt;Нет защитных систем - пришельцы без потерь начинают штурм! &lt;br/&gt;&lt;br/&gt;Гарнизон базы готовится к оборонительным действиям!</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около  &lt;font color='FAA902'&gt;%2%&lt;/font&gt;! &lt;br&gt;   Нет защитных систем - пришельцы без потерь начинают штурм! &lt;br&gt;   Гарнизон базы готовится к оборонительным действиям!</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BA.NoDefNoTroops</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около &lt;font color='FAA902'&gt;%2%&lt;/font&gt;!&lt;br/&gt;&lt;br/&gt;Нет защитных систем или наземных сил Ксенонавтов для защиты базы!</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt; обнаружен при попытке высадки десанта около &lt;font color='FAA902'&gt;%2%&lt;/font&gt;!&lt;br&gt;   Нет защитных систем или наземных сил Ксенонавтов для защиты базы!</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1349,7 +1349,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BaseHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Интерфейс управления базой</Data><NamedCell
+    <Cell><Data ss:Type="String">Интерфейс макроменеджмента</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1636,7 +1636,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Briefing.FinalMission.Description</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Десантный корабль &lt;font color='FAA902'&gt;%1%&lt;/font&gt; приближается к НЛО. Предварительная рекогносцировка показала, что корабль пришельцев %2%&lt;br /&gt;&lt;br /&gt;Основная задача состоит в захвате артефактов пришельцев, так что будьте осторожны внутри НЛО, чтобы избежать уничтожения ценного оборудования.&lt;br /&gt;&lt;br /&gt;Удачи, командир. Верните солдат назад живыми.</Data><NamedCell
+    <Cell><Data ss:Type="String">   Десантный корабль &lt;font color='FAA902'&gt;%1%&lt;/font&gt; приближается к НЛО. Предварительная рекогносцировка показала, что корабль пришельцев %2%&lt;br /&gt;   Основная задача состоит в захвате артефактов пришельцев, так что будьте осторожны внутри НЛО, чтобы избежать уничтожения ценного оборудования.&lt;br /&gt;   Удачи, командир. Верните солдат назад живыми.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1654,7 +1654,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Briefing.TerrorSite.Description</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Десантный корабль &lt;font color='FAA902'&gt;%1%&lt;/font&gt; приближается к &lt;font color='FAA902'&gt;%2%&lt;/font&gt;. Местные власти сообщают, что активность пришельцев в настоящий момент сконцентрирована в небольшом районе города, где они терроризируют местное население. Наши оперативники были приглашены для проведения зачистки пришельцев в этом районе.&lt;br /&gt;&lt;br /&gt;Единственная задача этой миссии – уничтожение всех пришельцев в зоне боя. В случае нашей неудачи по району будет применено тактическое ядерное оружие. Это нанесет ужасный удар по отношениям с правительством этой страны и, как следствие, уменьшению финансирования.&lt;br /&gt;&lt;br /&gt;Существуют доклады о том, что в зоне боя присутствуют как гражданские, так и выжившие военные. По мере возможности защищайте их. Удачи, командир.</Data><NamedCell
+    <Cell><Data ss:Type="String">   Десантный корабль &lt;font color='FAA902'&gt;%1%&lt;/font&gt; приближается к &lt;font color='FAA902'&gt;%2%&lt;/font&gt;. Местные власти сообщают, что активность пришельцев в настоящий момент сконцентрирована в небольшом районе города, где они терроризируют местное население. Наши оперативники были приглашены для проведения зачистки пришельцев в этом районе.&lt;br /&gt;   Единственная задача этой миссии – уничтожение всех пришельцев в зоне боя. В случае нашей неудачи по району будет применено тактическое ядерное оружие. Это нанесет ужасный удар по отношениям с правительством этой страны и, как следствие, уменьшению финансирования.&lt;br /&gt;   Существуют доклады о том, что в зоне боя присутствуют как гражданские, так и выжившие военные. По мере возможности защищайте их. Удачи, командир.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1696,7 +1696,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Briefing.XenoBase.Description</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Нашу базу &lt;font color='FAA902'&gt;%1%&lt;/font&gt; атакует &lt;font color='FAA902'&gt;%2%&lt;/font&gt;. Корабль пришельцев преодолел нашу противовоздушную оборону и вражеский десант был замечен проникающим в наши служебные туннели. Весь гражданский персонал базы был эвакуирован в аварийный бункер под Командным центром. Весь военный персонал готовится отразить вторжение. &lt;br /&gt;&lt;br /&gt;Целью пришельцев будет наш Командный центр, так как в нем расположен реактор базы. Его нужно защищать любой ценой, так как его вывод его из строя приведет к полному уничтожению базы. Однако помните, что вы сражаетесь внутри построек Ксенонавтов  - причинение серьезных повреждений временно выведет их из строя, пока техники не устранят все последствия. The alien objective will be our Command Centre, as this contains the base reactor.&lt;br /&gt;&lt;br /&gt;Потеря одной из баз будет катастрофой для Ксенонавтов. Мы не можем позволить этому случиться. Удачи, командир.</Data><NamedCell
+    <Cell><Data ss:Type="String">   Нашу базу &lt;font color='FAA902'&gt;%1%&lt;/font&gt; атакует &lt;font color='FAA902'&gt;%2%&lt;/font&gt;. Корабль пришельцев преодолел нашу противовоздушную оборону и вражеский десант был замечен проникающим в наши служебные туннели. Весь гражданский персонал базы был эвакуирован в аварийный бункер под Командным центром. Весь военный персонал готовится отразить вторжение. &lt;br /&gt   Целью пришельцев будет наш Командный центр, так как в нем расположен реактор базы. Его нужно защищать любой ценой, так как его вывод его из строя приведет к полному уничтожению базы. Однако помните, что вы сражаетесь внутри построек Ксенонавтов  - причинение серьезных повреждений временно выведет их из строя, пока техники не устранят все последствия. Задачей инопланетян является захват нашего командного центра, т.к. под ним находится реактор питающий базу.&lt;br /&gt;   Потеря одной из баз будет катастрофой для Ксенонавтов, мы не можем позволить этому случиться. Удачи, командир.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1900,37 +1900,37 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForBravery</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За отвагу':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За отвагу':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForBravery_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за отвагу проявленную в бою во время успешной обороны &lt;br/&gt;базы Ксенонавтов против наземной атаки пришельцев.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за отвагу проявленную в бою во время успешной обороны &lt;br/&gt;базы Ксенонавтов против наземной атаки пришельцев.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForCurage</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За мужество':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За мужество':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForCurage_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за мужество проявленное в бою во время успешной обороны &lt;br/&gt;города против террористических сил пришельцев.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за мужество проявленное в бою во время успешной обороны &lt;br/&gt;города против террористических сил пришельцев.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForValor</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За доблесть':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За доблесть':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CitationForValor_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за доблесть проявленную в бою во время успешного захвата &lt;br/&gt;базы пришельцев.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за доблесть проявленную в бою во время успешного захвата &lt;br/&gt;базы пришельцев.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -2002,25 +2002,25 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CrimsonHeart</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Пурпурное сердце:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Пурпурное сердце:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CrimsonHeart_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за получение серьезного ранения на службе человечеству.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за получение серьезного ранения на службе человечеству.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CruxSolaris</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Солнечный крест:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Солнечный крест:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CruxSolaris_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за успешный захват командира пришельцев.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за успешный захват командира пришельцев.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -2071,13 +2071,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">D-42 Shrike</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">D-42 Сорокопут</Data><NamedCell
+    <Cell><Data ss:Type="String">D-42 'Сорокопут'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">D-54 Valkyrie</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">D-54 Валькирия</Data><NamedCell
+    <Cell><Data ss:Type="String">D-54 'Валькирия'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -2307,13 +2307,13 @@
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">DistinguisedServiceMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За выдающиеся заслуги':&lt;/b&gt;&lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За выдающиеся заслуги':&lt;/b&gt;&lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">DistinguisedServiceMedal_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за активное участие в тридцати боевых операциях.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за активное участие в тридцати боевых операциях.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
@@ -3718,67 +3718,67 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.CameraLevelControl</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Контроль уровня камеры:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Показывает текущий уровень камеры. Камеру можно поднять или опустить используя стрелки сверху и снизу этого элемента. Это позволяет осматривать разные уровни поля боя.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Контроль уровня камеры:&lt;/b&gt;&lt;br&gt;   Показывает текущий уровень камеры. Камеру можно поднять или опустить используя стрелки сверху и снизу этого элемента. Это позволяет осматривать разные уровни поля боя.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.CrouchToggle</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Встать / присесть:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Эта кнопка отдаст команду солдату встать или присесть. На выполнение этой команды уходит четыре ОД. Присевший солдат не только является меньшей мишенью для врагов, так что в него на 40 процентов сложнее попасть, но и дает двадцати процентный бонус к меткости самого солдата.&lt;br/&gt;&lt;br/&gt;Однако стрельба через препятствия в таком положении затруднена, в результате чего шанс попасть в объект, находящийся между солдатом и врагом, увеличен на 50 процентов.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Встать / присесть:&lt;/b&gt;&lt;br&gt;   Эта кнопка отдаст команду солдату встать или присесть. На выполнение этой команды уходит четыре ОД. Присевший солдат не только является меньшей мишенью для врагов, так что в него на 40 процентов сложнее попасть, но и дает двадцати процентный бонус к меткости самого солдата.&lt;br&gt;   Однако стрельба через препятствия в таком положении затруднена, в результате чего шанс попасть в объект, находящийся между солдатом и врагом, увеличен на 50 процентов.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.EndTurnButton</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Конец хода:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Эта кнопка заканчивает ваш ход и начинает ход пришельцев. Убедитесь, что вы сделали все, что хотели сделать перед тем как нажать на нее! </Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Конец хода:&lt;/b&gt;&lt;br&gt;   Эта кнопка заканчивает ваш ход и начинает ход пришельцев. Убедитесь, что вы сделали все, что хотели сделать перед тем как нажать на нее! </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.EquipmentTile</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Панель снаряжения:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Эта панель отображает оружие, находящееся в руках солдата. Наведении мышки на враждебную цель автоматически приведет к появлению курсора прицеливания, но нажав на Панель снаряжения вы перейдете в Режим стрельбы, что позволит целиться куда угодно. Для отмены Режима стрельбы нажмите Esc или кликните на Панели снаряжения еще раз.&lt;br/&gt;&lt;br/&gt;Число в верхнем левом углу показывает количество зарядов в оружие, а в нижнем левом углу расположен переключатель между стрельбой одиночными и очередью (если у оружия есть такая функция). </Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Панель снаряжения:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Эта панель отображает оружие, находящееся в руках солдата. Наведении мышки на враждебную цель автоматически приведет к появлению курсора прицеливания, но нажав на Панель снаряжения вы перейдете в Режим стрельбы, что позволит целиться куда угодно. Для отмены Режима стрельбы нажмите Esc или кликните на Панели снаряжения еще раз.&lt;br&gt;   Число в верхнем левом углу показывает количество зарядов в оружие, а в нижнем левом углу расположен переключатель между стрельбой одиночными и очередью (если у оружия есть такая функция). </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.QuickGrenadeSlot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Слот быстрой гранаты:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот слот позволяет игроку бросить гранату, находящуюся на поясе или в рюкзаке солдата, без открытия инвентаря. Затраты на такой бросок гранаты соответствуют нормальным затратам плюс штраф, если обе руки солдата заняты.&lt;br/&gt;&lt;br/&gt;Чтобы сменить выбранную гранату кликните правой кнопкой мыши на Слот быстрой гранаты. </Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Слот быстрой гранаты:&lt;/b&gt;&lt;br&gt;   Этот слот позволяет игроку бросить гранату, находящуюся на поясе или в рюкзаке солдата, без открытия инвентаря. Затраты на такой бросок гранаты соответствуют нормальным затратам плюс штраф, если обе руки солдата заняты.&lt;br&gt;   Чтобы сменить выбранную гранату кликните правой кнопкой мыши на Слот быстрой гранаты. </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.QuickReloadSlot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Слот быстрой перезарядки:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Этот слот позволяет перезаряжать выбранное оружие без открытия инвентаря. Количество доступных магазинов отображается в нижнем правом углу этого слота.&lt;br/&gt;&lt;br/&gt;Нет никаких дополнительных затрат ОД за использование Слота быстрой перезарядки. </Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Слот быстрой перезарядки:&lt;/b&gt;&lt;br&gt;   Этот слот позволяет перезаряжать выбранное оружие без открытия инвентаря. Количество доступных магазинов отображается в нижнем правом углу этого слота.&lt;br&gt;   Нет никаких дополнительных затрат ОД за использование Слота быстрой перезарядки. </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierInformationPanel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Панель информации солдата:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Эта панель показывает звание, имя и строки состояния солдата. Строки состояния показывают следующие атрибуты: - Красный - Здоровье - Зеленый - Очки Действия (ОД) - Голубой - Мораль  Когда солдат получает повреждения, 50 процентов нельзя вылечить в полевых условиях. Эта часть строки Здоровья будет закрашена серым после поучения повреждений.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Панель информации солдата:&lt;/b&gt;&lt;br&gt;   Эта панель показывает звание, имя и строки состояния солдата. Строки состояния показывают следующие атрибуты: - Красный - Здоровье - Зеленый - Очки Действия (ОД) - Голубой - Мораль  Когда солдат получает повреждения, 50 процентов нельзя вылечить в полевых условиях. Эта часть строки Здоровья будет закрашена серым после поучения повреждений.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierInventory</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Инвентарь солдата:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;При нажатии открывает инвентарь солдата, позволяя перекладывать снаряжение, а так же поднимать или бросать предметы на землю. </Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Инвентарь солдата:&lt;/b&gt;&lt;br&gt;   При нажатии открывает инвентарь солдата, позволяя перекладывать снаряжение, а так же поднимать или бросать предметы на землю. </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierPortrait</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Портрет солдата:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Это портрет солдата. Его ранг в виде символа показан в нижней правой части изображения.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Портрет солдата:&lt;/b&gt;&lt;br&gt;   Это портрет солдата. Его ранг в виде символа показан в нижней правой части изображения.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.ToggleRoof</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Вид на крыши:&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Позволяет увидеть крыши зданий и верхние части объектов.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Вид на крыши:&lt;/b&gt;&lt;br&gt;   Позволяет увидеть крыши зданий и верхние части объектов.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GcGUI.Tooltips.TUReserveSlider</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;b&gt;Ползунок резервирования ОД:&lt;/b&gt;&lt; br /&gt;&lt; br /&gt;Заставляет солдата резервировать очки действия для стрельбы по реакции во время хода противник. Ползунок позволяет сохранять ОД для желаемого режима стрельбы, числа слева показывают стоимость в ОД для каждого режима стрельбы.&lt; br /&gt;&lt; br /&gt; По умолчанию вы не можете использовать зарезервированные ОД для стрельбы из оружия. Это можно изменить в Настройках игры.</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Ползунок резервирования ОД:&lt;/b&gt;&lt;br&gt;   Заставляет солдата резервировать очки действия для стрельбы по реакции во время хода противник. Ползунок позволяет сохранять ОД для желаемого режима стрельбы, числа слева показывают стоимость в ОД для каждого режима стрельбы.&lt;br&gt;    По умолчанию вы не можете использовать зарезервированные ОД для стрельбы из оружия. Это можно изменить в Настройках игры.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5088,13 +5088,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LongServiceMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За долгую службу':&lt;/b&gt; &lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За долгую службу':&lt;/b&gt; &lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LongServiceMedal_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за активное участие в двадцати боевых заданиях.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за активное участие в двадцати боевых заданиях.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5184,7 +5184,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Corsair</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">X-37 Корсар</Data><NamedCell
+    <Cell><Data ss:Type="String">'Корсар'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5202,7 +5202,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Fury</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Фурия</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">'Фурия'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Fusiongrenade</Data><NamedCell
@@ -5219,13 +5219,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Hunter</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Разведмашина &quot;Охотник&quot;</Data><NamedCell
+    <Cell><Data ss:Type="String">Разведмашина 'Охотник'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.HyperionHovertank</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Гравитанк &quot;Гиперион&quot;</Data><NamedCell
+    <Cell><Data ss:Type="String">Гравитанк 'Гиперион'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5255,7 +5255,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.LasercarbineDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Лазерный карабин это лазерное оружие ближнего боя, отлично подойдет штурмовикам.</Data><NamedCell
+    <Cell><Data ss:Type="String">Оружие ближнего боя, отлично подойдет штурмовикам.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5273,7 +5273,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.LaserpistolDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Лазерный пистолет это лазерное оружие, которое можно использовать одной рукой. Отлично подойдет для боев в закрытых помещениях или как дополнительное оружие.</Data><NamedCell
+    <Cell><Data ss:Type="String">Оружие, которое можно использовать одной рукой. Отлично подойдет для боев в закрытых помещениях или как дополнительное оружие.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5285,7 +5285,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.LaserrifleDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Лазерная винтовка это лазерное оружие общего назначения, которое можно использовать в любой боевой ситуации.</Data><NamedCell
+    <Cell><Data ss:Type="String">Оружие общего назначения, которое можно использовать в любой боевой ситуации.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5327,7 +5327,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Marauder</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Мародер</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">'Мародер'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Medipack</Data><NamedCell
@@ -5421,7 +5421,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.PrecisionlaserDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Лазерная снайперская винтовка - великолепное оружие для дальней дистанции, но очень слабое вблизи.</Data><NamedCell
+    <Cell><Data ss:Type="String">Великолепное оружие для дальней дистанции, но очень слабое вблизи.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5433,13 +5433,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Predator</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Бронекостюм &quot;Хищник&quot;</Data><NamedCell
+    <Cell><Data ss:Type="String">Бронекостюм 'Хищник'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Saracen</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Сарацин</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">'Сарацин'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Scatterlaser</Data><NamedCell
@@ -5461,13 +5461,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Sentinel</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Боевой костюм &quot;Часовой&quot;</Data><NamedCell
+    <Cell><Data ss:Type="String">Боевой костюм 'Часовой'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Shrike</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">D-42 Сорокопут</Data><NamedCell
+    <Cell><Data ss:Type="String">'Сорокопут'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5485,7 +5485,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Valkyrie</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">D-54 Валькирия</Data><NamedCell
+    <Cell><Data ss:Type="String">'Валькирия'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5665,13 +5665,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MilitaryCross</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Военный крест:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Военный крест:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MilitaryCross_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за уничтожение пяти солдат пришельце за одно задание.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за уничтожение пяти солдат пришельце за одно задание.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6002,37 +6002,37 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfGallantry</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Орден 'За Храбрость':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Орден 'За Храбрость':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfGallantry_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за уничтожение пяти пришельцев в бою.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за уничтожение пяти пришельцев в бою.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfMerit</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Орден 'За Заслуги':&lt;/b&gt; &lt;i&gt;(+2 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Орден 'За Заслуги':&lt;/b&gt; &lt;i&gt;(+2 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfMerit_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за уничтожение десяти пришельцев в бою.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за уничтожение десяти пришельцев в бою.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfTerra</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Орден Земли:&lt;/b&gt; &lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Орден Земли:&lt;/b&gt; &lt;i&gt;(+3 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OrderOfTerra_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за уничтожение двадцати пришельцев в бою.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за уничтожение двадцати пришельцев в бою.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6101,13 +6101,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PersonnelHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Удаленный интерфейс управления гарнизоном</Data><NamedCell
+    <Cell><Data ss:Type="String">Интерфейс командира гарнизона</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PersonnelHeaderName</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Бараки</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Казармы</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PersonnelView.BaseName</Data><NamedCell
@@ -7178,7 +7178,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.LaserWeaponryDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Разработка серии прототипов лазерного пехотного вооружения, призванного заменить наше текущее баллистическое оружие.</Data><NamedCell
+    <Cell><Data ss:Type="String">Разработка серии прототипов лазерного пехотного вооружения, призванного заменить наше текущее огнестрельное оружие.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -7489,7 +7489,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ResearchHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Интерфейс управления лабораторией</Data><NamedCell
+    <Cell><Data ss:Type="String">Исследовательский интерфейс</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -7707,13 +7707,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SaviorMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'Спаситель':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'Спаситель':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SaviorMedal_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за нейтрализацию псионика пришельцев, который контролировал &lt;br/&gt;оперативника Ксенонавтов.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за нейтрализацию псионика пришельцев, который контролировал &lt;br/&gt;оперативника Ксенонавтов.&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -7784,7 +7784,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SEQ.BALLISTICS</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Баллистика</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/xenonauts.mvec&quot; size=&quot;12&quot;\&gt;Огнестрельное&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -8096,7 +8096,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SEquipHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Интерфейс выбора снаряжения солдата</Data><NamedCell
+    <Cell><Data ss:Type="String">Интерфейс тактической экипировки бойцов отряда</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -8108,13 +8108,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ServiceMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль за службу:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль за службу:&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ServiceMedal_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за активное участие в десяти боевых операциях.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за активное участие в десяти боевых операциях.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -8290,7 +8290,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">StoreHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Система управления хранилищем</Data><NamedCell
+    <Cell><Data ss:Type="String">Информационный интерфейс управления логистикой</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -8372,13 +8372,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SurvivalMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Медаль 'За Выживание':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;b&gt;Медаль 'За Выживание':&lt;/b&gt; &lt;i&gt;(+1 Отваги)&lt;/i&gt;&lt;br/&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SurvivalMedal_desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;Награжден за стойкость, проявленную в виде успешного завершения задания, &lt;br/&gt;когда все остальные оперативники были убиты или выведены из строя.&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">Награжден за стойкость, проявленную в виде успешного завершения задания, &lt;br/&gt;когда все остальные оперативники были убиты или выведены из строя.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9004,7 +9004,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="135">
     <Cell><Data ss:Type="String">weapon.ak47</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Баллистическая винтовка</Data><NamedCell
+    <Cell><Data ss:Type="String">Винтовка</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9064,13 +9064,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Заряд C4:&lt;/b&gt;  Заряд С4 это блок пластичного взрывчатого вещества с часовым механизмом, используемым для детонации. Основное назначение С4 на поле боя - уничтожение стен, дверей и других структур.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;Заряд C4:&lt;/b&gt;  Заряд С4 это блок пластичного взрывчатого вещества с часовым механизмом, используемым для детонации. Основное назначение С4 на поле боя - уничтожение стен, дверей и других структур.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="270">
     <Cell><Data ss:Type="String">weapon.farmershotgun</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Баллистический дробовик</Data><NamedCell
+    <Cell><Data ss:Type="String">дробовик</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9100,7 +9100,11 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.flashbang.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Светошумовая граната:&lt;/b&gt;  Светошумовая граната создана для облегчения проникновения в хорошо защищенные помещения. Она не наносит никаких повреждений солдатам противника, однако генерирует большое количество подавления в радиусе взрыва. Так как подавленные противники не могут стрелять по реакции в солдат Ксенонавтов, попадающих в их поле зрения, светошумовая граната сделает вход в защищенное помещение гораздо менее опасным.  Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                           Нет Урон:                                                                    Нет Проникающая способность:                               Нет Радиус взрыва:                                               4 тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Светошумовая граната:&lt;/b&gt; Граната облегчающая проникновения в хорошо защищенные помещения. Она не наносит никаких повреждений солдатам противника, однако генерирует большое количество подавления в радиусе взрыва. Так как подавленные противники не могут стрелять по реакции в солдат Ксенонавтов, попадающих в их поле зрения, светошумовая граната сделает вход в защищенное помещение гораздо менее опасным.  Гранаты можно бросать из рук или из рюкзака, используя слот быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+
+	Урон:                                    &lt;b&gt;Нет&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;Нет&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="255">
@@ -9112,7 +9116,10 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.frag.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Осколочная граната:&lt;/b&gt;  Осколочная граната это противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а так же может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.  Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                            Кинетический Урон:                                                                            60 Проникающая способность:                                        0 Радиус взрыва:                                                       2 тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Осколочная граната:&lt;/b&gt;  Противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а так же может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.  Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+	Урон:                                    &lt;b&gt;60 Кинетический&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус взрыва:           2</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="285">
@@ -9129,7 +9136,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.medipack.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Аптечка:&lt;/b&gt;  Аптечка это предмет, который можно использовать, чтобы лечить раненых солдат на боле боя. Когда она находиться в руках солдата, ее можно использовать на любого дружественного бойца в прилегающих тайлах. Как результат, аптечка будет восстанавливать одно очко здоровья за одно очко действия. Однако, только половину полученного урона можно вылечить в полевых условиях (остальное нужно лечить на базе), так что полученные ранения уменьшают максимальное число ОЗ солдата на время боя.   Солдаты часто получают кровоточащие раны в бою, которые причиняют дополнительно по 2 очка здоровья урона каждый ход, пока не будут вылечены. Возможность лечить кровоточащие раны в бою делает Аптечку ценным предметом во время сражения. </Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Аптечка:&lt;/b&gt;  Предмет, который можно использовать, чтобы лечить раненых солдат на боле боя. Когда она находиться в руках солдата, ее можно использовать на любого дружественного бойца в прилегающих тайлах. Как результат, аптечка будет восстанавливать одно очко здоровья за одно очко действия. Однако, только половину полученного урона можно вылечить в полевых условиях (остальное нужно лечить на базе), так что полученные ранения уменьшают максимальное число ОЗ солдата на время боя.   Солдаты часто получают кровоточащие раны в бою, которые причиняют дополнительно по 2 очка здоровья урона каждый ход, пока не будут вылечены. Возможность лечить кровоточащие раны в бою делает Аптечку ценным предметом во время сражения. </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9165,7 +9172,11 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.smoke.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Дымовая граната:&lt;/b&gt;  Дымовая граната не наносит повреждений, вместо этого она генерирует облако густого дыма в радиусе взрыва. Дым значительно ухудшает точность стрельбы, ведущейся сквозь него, что дает мгновенную защиту от огня пришельцев. Любой солдат, входящий или начинающий ход в облаке дыма получает небольшое количество оглушения.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                            Химический Урон:                                                                            Нет Проникающая способность:                                         0 Радиус взрыва:                                                       4 тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Дымовая граната:&lt;/b&gt;  Граната не наносит повреждений, вместо этого она генерирует облако густого дыма в радиусе взрыва. Дым значительно ухудшает точность стрельбы, ведущейся сквозь него, что дает мгновенную защиту от огня пришельцев. Любой солдат, входящий или начинающий ход в облаке дыма получает небольшое количество оглушения.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+	Тип урона:                             Химический
+	Урон:                                    &lt;b&gt;Нет&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="255">
@@ -9189,7 +9200,16 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.lasercarbine.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный карабин:&lt;/b&gt;  Лазерный карабин это мощное двуручное оружие полезное в ближнем бою, пришедшее на замену баллистическому дробовику. Оно наносит повреждения, сопоставимые с Лазерной винтовкой, но дает больший шанс стрельбы по реакции, обладает лучшей проникающей способностью и требует меньшего расхода ОД на выстрел. К сожалению, не смотря на то, что карабин обладает большей дальностью стрельбы, чем баллистический дробовик, он все равно гораздо менее точен на больших дистанциях, чем Лазерная винтовка.   Лазерный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.   Тип урона:                                                    Энергетический Эффективная дальность:                                    16 Урон:                                                                      90 Проникающая способность:                                 20 Емкость магазина:                                                6  Режимы стрельбы:                                  Одиночными (2), очередью Модификатор реакции:                                +40%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный карабин:&lt;/b&gt;  Лазерный карабин это мощное двуручное оружие полезное в ближнем бою, пришедшее на замену огнестрельному дробовику. Оно наносит повреждения, сопоставимые с Лазерной винтовкой, но дает больший шанс стрельбы по реакции, обладает лучшей проникающей способностью и требует меньшего расхода ОД на выстрел. К сожалению, не смотря на то, что карабин обладает большей дальностью стрельбы, чем дробовик, он все равно гораздо менее точен на больших дистанциях, чем Лазерная винтовка.   Лазерный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.
+
+	Урон:                                    &lt;b&gt;90 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;20&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;6&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      38 Метк x 1 выстрел
+	- 40%% TU      70 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="270">
@@ -9201,7 +9221,16 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.laserpistol.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный пистолет:&lt;/b&gt;  Лазерный пистолет это оружие для одной руки, лучше всего подходящее для ближней дистанции. Оно наносит мало повреждений за попадание и имеет низкую проникающую способность, но требует всего несколько ОД на выстрел и дает бонус к стрельбе по реакции. Однако точность пистолета резко падает с увеличением дистанции. Относительно обычного баллистического пистолета лазерный более тяжелый, имеет большую емкость магазина, наносит существенно больше урона и обладает большей проникающей способностью.   Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.   Тип урона:                                                    Энергетический Эффективная дальность:                                    16 Урон:                                                                      30 Проникающая способность:                                 10 Емкость магазина:                                                9  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                                +80%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный пистолет:&lt;/b&gt;  Оружие для одной руки, лучше всего подходящее для ближней дистанции. Оно наносит мало повреждений за попадание и имеет низкую проникающую способность, но требует всего несколько ОД на выстрел и дает бонус к стрельбе по реакции. Однако точность пистолета резко падает с увеличением дистанции. Относительно обычного огнестрельного пистолета лазерный более тяжелый, имеет большую емкость магазина, наносит существенно больше урона и обладает большей проникающей способностью.   Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.
+
+	Урон:                                    &lt;b&gt;30 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;10&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;9&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="270">
@@ -9213,7 +9242,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.laserprecision.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерная снайперская винтовка:&lt;/b&gt;  Лазерная снайперская винтовка это оружие снайперов, способное надежно поражать цель с большого расстояния. Оно обладает большой проникающей способностью и наносит много урона при попадании, но каждый выстрел стоит много ОД и нет возможности вести стрельбу очередями. Так же снайперская винтовка считается тяжелым оружием, что означает, что стрелок будет получать штраф на меткость, если он стреляет после движения в том же ходу (вращение на месте не считаются движением). По сравнению с баллистической снайперской винтовкой лазерная имеет слегка большую эффективную дальность, наносит больше урона при более высокой проникающей способности, но при этом более тяжелая и емкость магазина меньше.  Лазерная снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но, к сожалению, это оружие имеет весьма ограниченное применение в ближнем бою.   Тип урона:                                                    Энергетический Эффективная дальность:                                    40 Урон:                                                                     75 Проникающая способность:                                30 Емкость магазина:                                               4  Режимы стрельбы:                                  Одиночными (4) Модификатор реакции:                                -20%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерная снайперская винтовка:&lt;/b&gt;  Оружие снайперов, способное надежно поражать цель с большого расстояния. Оно обладает большой проникающей способностью и наносит много урона при попадании, но каждый выстрел стоит много ОД и нет возможности вести стрельбу очередями. Так же снайперская винтовка считается тяжелым оружием, что означает, что стрелок будет получать штраф на меткость, если он стреляет после движения в том же ходу (вращение на месте не считаются движением). По сравнению с огнестрельное снайперской винтовкой лазерная имеет слегка большую эффективную дальность, наносит больше урона при более высокой проникающей способности, но при этом более тяжелая и емкость магазина меньше.  Лазерная снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но, к сожалению, это оружие имеет весьма ограниченное применение в ближнем бою.
+
+	Урон:                                    &lt;b&gt;75 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;40&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;30&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;4&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 38%% TU      60 Метк x 1 выстрел
+	- 49%% TU      105 Метк x 1 выстрел
+	- 65%% TU      165 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="255">
@@ -9225,7 +9264,18 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.laserrifle.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерная винтовка:&lt;/b&gt;  Лазерная винтовка - универсальное двуручное оружие, которое пригодиться в большинстве ситуаций на поле боя. Оно наносит средние повреждения при попадании и обладает весьма неплохой эффективной дальностью, но при этом проникающая способность так же средняя. Огонь может вестись как одиночными выстрелами, так и очередями. По сравнению с баллистической винтовкой лазерная более мощная, с большей эффективной дальностью, но тяжелее и с меньшей емкостью магазина.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.  Тип урона:                                                    Энергетический Эффективная дальность:                                    32 Урон:                                                                      45 Проникающая способность:                                15 Емкость магазина:                                                9 Режимы стрельбы:                                  Одиночными (3), очередями Модификатор реакции:                                +0%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерная винтовка:&lt;/b&gt;  Универсальное двуручное оружие, которое пригодиться в большинстве ситуаций на поле боя. Оно наносит средние повреждения при попадании и обладает весьма неплохой эффективной дальностью, но при этом проникающая способность так же средняя. Огонь может вестись как одиночными выстрелами, так и очередями. По сравнению с огнестрельной винтовкой лазерная более мощная, с большей эффективной дальностью, но тяжелее и с меньшей емкостью магазина.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.
+
+	Урон:                                    &lt;b&gt;45 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;15&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;9&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;Нет&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел
+	- 55%% TU      130 Метк x 1 выстрел
+	- 60%% TU      45 Метк x 3 выстрела</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9236,7 +9286,15 @@
    <Row ss:AutoFitHeight="0" ss:Height="225">
     <Cell><Data ss:Type="String">weapon.machinegun.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Пулемет:&lt;/b&gt;  Пулемет - двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выстреливает много пуль в каждой очереди. При этом, даже если очередь и не убьет цель, пулемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода). Но в то же время пулемет относительно неточен и не может стрелять одиночными выстрелами.   Пулемет считается тяжелым вооружением, что означает, что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65).  Тип урона:                                                    Кинетический Эффективная дальность:                                    32 Урон:                                                                      35 Проникающая способность:                                15 Емкость магазина:                                                50  Режимы стрельбы:                                   Очередями Модификатор реакции:                                -40%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Пулемет:&lt;/b&gt;  Двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выстреливает много пуль в каждой очереди. При этом, даже если очередь и не убьет цель, пулемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода). Но в то же время пулемет относительно неточен и не может стрелять одиночными выстрелами.   Пулемет считается тяжелым вооружением, что означает, что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65).
+
+	Урон:                                    &lt;b&gt;35 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;15&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;50&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 80%% TU      35 Метк x 10 выстрелов</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9284,8 +9342,16 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.pistol.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Баллистический пистолет:&lt;/b&gt;  Баллистический пистолет - оружие для одной руки, которое лучше всего использовать на ближней дистанции. Оно наносит слабый урон, обладает плохой проникающей способностью, но требует всего несколько ОД на выстрел и имеет бонус на стрельбу по реакции. Точность пистолета значительно падает с увеличением дистанции.  Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.   Тип урона:                                                    Кинетический Эффективная дальность:                                    16 Урон:                                                                      20 Проникающая способность:                                  5 Емкость магазина:                                                15  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                                +80%%</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Пистолет:&lt;/b&gt;  Оружие для одной руки, которое лучше всего использовать на ближней дистанции. Оно наносит слабый урон, обладает плохой проникающей способностью, но требует всего несколько ОД на выстрел и имеет бонус на стрельбу по реакции. Точность пистолета значительно падает с увеличением дистанции.  Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.
+
+	Урон:                                    &lt;b&gt;20 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;5&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;15&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.plasmacarbine</Data><NamedCell
@@ -9296,7 +9362,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.plasmacarbine.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменный карабин:&lt;/b&gt;  Плазменный карабин - мощное двуручное оружие подходящее для ближнего боя. Оно наносит тот же урон, что и плазменная винтовка, но обладает более высокой пронимающей способностью и большим шансом стрельбы по реакции, а так же требует меньше ОД на каждый выстрел. При этом менее точен и эффективная дальность у карабина значительно ниже.   Плазменный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.   Тип урона:                                                    Энергетический Эффективная дальность:                                    16 Урон:                                                                      135 Проникающая способность:                                25 Емкость магазина:                                                6  Режимы стрельбы:                                  Одиночными (2), очередью Модификатор реакции:                                +40%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменный карабин:&lt;/b&gt;  Мощное двуручное оружие подходящее для ближнего боя. Оно наносит тот же урон, что и плазменная винтовка, но обладает более высокой пронимающей способностью и большим шансом стрельбы по реакции, а так же требует меньше ОД на каждый выстрел. При этом менее точен и эффективная дальность у карабина значительно ниже.   Плазменный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.
+
+	Урон:                                    &lt;b&gt;135 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;25&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;6&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      38 Метк x 1 выстрел(x3)
+	- 40%% TU      70 Метк x 1 выстрел(x3)
+	</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9308,7 +9384,16 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.plasmacaster.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазмомет:&lt;/b&gt;  Плазмомет - тяжелое оружие, основанное на плазменной технологии. Оно способно наносить серьезный урон при попадании основной цели и дополнительный урон в небольшом радиусе взрыва. При этом у излучателя нет возможности вести огонь очередью и затраты ОД на каждый выстрел относительно велики. Поскольку это тяжелое оружие, стрелок получает штраф на меткость при стрельбе, если он передвигался в этот ход (вращение на месте не считается движением). Так же солдат должен обладать силой 70 и выше, чтобы использовать излучатель не получая штраф на меткость.   Лучше всего использовать Плазмомет для уничтожения сильных противников на большом расстоянии, так как он способен расправляться с любой целью.   Тип урона:                                                    Энергетический Эффективная дальность:                                    32 Урон:                                                                      80 Проникающая способность:                                60 Емкость магазина:                                               15  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                                -20%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазмомет:&lt;/b&gt;  Тяжелое оружие, основанное на плазменной технологии. Оно способно наносить серьезный урон при попадании основной цели и дополнительный урон в небольшом радиусе взрыва. При этом у излучателя нет возможности вести огонь очередью и затраты ОД на каждый выстрел относительно велики. Поскольку это тяжелое оружие, стрелок получает штраф на меткость при стрельбе, если он передвигался в этот ход (вращение на месте не считается движением). Так же солдат должен обладать силой 70 и выше, чтобы использовать излучатель не получая штраф на меткость. Лучше всего использовать Плазмомет для уничтожения сильных противников на большом расстоянии, так как он способен расправляться с любой целью.
+
+	Урон:                                    &lt;b&gt;80 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;60&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;15&lt;/b&gt;
+	Модификатор реакции:		 &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 80%% TU      35 Метк x 10 выстрелов
+	</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9320,7 +9405,16 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.plasmapistol.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменный пистолет:&lt;/b&gt;  Плазменный пистолет - оружие для одной руки, которое лучше всего использовать на ближней дистанции. Оно наносит слабый урон, обладает плохой проникающей способностью, но требует всего несколько ОД на выстрел и имеет бонус на стрельбу по реакции. Точность пистолета значительно падает с увеличением дистанции. По сравнению с лазерным пистолетом плазменный наносит больше повреждений и обладает большей проникающей способностью, но менее точный, более тяжелый и с менее емким магазином.  Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.    Тип урона:                                                    Энергетический Эффективная дальность:                                    16 Урон:                                                                      45 Проникающая способность:                                  12 Емкость магазина:                                                9  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                                +80%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменный пистолет:&lt;/b&gt;  Оружие для одной руки, которое лучше всего использовать на ближней дистанции. Оно наносит слабый урон, обладает плохой проникающей способностью, но требует всего несколько ОД на выстрел и имеет бонус на стрельбу по реакции. Точность пистолета значительно падает с увеличением дистанции. По сравнению с лазерным пистолетом плазменный наносит больше повреждений и обладает большей проникающей способностью, но менее точный, более тяжелый и с менее емким магазином.  Так как это оружие для одной руки, его лучше всего давать солдатам, которым нужна вторая рука для чего-то еще, например, для штурмового щита или гранаты. Использование гранаты в слоте быстрой гранаты так же стоит меньше ОД при наличии пустой руки.
+
+	Урон:                                    &lt;b&gt;45 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;12&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;9&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9332,7 +9426,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="255">
     <Cell><Data ss:Type="String">weapon.plasmaprecision.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная снайперская винтовка:&lt;/b&gt;  Плазменная снайперская винтовка - двуручное снайперское оружие, способное эффективно поражать цели на большом расстоянии. Оно наносит серьезные повреждения и имеет высокую проникающую способность, но затраты ОД на каждый выстрел относительно высоки и нет возможности вести огонь очередями. Так же снайперская винтовка относится к тяжелому оружию, а это означает что боец, стреляющий после движения в течении того же хода, получает штраф на меткость (вращение на одном месте движением не считается). По сравнению с лазерной снайперской винтовкой плазменная наносит больше урона, имеет более высокую проникающую способность, но менее точна и емкость магазина меньше.   Плазменная снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но к сожалению это оружие имеет весьма ограниченное применение в ближнем бою.   Тип урона:                                                    Энергетический Эффективная дальность:                                     40 Урон:                                                                      113 Проникающая способность:                                 35 Емкость магазина:                                                  4  Режимы стрельбы:                                  Одиночными (4) Модификатор реакции:                                -20%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная снайперская винтовка:&lt;/b&gt;  Двуручное снайперское оружие, способное эффективно поражать цели на большом расстоянии. Оно наносит серьезные повреждения и имеет высокую проникающую способность, но затраты ОД на каждый выстрел относительно высоки и нет возможности вести огонь очередями. Так же снайперская винтовка относится к тяжелому оружию, а это означает что боец, стреляющий после движения в течении того же хода, получает штраф на меткость (вращение на одном месте движением не считается). По сравнению с лазерной снайперской винтовкой плазменная наносит больше урона, имеет более высокую проникающую способность, но менее точна и емкость магазина меньше.   Плазменная снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но к сожалению это оружие имеет весьма ограниченное применение в ближнем бою.
+
+	Урон:                                    &lt;b&gt;113 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;40&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;35&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;4&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 38%% TU      60 Метк  x 1 выстрел
+	- 49%% TU      105 Метк x 1 выстрел
+	- 65%% TU      165 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9344,7 +9448,18 @@
    <Row ss:AutoFitHeight="0" ss:Height="270">
     <Cell><Data ss:Type="String">weapon.plasmarifle.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная винтовка:&lt;/b&gt;  Плазменная винтовка - универсальное двуручное плазменное оружие, подходящее для любой ситуации на поле боя. Оно наносит средний урон и обладает хорошей точностью даже на большой дистанции, но при этом проникающая способность тоже средняя (относительно остального плазменного оружия). Огонь можно вести как одиночными выстрелами, так и очередями.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.  Тип урона:                                                    Энергетический Эффективная дальность:                                    32 Урон:                                                                     70 Проникающая способность:                                25 Емкость магазина:                                               9  Режимы стрельбы:                                  Одиночными (3), очередями Модификатор реакции:                                +0%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная винтовка:&lt;/b&gt;  Универсальное двуручное плазменное оружие, подходящее для любой ситуации на поле боя. Оно наносит средний урон и обладает хорошей точностью даже на большой дистанции, но при этом проникающая способность тоже средняя (относительно остального плазменного оружия). Огонь можно вести как одиночными выстрелами, так и очередями.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.
+
+	Урон:                                    &lt;b&gt;70 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;25&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;9&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;Нет&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел
+	- 55%% TU      130 Метк x 1 выстрел
+	- 60%% TU      45 Метк x 3 выстрела</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9362,7 +9477,18 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rifle.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Штурмовая винтовка:&lt;/b&gt;  Штурмовая винтовка - универсальное двуручное оружие, подходящее для любой ситуации на поле боя. Оно наносит средний урон и обладает хорошей точностью даже на большой дистанции, но при этом проникающая способность тоже средняя. Огонь можно вести как одиночными выстрелами, так и очередями.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.  Тип урона:                                                    Кинетический Эффективная дальность:                                    32 Урон:                                                                      30 Проникающая способность:                                10 Емкость магазина:                                                20  Режимы стрельбы:                                  Одиночными (3), очередями Модификатор реакции:                                +0%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Штурмовая винтовка:&lt;/b&gt;  Универсальное двуручное оружие, подходящее для любой ситуации на поле боя. Оно наносит средний урон и обладает хорошей точностью даже на большой дистанции, но при этом проникающая способность тоже средняя. Огонь можно вести как одиночными выстрелами, так и очередями.   Солдаты с винтовками должны составлять основу всех ударных групп (при поддержке солдат со специализированным вооружением), так как это наиболее универсальное оружие.
+
+	Урон:                                    &lt;b&gt;30 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;10&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;20&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;Нет&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел
+	- 55%% TU      130 Метк x 1 выстрел
+	- 60%% TU      45 Метк x 3 выстрела</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9386,7 +9512,11 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocket.frag.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Осколочно-фугасная ракета:&lt;/b&gt;  Осколочная ракета предназначена для борьбы с пехотой противника. Основной ее поражающий фактор - шрапнель, разлетающаяся в разные стороны на большой скорости от места взрыва. Шрапнель практически не обладает проникающей способностью, но может убить или ранить нескольких противников, которым не посчастливилось оказаться недалеко от места попадания ракеты. Так же эта ракета может причинять значительные повреждения зданиям.   Тип урона:                                                     Кинетический Урон:                                                                       90 Проникающая способность:                        0 Радиус взрыва:                                              4 тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Осколочно-фугасная ракета:&lt;/b&gt;  Эта ракета предназначена для борьбы с пехотой противника. Основной ее поражающий фактор - шрапнель, разлетающаяся в разные стороны на большой скорости от места взрыва. Шрапнель практически не обладает проникающей способностью, но может убить или ранить нескольких противников, которым не посчастливилось оказаться недалеко от места попадания ракеты. Так же эта ракета может причинять значительные повреждения зданиям.
+
+	Урон:                                    &lt;b&gt;90 Кинетический&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9428,7 +9558,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocketlauncher.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Ракетная пусковая установка:&lt;/b&gt;  Ракетная пусковая установка это тяжелое двуручное оружие, роль которого зависит от заряженного боеприпаса. Большой выбор ракет доступен на вкладке 'Снаряжение' и еще больше будет открыто посредством изучения технологий пришельцев. Однако все они в основном делятся на две категории: противопехотная, наносящая урон в большом радиусе, и противотанковая, наносящая огромный урон по одной цели, но без взрыва. Новая ракета должна быть загружена в пусковую установку после каждого выстрела.   Пусковая установка считается тяжелым вооружением, так что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Кроме этого солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65).  Тип урона:                                                             Нет Эффективная дальность:                                     40 Урон:                                                                      Нет Проникающая способность:                                 Нет Емкость магазина:                                                  1  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                               -50%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Ракетная пусковая установка:&lt;/b&gt;  Тяжелое двуручное оружие, роль которого зависит от заряженного боеприпаса. Большой выбор ракет доступен на вкладке 'Снаряжение' и еще больше будет открыто посредством изучения технологий пришельцев. Однако все они в основном делятся на две категории: противопехотная, наносящая урон в большом радиусе, и противотанковая, наносящая огромный урон по одной цели, но без взрыва. Новая ракета должна быть загружена в пусковую установку после каждого выстрела.   Пусковая установка считается тяжелым вооружением, так что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Кроме этого солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65).
+	
+	Урон:                                    &lt;b&gt;Нет&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;40&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;Нет&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;1&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-100%% (Нет стрельбы по реакции)&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 50%% TU      75 Метк x 1 выстрел
+	- 80%% TU      100 Метк x 1 выстрел
+	</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9439,7 +9579,15 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.scatterlaser.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лучемет:&lt;/b&gt;  Лучемет - двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выстреливает много зарядов в каждой очереди. При этом даже если очередь и не убьет противника, лучемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода. Но в то же время он относительно неточен и не может стрелять одиночными выстрелами.   Лучемет считается тяжелым вооружением, так что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость  (этот штраф тем меньше, чем ближе сила солдата к 65).  Тип урона:                                                    Энергетический Эффективная дальность:                                   32 Урон:                                                                     53 Проникающая способность:                                20 Емкость магазина:                                               15  Режимы стрельбы:                                   Очередями Модификатор реакции:                                -40%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лучемет:&lt;/b&gt;  Двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выстреливает много зарядов в каждой очереди. При этом даже если очередь и не убьет противника, лучемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода. Но в то же время он относительно неточен и не может стрелять одиночными выстрелами.   Лучемет считается тяжелым вооружением, так что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость (этот штраф тем меньше, чем ближе сила солдата к 65).
+	
+	Урон:                                    &lt;b&gt;53 Энергетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;32&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;20&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;15&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 80%% TU      35 Метк x 10 выстрелов</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9451,7 +9599,16 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.shotgun.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Дробовик:&lt;/b&gt;  Дробовик мощное двуручное оружие ближнего боя. Оно наносит очень много урона за один выстрел, обладает хорошей проникающей способностью и каждый выстрел стоит меньше ОД, чем выстрел из винтовки. Но попасть из него, кроме как на ближней дистанции, практически невозможно, а так же огонь можно вести только одиночными выстрелами.   Дробовик хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный им на открытой местности весьма ограничен в своих возможностях.   Тип урона:                                                    Кинетический Эффективная дальность:                                     16 Урон:                                                                      60 Проникающая способность:                                 20 Емкость магазина:                                                8  Режимы стрельбы:                                  Одиночными (2) Модификатор реакции:                                +40%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Дробовик:&lt;/b&gt;  Мощное двуручное оружие ближнего боя. Оно наносит очень много урона за один выстрел, обладает хорошей проникающей способностью и каждый выстрел стоит меньше ОД, чем выстрел из винтовки. Но попасть из него, кроме как на ближней дистанции, практически невозможно, а так же огонь можно вести только одиночными выстрелами.   Дробовик хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный им на открытой местности весьма ограничен в своих возможностях.
+	
+	Урон:                                    &lt;b&gt;60 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;20&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;8&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      38 Метк x 1 выстрел(x3)
+	- 40%% TU      70 Метк x 1 выстрел(x3)</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9463,7 +9620,14 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.sniper.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Снайперская винтовка:&lt;/b&gt;  Снайперская винтовка это оружие снайперов, способное надежно поражать цель с большого расстояния. Оно обладает большой проникающей способностью и наносит много урона при попадании, но каждый выстрел стоит много ОД и нет возможности вести стрельбу очередями. Так же снайперская винтовка считается тяжелым оружием, что означает, что стрелок будет получать штраф на меткость, если он стреляет после движения в том же ходу (вращение на месте не считаются движением).  Снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но к сожалению это оружие имеет весьма ограниченное применение в ближнем бою.   Тип урона:                                                    Кинетический Эффективная дальность:                                    40 Урон:                                                                     50 Проникающая способность:                                25 Емкость магазина:                                               10  Режимы стрельбы:                                  Одиночными (4) Модификатор реакции:                                -20%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Снайперская винтовка:&lt;/b&gt;  Оружие, способное надежно поражать цель с большого расстояния. Оно обладает большой проникающей способностью и наносит много урона при попадании, но каждый выстрел стоит много ОД и нет возможности вести стрельбу очередями. Так же снайперская винтовка считается тяжелым оружием, что означает, что стрелок будет получать штраф на меткость, если он стреляет после движения в том же ходу (вращение на месте не считаются движением).  Снайперская винтовка удобный инструмент для атаки врагов на большой дистанции в относительной безопасности. Высокая проникающая способность позволяет быстро нейтрализовывать бронированные цели противника, но к сожалению это оружие имеет весьма ограниченное применение в ближнем бою.
+	
+	Урон:                                    &lt;b&gt;50 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;40&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;25&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;10&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;                  Одиночными (4)
+	Модификатор реакции:        -50%%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9503,7 +9667,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WorkshopHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Интерфейс управления мастерскими</Data><NamedCell
+    <Cell><Data ss:Type="String">Интерфейс управления производством</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9647,25 +9811,25 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">X-120 Fury</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">X-120 Фурия</Data><NamedCell
+    <Cell><Data ss:Type="String">X-120 'Фурия'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">X-37 Corsair</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">X-37 Корсар</Data><NamedCell
+    <Cell><Data ss:Type="String">X-37 'Корсар'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">X-44 Saracen</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">X-44 Сарацин</Data><NamedCell
+    <Cell><Data ss:Type="String">X-44 'Сарацин'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">X-59 Marauder</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">X-59 Мародер</Data><NamedCell
+    <Cell><Data ss:Type="String">X-59 'Мародер'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9677,7 +9841,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">XenopediaHeaderDesc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Интерфейс управления информацией</Data><NamedCell
+    <Cell><Data ss:Type="String">Информационный интерфейс</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11410,7 +11574,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.explosive.plasma.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменный заряд:&lt;/b&gt;  Плазменный заряд это контейнер со сверх разогретой плазмой, снабщенный часовым механизмом для подрыва. Его главная задача на поле боя - уничтожение стен, дверей и других структур. </Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;Плазменный заряд:&lt;/b&gt;  Контейнер со сверхразогретой плазмой, снабщенный часовым механизмом для подрыва. Его главная задача на поле боя - уничтожение стен, дверей и других структур. </Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11434,7 +11598,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SEQ.ROLEBOX</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Роль солдата</Data><NamedCell
+    <Cell><Data ss:Type="String">Роль бойца</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11576,13 +11740,21 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.combatshield.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Боевой щит:&lt;/b&gt;  Боевой щит разработан для защиты от плазменного оружия пришельцев. Щит поглощает повреждения до тех пор, пока не будет уничтожен. Лобовые атаки под углом 90 градусов будут отражены автоматически, но атаки с боку щит может не отразить.  Прочность:                                                            80 Шанс блока спереди:                                           100%% Шанс блока сбоку:                                             60%% Шанс блока сзади:                                             0%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Боевой щит:&lt;/b&gt;  Этот щит разработан для защиты от плазменного оружия пришельцев. Щит поглощает повреждения до тех пор, пока не будет уничтожен. Лобовые атаки под углом 90 градусов будут отражены автоматически, но атаки с боку щит может не отразить.
+	Прочность:               80
+	Шанс блока спереди:      100%%
+	Шанс блока сбоку:        60%%
+	Шанс блока сзади:        0%%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Штурмовой щит:&lt;/b&gt;   Штурмовой щит разработан для защиты от плазменного оружия пришельцев. Щит поглощает повреждения до тех пор, пока не будет уничтожен. Лобовые атаки под углом 90 градусов будут отражены автоматически, но атаки с боку щит может не отразить.  Прочность:                                                            80 Шанс блока спереди:                                           100%% Шанс блока сбоку:                                             60%% Шанс блока сзади:                                             0%%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;Штурмовой щит:&lt;/b&gt;   Этот щит разработан для защиты от плазменного оружия пришельцев. Щит поглощает повреждения до тех пор, пока не будет уничтожен. Лобовые атаки под углом 90 градусов будут отражены автоматически, но атаки с боку щит может не отразить.
+	Прочность:               80
+	Шанс блока спереди:      100%%
+	Шанс блока сбоку:        60%%
+	Шанс блока сзади:        0%%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -11720,97 +11892,198 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.MAGpistol.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГ Пистолет:&lt;/b&gt;  Пистолеты - одноручное оружие с такой же стоимостью выстрела и уроном, что и у винтовки, но с меньшей дальностью стрельбы и только одиночными выстрелами. Может использоваться как вспомогательное оружие, так и оружия для тех, у кого свободна одна рука. (например несущий щит боец).  1.5x модификатор реакции полезен для разведчиков - повышена вероятность выстрелить первым при обнаружении противника.  Дальность:                                                    10 Урон:                                                 105 Кинетический Подавление:                                           20 очков Пробивное действие:                                                0 Емкость магазина:                                     15 патронов Модификатор реакции:                                   1.5x  Режим стрельбы: - 28%% ОД                                                45 Метк x 1 выстрел - 40%% TU                                                 80 метк x 1 выстрел</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;МАГ пистолет:&lt;/b&gt;  Пистолеты - одноручное оружие с такой же стоимостью выстрела и уроном, что и у винтовки, но с меньшей дальностью стрельбы и только одиночными выстрелами. Может использоваться как вспомогательное оружие, так и оружия для тех, у кого свободна одна рука. (например несущий щит боец).  1.5x модификатор реакции полезен для разведчиков - повышена вероятность выстрелить первым при обнаружении противника.
+	
+	Урон:                                    &lt;b&gt;105 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;10&lt;/b&gt;
+	Подавление:                           &lt;b&gt;20 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;15 патронов&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% ОД      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.MAGcarbine.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГ Карабин:&lt;/b&gt;  Карабин выпускает три пули за выстрел, что дает очень высокий потенциальный урон. Однако эффективность сильно зависит от дальности выстрела. Это делает карабин мощным штурмовым оружием ограниченного действия.  1.5x модификатор реакции полезен для разведчиков - повышена вероятность выстрелить первым при обнаружении противника.  Дальность:                                                    8 Тип урона:                                                 85 Кинетический (3 пули) Подавление:                                           50 очков Пробивное действие:                                                0 Емкость магазина:                                     8 shots Модификатор реакции:                                   1.5x  Режим стрельбы: - 28%% ОД                                                 38 Метк x 1 shot - 40%% ОД                                                 70 Метк x 1 выстрел</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;МАГ карабин:&lt;/b&gt;  Карабин выпускает три пули за выстрел, что дает очень высокий потенциальный урон. Однако эффективность сильно зависит от дальности выстрела. Это делает карабин мощным штурмовым оружием ограниченного действия.  1.5x модификатор реакции полезен для разведчиков - повышена вероятность выстрелить первым при обнаружении противника.
+	
+	Урон:                                    &lt;b&gt;85 Кинетический (3 пули)&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;8&lt;/b&gt;
+	Подавление:                           &lt;b&gt;50 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;8 патронов&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;+50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% ОД      38 Метк x 1 выстрел
+	- 40%% ОД      70 Метк x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.MAGrifle.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГ Винтовка:&lt;/b&gt;  Винтовка - универсальное оружие с средним уроном. Она эффективна при одиночной стрельбе, но так же может стрелять очередью для подавления врага или причинения высокого урона вблизи. Это делает винтовку надежным оружием в любой ситуации.  Range:                                                    30 Damage:                                                 105 Kinetic Suppression:                                           20 Single / 60 Burst Mitigation:                                                0 Ammo Capacity:                                     20 shots Reaction Modifier:                                   1x  Fire Modes: - 28%% TU                                                 45 Acc x 1 shot - 40%% TU                                                 80 Acc x 1 shot - 55%% TU                                                 130 Acc x 1 shot  - 60%% TU                                                 45 Acc x 3 shots</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;МАГ винтовка:&lt;/b&gt;  Винтовка - универсальное оружие с средним уроном. Она эффективна при одиночной стрельбе, но так же может стрелять очередью для подавления врага или причинения высокого урона вблизи. Это делает винтовку надежным оружием в любой ситуации.
+	
+	Урон:                                    &lt;b&gt;105 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;30&lt;/b&gt;
+	Подавление:             20 Одиночный / 60 Очередь
+	Пробивное действие:     0
+	Емкость магазина:	    20 патронов
+	Модификатор реакции:    Нет
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 28%% TU      45 Метк x 1 выстрел
+	- 40%% TU      80 Метк x 1 выстрел
+	- 55%% TU      130 Метк x 1 выстрел
+	- 60%% TU      45 Метк x 3 выстрела</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.MAGprecision.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГ Снайп. Винтовка:&lt;/b&gt;  Снайперское оружие более точное по сравнению с винтовками и наносит больше урона, что делает их отличным оружием для дальней дистанции. Бробивная способность позволяет стрелять по бронированым целям (например по роботам).  Тем не менее, каждый выстрел стоит больше ОД, чем у винтовок и оружия, стреляющего очередями. При стрельбе с близкой дистанции отсутствует бонус меткости и появляется отрицательный модификатор на стрельбу по реакции, что не позволяет использовать снайперское оружие при штурме.  Range:                                                    30 Damage:                                                 120 Kinetic Suppression:                                           25 Suppression Mitigation:                                                35 Ammo Capacity:                                     6 shots Reaction Modifier:                                   0.5x  Fire Modes: - 38%% TU                                                  60 Acc  x 1 shot - 49%% TU                                                 105 Acc x 1 shot - 65%% TU                                                 165 Acc x 1 shot</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;МАГ снайпер-винтовка:&lt;/b&gt;  Снайперское оружие более точное по сравнению с винтовками и наносит больше урона, что делает их отличным оружием для дальней дистанции. Бробивная способность позволяет стрелять по бронированым целям (например по роботам).  Тем не менее, каждый выстрел стоит больше ОД, чем у винтовок и оружия, стреляющего очередями. При стрельбе с близкой дистанции отсутствует бонус меткости и появляется отрицательный модификатор на стрельбу по реакции, что не позволяет использовать снайперское оружие при штурме.
+	
+	Урон:                                    &lt;b&gt;120 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;30&lt;/b&gt;
+	Подавление:                           &lt;b&gt;25 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;35&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;6 патронов&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 38%% TU      60 Acc x 1 выстрел
+	- 49%% TU      105 Acc x 1 выстрел
+	- 65%% TU      165 Acc x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.magstorm.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГШТОРМ:&lt;/b&gt;  Пулемет - двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выпускает много пуль за очередь. При этом, даже если очередь и не убьет цель, пулемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода). Но в то же время пулемет относительно неточен и не может стрелять одиночными выстрелами.   Пулемет считается тяжелым вооружением, что означает, что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65)   Range:                                                    25 Damage:                                                 105 Kinetic Suppression:                                           120 Burst Mitigation:                                               18 Ammo Capacity:                                     30 shots Reaction Modifier:                                   0.5x Recoil:                                                     70 Recoil  Fire Modes: - 80%% TU                                                35 Acc x 10 shots</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;МАГШТОРМ:&lt;/b&gt;  Двуручное оружие, используемое для подавления и уничтожения пехоты противника. Оно обладает высокой убойной силой и проникающей способностью, хорошо показывает себя на больших дистанциях и выпускает много пуль за очередь. При этом, даже если очередь и не убьет цель, пулемет хорошо подавляет противника (что в свою очередь не дает врагу стрелять по реакции и уменьшает его ОД во время следующего хода). Но в то же время пулемет относительно неточен и не может стрелять одиночными выстрелами.   Пулемет считается тяжелым вооружением, что означает, что стрелок будет получать штраф на меткость, если стреляет после перемещения в тот же ход. Так же солдат должен обладать силой 65 и выше, чтобы не получать штраф на меткость из-за сильной отдачи (этот штраф тем меньше, чем ближе сила солдата к 65)
+	
+	Урон:                                    &lt;b&gt;105 Кинетический&lt;/b&gt;
+	Эффективная дальность:     &lt;b&gt;25&lt;/b&gt;
+	Подавление:                           &lt;b&gt;120 Очередью&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;18&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;30 патронов&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	Отдача:                  70
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 80%% TU      35 Метк x 10 выстрелов</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.particlebeam.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Орудие сингулярности:&lt;/b&gt;  Орудие сингулярности is a heavy weapon that can only be used by Predator-armed soldiers (those without will not have sufficient TU to fire it). It functions much like an exceptionally powerful Rocket Launcher - so ensure none of your soldiers are in the blast area when pull the trigger!  Range:                                                    35 Damage:                                                500 Energy, 5 radius Suppression:                                           80 Suppression Mitigation:                                                100 Ammo Capacity:                                     1 shots Reaction Modifier:                                   0.5x  Fire Modes: - 120%% TU                                                 100 Acc  x 1 shot</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Орудие сингулярности:&lt;/b&gt;  Тяжелое оружие, которое может быть использовано только бойцами в экипировке 'Хищник' (у остальных просто не хватит TU для стрельбы). Его можно описать как очень мощный гранатомет, поэтому прежде чем спускать крючок, убедитесь, что никого из ваших бойцов нет в зоне поражения.
+	
+	Урон:                                     500 Энергетический, радиус 5
+	Эффективная дальность:     &lt;b&gt;35&lt;/b&gt;
+	Подавление:                           &lt;b&gt;80 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;100&lt;/b&gt;
+	Емкость магазина:               &lt;b&gt;1 патрон&lt;/b&gt;
+	Модификатор реакции:        &lt;b&gt;-50%%&lt;/b&gt;
+	&lt;b&gt;Режимы стрельбы:&lt;/b&gt;
+	- 120%% TU     100 Метк  x 1 выстрел</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocket.alenium.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Элениум-ракета:&lt;/b&gt;  Элениум-ракета - ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню,  но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.   Damage Type:                                                    75 Incendiary (4x damage against terrain) Suppression:                                                      60 Suppression Armour Mitigation:                                              0 Blast Radius:                                                      4 Tiles</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Элениум-ракета:&lt;/b&gt;  Ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню, но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.
+	
+	Урон:                                     75 Зажигательный (4x урон ландшафту)
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocket.plasma.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная ракета:&lt;/b&gt;  Плазменная ракета - ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню,  но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.   Damage Type:                                                    115 Incendiary (4x damage against terrain) Suppression:                                                      60 Suppression Armour Mitigation:                                              0 Blast Radius:                                                      4 Tiles</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная ракета:&lt;/b&gt;  Ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню, но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.
+	
+	Урон:                                     115 Зажигательный (4x урон ландшафту)
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocket.fusion.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Термоядерная ракета:&lt;/b&gt;  Термоядерная ракета - ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню,  но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.  Тип урона:                                                    170 Зажигательный (4x урон против строений) Подавление:                                                      60 Suppression Armour Mitigation:                                              0 Blast Radius:                                                      4 Tiles</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Термоядерная ракета:&lt;/b&gt;  Ракета осколочно-фугасного действия, которая наносит четырехкратный урон укреплениям и строениям с разлетом осколков. Эти осколки не смогут пробить броню, но смогут убить или ранить одного или нескольких противников, если они будут стоять близко друг к другу.
+	
+	Урон:                                     170 Зажигательный (4x урон ландшафту)
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.rocket.stun.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Stun Rocket:&lt;/b&gt;  Парализующая ракета - один из способов доставки специального газа на дальние расстояния.  Газ оглушает любое существо в пределах радиуса действия каждый ход - некоторые пришельцы (в основном использующие шлем) частично или полностью защищены от этого эффекта.  Тип урона:                                                   40 Оглушение (per turn) Радиус поражения:                                                      4 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Парализующая ракетаt:&lt;/b&gt;  Один из способов доставки специального газа на дальние расстояния.  Газ оглушает любое существо в пределах радиуса действия каждый ход - некоторые пришельцы (в основном использующие шлем) частично или полностью защищены от этого эффекта.
+
+	Урон:                                    &lt;b&gt;40 Оглушение (в ход)&lt;/b&gt;
+	Радиус поражения:               4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Усовершенствованная аптечка:&lt;/b&gt;  Аптечка это предмет, который можно использовать, чтобы лечить раненых солдат на боле боя, излечивая 1ОЗ за каждое потраченное ОД. Однако в бою можно излечить только половину ОЗ (остальное будет восстановлено на базе).  Солдаты часто получают кровотечения, которые наносят дополнительный урон в 2ОЗ. Использование аптечки останавливает кровотечения.</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;b&gt;Усовершенствованная аптечка:&lt;/b&gt;  Этот предмет можно использовать, чтобы лечить раненых солдат на боле боя, излечивая 1 ОЗ за каждое потраченное ОД. Однако в бою можно излечить только половину ОЗ (остальное будет восстановлено на базе). Солдаты часто получают кровотечения, которые наносят дополнительный урон в 2 ОЗ. Использование аптечки останавливает кровотечения.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Парализующая граната:&lt;/b&gt;  Оглушающие заряды - один из способов доставки специального газа на короткие расстояния.  Газ оглушает любое существо в пределах радиуса действия каждый ход - некоторые пришельцы (в основном использующие шлем) частично или полностью защищены от этого эффекта.  Тип урона:                                                   40 Оглушающий (за ход) Радиус поражения:                                                         3 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Парализующая граната:&lt;/b&gt;  Такие заряды - один из способов доставки специального газа на короткие расстояния.  Газ оглушает любое существо в пределах радиуса действия каждый ход - некоторые пришельцы (в основном использующие шлем) частично или полностью защищены от этого эффекта.
+
+	Урон:                                    &lt;b&gt;40 Оглушающий (в ход)&lt;/b&gt;
+	Радиус поражения:               3</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.shock.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Электрошоковая граната:&lt;/b&gt;  Электрошоковая граната производит мощный электрический импульс, который оглушает биологических существ и наносит ЭМ урон механическим существам.  Тип урона:                                                                 50 Оглушение / 115 ЭМИ Подавление:                                                          60 очков Пробивная способность:                                                   0 Радиус поражения:                                                           2 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Электрошоковая граната:&lt;/b&gt;  Производит мощный электрический импульс, который оглушает биологических существ и наносит ЭМ урон механическим существам.
+
+	Урон:                                     50 Оглушение / 115 ЭМИ
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Пробивная способность:   0
+	Радиус поражения:               2</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.alenium.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Элениум-граната:&lt;/b&gt;  Осколочная граната - это противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                                 75  Кинетический Подавление:                                                           60 очков Пробивное действие:                                                   0 Радиус поражения:                                                           1.5 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Элениум-граната:&lt;/b&gt; Противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+
+	Урон:                                    &lt;b&gt;75 Кинетический&lt;/b&gt;
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               1.5</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.plasma.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная граната:&lt;/b&gt;  Осколочная граната - это противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                                 115 Плазменный Подавление:                                                           60 очков Пробивное действие:                                                   0 Радиус поражения:                                                           2 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Плазменная граната:&lt;/b&gt;  Противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+
+	Урон:                                    &lt;b&gt;115 Плазменный&lt;/b&gt;
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               2</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.fusion.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Термоядерная граната:&lt;/b&gt;  Осколочная граната - это противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).  Тип урона:                                                                 160  Кинетический Подавление:                                                           60 очков Пробивное действие:                                                   0 Радиус поражения:                                                           2 Тайла</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Термоядерная граната:&lt;/b&gt;  Противопехотная граната, которая наносит повреждения в небольшом радиусе от места взрыва. Хороша против плотных скоплений сил противника, а также может быть переброшена через укрытия, чтобы ранить врага, укрывшегося за ним.   Гранаты можно бросать из рук или из рюкзака, используя слот Быстрой гранаты в боевом пользовательском интерфейсе (это будет стоить больше ОД, чем если бы граната уже была в руке солдата, и еще больше, если обе руки солдата заняты).
+
+	Урон:                                    &lt;b&gt;160  Кинетический&lt;/b&gt;
+	Подавление:                           &lt;b&gt;60 очков&lt;/b&gt;
+	Проникающая способность: &lt;b&gt;0&lt;/b&gt;
+	Радиус поражения:               2</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
