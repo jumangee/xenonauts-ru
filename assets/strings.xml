@@ -838,49 +838,49 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.chinook</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Чарли</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">CH-48 'Чарли'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.corsair</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Корсар</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">X-37 'Корсар'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.f17</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Кондор</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">F-17 'Кондор'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.fury</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Фурия</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">X-120 'Фурия'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.marauder</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Мародер</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">X-59 'Мародер'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.mig31</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Фокстрот</Data><NamedCell
+    <Cell><Data ss:Type="String">Миг-32 'Фокстрот'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.saracen</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Сарацин</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">X-44 'Сарацин'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.shrike</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Сорокопут</Data><NamedCell
+    <Cell><Data ss:Type="String">D-42 'Сорокопут'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">airplane.human.valkyrie</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Валькирия</Data><NamedCell
+    <Cell><Data ss:Type="String">D-54 'Валькирия'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1210,7 +1210,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AV.SCATTERLASER</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Лазер Гатлинга</Data><NamedCell
+    <Cell><Data ss:Type="String">Лазерная пушка</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s66"><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
@@ -5184,7 +5184,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Corsair</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">'Корсар'</Data><NamedCell
+    <Cell><Data ss:Type="String">X-37 'Корсар'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5439,7 +5439,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Saracen</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">'Сарацин'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">X-44 'Сарацин'</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Scatterlaser</Data><NamedCell
@@ -5467,7 +5467,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Shrike</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">'Сорокопут'</Data><NamedCell
+    <Cell><Data ss:Type="String">D-42 'Сорокопут'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -5485,7 +5485,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ManTech.Valkyrie</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">'Валькирия'</Data><NamedCell
+    <Cell><Data ss:Type="String">X-120 'Валькирия'</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -9200,7 +9200,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.lasercarbine.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный карабин:&lt;/b&gt;  Лазерный карабин это мощное двуручное оружие полезное в ближнем бою, пришедшее на замену огнестрельному дробовику. Оно наносит повреждения, сопоставимые с Лазерной винтовкой, но дает больший шанс стрельбы по реакции, обладает лучшей проникающей способностью и требует меньшего расхода ОД на выстрел. К сожалению, не смотря на то, что карабин обладает большей дальностью стрельбы, чем дробовик, он все равно гораздо менее точен на больших дистанциях, чем Лазерная винтовка.   Лазерный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Лазерный карабин:&lt;/b&gt;  Лазерный карабин это мощное двуручное оружие полезное в ближнем бою, пришедшее на замену огнестрельному дробовику. Оно наносит повреждения, сопоставимые с Лазерной винтовкой, но дает больший шанс стрельбы по реакции, обладает лучшей проникающей способностью и требует меньшего расхода ОД на выстрел. К сожалению, не смотря на то, что карабин обладает большей дальностью стрельбы, чем дробовик, он все равно гораздо менее точен на больших дистанциях, чем лазерная винтовка.   Лазерный карабин хорошее оружие прорыва, полезное в закрытых помещениях зданий или интерьере НЛО. Однако боец вооруженный карабином на открытой местности весьма ограничен в своих возможностях.
 
 	Урон:                                    &lt;b&gt;90 Энергетический&lt;/b&gt;
 	Эффективная дальность:     &lt;b&gt;16&lt;/b&gt;
