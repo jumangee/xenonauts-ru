@@ -6,528 +6,583 @@
     <Ethnicity name="nor" count="20" />
 	
 	
-		  <Nation name="Венгрия" chance="2">
+		  <Nation name="Hungarian" chance="2">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 		
-		<FirstName>	Адоян	</FirstName>
-		<FirstName>	Агостон	</FirstName>
-		<FirstName>	Альберт	</FirstName>
-		<FirstName>	Амбрус	</FirstName>
-		<FirstName>	Андор	</FirstName>
-		<FirstName>	Арпад	</FirstName>
-		<FirstName>	Бела	</FirstName>
-		<FirstName>	Бенчи	</FirstName>
-		<FirstName>	Боди	</FirstName>
-		<FirstName>	Эндре	</FirstName>
-		<FirstName>	Эрвин	</FirstName>
-		<FirstName>	Ференц	</FirstName>
-		<FirstName>	Ферко	</FirstName>
-		<FirstName>	Фредек	</FirstName>
-		<FirstName>	Фулоп	</FirstName>
-		<FirstName>	Габор	</FirstName>
-		<FirstName>	Гажи	</FirstName>
-		<FirstName>	Герго	</FirstName>
-		<FirstName>	Гьяла	</FirstName>
-		<FirstName>	Гюркан	</FirstName>
-		<FirstName>	Гюзи	</FirstName>
-		<FirstName>	Имре	</FirstName>
-		<FirstName>	Истван	</FirstName>
-		<FirstName>	Ижак	</FirstName>
-		<FirstName>	Ханос	</FirstName>
-		<FirstName>	Женци	</FirstName>
-		<FirstName>	Жоска	</FirstName>
-		<FirstName>	Йожеф	</FirstName>
-		<FirstName>	Жоззи	</FirstName>
-		<FirstName>	Келемен	</FirstName>
-		<FirstName>	Келлман	</FirstName>
-		<FirstName>	Кристоф	</FirstName>
-		<FirstName>	Ласзло	</FirstName>
-		<FirstName>	Лорант	</FirstName>
-		<FirstName>	Лоринц	</FirstName>
-		<FirstName>	Лукач	</FirstName>
-		<FirstName>	Марго	</FirstName>
-		<FirstName>	Маркос	</FirstName>
-		<FirstName>	Маркус	</FirstName>
-		<FirstName>	Мартон	</FirstName>
-		<FirstName>	Матяс	</FirstName>
-		<FirstName>	Мориц	</FirstName>
-		<FirstName>	Мозес	</FirstName>
-		<FirstName>	Неци	</FirstName>
-		<FirstName>	Норберт	</FirstName>
-		<FirstName>	Оливер	</FirstName>
-		<FirstName>	Оскар	</FirstName>
-		<FirstName>	Петер	</FirstName>
-		<FirstName>	Петерке	</FirstName>
-		<FirstName>	Писта	</FirstName>
-		<FirstName>	Писти	</FirstName>
-		<FirstName>	Полди	</FirstName>
-		<FirstName>	Рендор	</FirstName>
-		<FirstName>	Рез	</FirstName>
-		<FirstName>	Рикард	</FirstName>
-		<FirstName>	Роберт	</FirstName>
-		<FirstName>	Шамука	</FirstName>
-		<FirstName>	Шандор	</FirstName>
-		<FirstName>	Шебо	</FirstName>
-		<FirstName>	Шома	</FirstName>
-		<FirstName>	Табор	</FirstName>
-		<FirstName>	Тамас	</FirstName>
-		<FirstName>	Убул	</FirstName>
-		<FirstName>	Венцел	</FirstName>
-		<FirstName>	Видор	</FirstName>
-		<FirstName>	Виктор	</FirstName>
-		<FirstName>	Винце	</FirstName>
-		<FirstName>	Золтан	</FirstName>
+		<FirstName>Адоян</FirstName>
+		<FirstName>Агостон</FirstName>
+		<FirstName>Альберт</FirstName>
+		<FirstName>Амбрус</FirstName>
+		<FirstName>Андор</FirstName>
+		<FirstName>Арпад</FirstName>
+		<FirstName>Бела</FirstName>
+		<FirstName>Бенчи</FirstName>
+		<FirstName>Боди</FirstName>
+		<FirstName>Эндре</FirstName>
+		<FirstName>Эрвин</FirstName>
+		<FirstName>Ференц</FirstName>
+		<FirstName>Ферко</FirstName>
+		<FirstName>Фредек</FirstName>
+		<FirstName>Фулоп</FirstName>
+		<FirstName>Габор</FirstName>
+		<FirstName>Гажи</FirstName>
+		<FirstName>Герго</FirstName>
+		<FirstName>Гьяла</FirstName>
+		<FirstName>Гюркан</FirstName>
+		<FirstName>Гюзи</FirstName>
+		<FirstName>Имре</FirstName>
+		<FirstName>Истван</FirstName>
+		<FirstName>Ижак</FirstName>
+		<FirstName>Ханос</FirstName>
+		<FirstName>Женци</FirstName>
+		<FirstName>Жоска</FirstName>
+		<FirstName>Йожеф</FirstName>
+		<FirstName>Жоззи</FirstName>
+		<FirstName>Келемен</FirstName>
+		<FirstName>Келлман</FirstName>
+		<FirstName>Кристоф</FirstName>
+		<FirstName>Ласзло</FirstName>
+		<FirstName>Лорант</FirstName>
+		<FirstName>Лоринц</FirstName>
+		<FirstName>Лукач</FirstName>
+		<FirstName>Марго</FirstName>
+		<FirstName>Маркос</FirstName>
+		<FirstName>Маркус</FirstName>
+		<FirstName>Мартон</FirstName>
+		<FirstName>Матяс</FirstName>
+		<FirstName>Мориц</FirstName>
+		<FirstName>Мозес</FirstName>
+		<FirstName>Неци</FirstName>
+		<FirstName>Норберт</FirstName>
+		<FirstName>Оливер</FirstName>
+		<FirstName>Оскар</FirstName>
+		<FirstName>Петер</FirstName>
+		<FirstName>Петерке</FirstName>
+		<FirstName>Писта</FirstName>
+		<FirstName>Писти</FirstName>
+		<FirstName>Полди</FirstName>
+		<FirstName>Рендор</FirstName>
+		<FirstName>Рез</FirstName>
+		<FirstName>Рикард</FirstName>
+		<FirstName>Роберт</FirstName>
+		<FirstName>Шамука</FirstName>
+		<FirstName>Шандор</FirstName>
+		<FirstName>Шебо</FirstName>
+		<FirstName>Шома</FirstName>
+		<FirstName>Табор</FirstName>
+		<FirstName>Тамас</FirstName>
+		<FirstName>Убул</FirstName>
+		<FirstName>Венцел</FirstName>
+		<FirstName>Видор</FirstName>
+		<FirstName>Виктор</FirstName>
+		<FirstName>Винце</FirstName>
+		<FirstName>Золтан</FirstName>
 
-		<LastName>	Абдувалиев </LastName>
-		<LastName>	Ойклер 	</LastName>
-		<LastName>	Аладар 	</LastName>
-		<LastName>	Алфолди	</LastName>
-		<LastName>	Андрас 	</LastName>
-		<LastName>	Андрасси 	</LastName>
-		<LastName>	Аннуш 	</LastName>
-		<LastName>	Арань 	</LastName>
-		<LastName>	Бакич 	</LastName>
-		<LastName>	Балашша 	</LastName>
-		<LastName>	Балла 	</LastName>
-		<LastName>	Балтар 	</LastName>
-		<LastName>	Балзар 	</LastName>
-		<LastName>	Барати 	</LastName>
-		<LastName>	Баршонь 	</LastName>
-		<LastName>	Барток 	</LastName>
-		<LastName>	Башириуш 	</LastName>
-		<LastName>	Батори 	</LastName>
-		<LastName>	Белкацем 	</LastName>
-		<LastName>	Беньяч 	</LastName>
-		<LastName>	Бочкаи 	</LastName>
-		<LastName>	Борбала 	</LastName>
-		<LastName>	Бори 	</LastName>
-		<LastName>	Борос 	</LastName>
-		<LastName>	Буксбаум 	</LastName>
-		<LastName>	Буриан 	</LastName>
-		<LastName>	Сизиншки 	</LastName>
-		<LastName>	Корвинус 	</LastName>
-		<LastName>	Чаба 	</LastName>
-		<LastName>	Чапек 	</LastName>
-		<LastName>	Чиллац 	</LastName>
-		<LastName>	Чиллаг 	</LastName>
-		<LastName>	Чолланг 	</LastName>
-		<LastName>	Чоллани 	</LastName>
-		<LastName>	Чурго 	</LastName>
-		<LastName>	Цако 	</LastName>
-		<LastName>	Цене 	</LastName>
-		<LastName>	Цинглер 	</LastName>
-		<LastName>	Цобор 	</LastName>
-		<LastName>	Дардаи 	</LastName>
-		<LastName>	Дароци 	</LastName>
-		<LastName>	Деак 	</LastName>
-		<LastName>	Демко 	</LastName>
-		<LastName>	Дивош 	</LastName>
-		<LastName>	Добос 	</LastName>
-		<LastName>	Доци 	</LastName>
-		<LastName>	Донаньи 	</LastName>
-		<LastName>	Домби 	</LastName>
-		<LastName>	Дорати 	</LastName>
-		<LastName>	Дорофтей 	</LastName>
-		<LastName>	Дожа 	</LastName>
-		<LastName>	Дворжак  	</LastName>
-		<LastName>	Этвёш 	</LastName>
-		<LastName>	Фаркаш 	</LastName>
-		<LastName>	Фозекош 	</LastName>
-		<LastName>	Фехер 	</LastName>
-		<LastName>	Фен 	</LastName>
-		<LastName>	Ференци 	</LastName>
-		<LastName>	Фиркушни 	</LastName>
-		<LastName>	Фодеш 	</LastName>
-		<LastName>	Форгач 	</LastName>
-		<LastName>	Габор 	</LastName>
-		<LastName>	Габриш 	</LastName>
-		<LastName>	Газда 	</LastName>
-		<LastName>	Газдаг 	</LastName>
-		<LastName>	Гечек 	</LastName>
-		<LastName>	Гербер 	</LastName>
-		<LastName>	Геро 	</LastName>
-		<LastName>	Гершек 	</LastName>
-		<LastName>	Геза 	</LastName>
-		<LastName>	Гёц 	</LastName>
-		<LastName>	Губа 	</LastName>
-		<LastName>	Гуран 	</LastName>
-		<LastName>	Гурка 	</LastName>
-		<LastName>	Герфи 	</LastName>
-		<LastName>	Гюлаи 	</LastName>
-		<LastName>	Халмаи 	</LastName>
-		<LastName>	Хамори 	</LastName>
-		<LastName>	Ханкишш 	</LastName>
-		<LastName>	Хара 	</LastName>
-		<LastName>	Хавлик 	</LastName>
-		<LastName>	Хедервари 	</LastName>
-		<LastName>	Хлади 	</LastName>
-		<LastName>	Хока 	</LastName>
-		<LastName>	Холба 	</LastName>
-		<LastName>	Холло 	</LastName>
-		<LastName>	Хораншки 	</LastName>
-		<LastName>	Хорти 	</LastName>
-		<LastName>	Хорват 	</LastName>
-		<LastName>	Гудини 	</LastName>
-		<LastName>	Хруби 	</LastName>
-		<LastName>	Хрутка 	</LastName>
-		<LastName>	Иллеш 	</LastName>
-		<LastName>	Иманци 	</LastName>
-		<LastName>	Иштванфи 	</LastName>
-		<LastName>	Ягадич 	</LastName>
-		<LastName>	Ягер 	</LastName>
-		<LastName>	Йокаи 	</LastName>
-		<LastName>	Йоо 	</LastName>
-		<LastName>	Йошка 	</LastName>
-		<LastName>	Каетан 	</LastName>
-		<LastName>	Калди 	</LastName>
-		<LastName>	Каллаи 	</LastName>
-		<LastName>	Калман 	</LastName>
-		<LastName>	Каммерер 	</LastName>
-		<LastName>	Кошнар 	</LastName>
-		<LastName>	Казинци	</LastName>
-		<LastName>	Кемени 	</LastName>
-		<LastName>	Керекеш	</LastName>
-		<LastName>	Кертеш 	</LastName>
-		<LastName>	Куэн 	</LastName>
-		<LastName>	Кингль 	</LastName>
-		<LastName>	Кирай 	</LastName>
-		<LastName>	Киш	</LastName>
-		<LastName>	Кнежевич	</LastName>
-		<LastName>	Кобан 	</LastName>
-		<LastName>	Кочиш 	</LastName>
-		<LastName>	Кодай 	</LastName>
-		<LastName>	Корани 	</LastName>
-		<LastName>	Коршаш 	</LastName>
-		<LastName>	Кортоши	</LastName>
-		<LastName>	Кошош 	</LastName>
-		<LastName>	Кошут 	</LastName>
-		<LastName>	Ковач 	</LastName>
-		<LastName>	Коваго 	</LastName>
-		<LastName>	Крац 	</LastName>
-		<LastName>	Крошко 	</LastName>
-		<LastName>	Куцка 	</LastName>
-		<LastName>	Кун 	</LastName>
-		<LastName>	Куртаг 	</LastName>
-		<LastName>	Курти 	</LastName>
-		<LastName>	Кучера 	</LastName>
-		<LastName>	Лайош 	</LastName>
-		<LastName>	Лайта 	</LastName>
-		<LastName>	Лайтош 	</LastName>
-		<LastName>	Лакатош 	</LastName>
-		<LastName>	Ласкарис 	</LastName>
-		<LastName>	Лехотка 	</LastName>
-		<LastName>	Лерх 	</LastName>
-		<LastName>	Лигети 	</LastName>
-		<LastName>	Липтак 	</LastName>
-		<LastName>	Лобо 	</LastName>
-		<LastName>	Любик 	</LastName>
-		<LastName>	Лугоши 	</LastName>
-		<LastName>	Лушано 	</LastName>
-		<LastName>	Мадар 	</LastName>
-		<LastName>	Магнони 	</LastName>
-		<LastName>	Майтра 	</LastName>
-		<LastName>	Малек 	</LastName>
-		<LastName>	Малорош 	</LastName>
-		<LastName>	Марковиц 	</LastName>
-		<LastName>	Матюш 	</LastName>
-		<LastName>	Мольнар 	</LastName>
-		<LastName>	Мункаши 	</LastName>
-		<LastName>	Надежни 	</LastName>
-		<LastName>	Надь	</LastName>
-		<LastName>	Неедлы 	</LastName>
-		<LastName>	Немет 	</LastName>
-		<LastName>	Новашкин 	</LastName>
-		<LastName>	Нилаш 	</LastName>
-		<LastName>	Оноди 	</LastName>
-		<LastName>	Орци 	</LastName>
-		<LastName>	Ордина 	</LastName>
-		<LastName>	Палаги 	</LastName>
-		<LastName>	Панди 	</LastName>
-		<LastName>	Партош 	</LastName>
-		<LastName>	Пазмани 	</LastName>
-		<LastName>	Пернеки	</LastName>
-		<LastName>	Петёфи 	</LastName>
-		<LastName>	Пиота 	</LastName>
-		<LastName>	Пишонт 	</LastName>
-		<LastName>	Полтари 	</LastName>
-		<LastName>	Понграц 	</LastName>
-		<LastName>	Пот 	</LastName>
-		<LastName>	Потиорек 	</LastName>
-		<LastName>	Прихода 	</LastName>
-		<LastName>	Протеши 	</LastName>
-		<LastName>	Пульский	</LastName>
-		<LastName>	Ракоши 	</LastName>
-		<LastName>	Редик 	</LastName>
-		<LastName>	Ревай 	</LastName>
-		<LastName>	Ронай 	</LastName>
-		<LastName>	Рознер 	</LastName>
-		<LastName>	Рожа 	</LastName>
-		<LastName>	Рубик 	</LastName>
-		<LastName>	Сафар	</LastName>
-		<LastName>	Саги 	</LastName>
-		<LastName>	Шандор 	</LastName>
-		<LastName>	Шарф 	</LastName>
-		<LastName>	Шебёк 	</LastName>
-		<LastName>	Серени 	</LastName>
-		<LastName>	Зёнкер 	</LastName>
-		<LastName>	Шолти 	</LastName>
-		<LastName>	Шоймоши 	</LastName>
-		<LastName>	Шош 	</LastName>
-		<LastName>	Штарк 	</LastName>
-		<LastName>	Шупола 	</LastName>
-		<LastName>	Шуто 	</LastName>
-		<LastName>	Сабо 	</LastName>
-		<LastName>	Салай 	</LastName>
-		<LastName>	Сатмари 	</LastName>
-		<LastName>	Сечени 	</LastName>
-		<LastName>	Секеи 	</LastName>
-		<LastName>	Секериш 	</LastName>
-		<LastName>	Семере 	</LastName>
-		<LastName>	Сигете 	</LastName>
-		<LastName>	Сухай 	</LastName>
-		<LastName>	Табори 	</LastName>
-		<LastName>	Телек 	</LastName>
-		<LastName>	Телеки 	</LastName>
-		<LastName>	Темешвари 	</LastName>
-		<LastName>	Тешшедик 	</LastName>
-		<LastName>	Турзо 	</LastName>
-		<LastName>	Тиса 	</LastName>
-		<LastName>	Токеш 	</LastName>
-		<LastName>	Токоди 	</LastName>
-		<LastName>	Тот	</LastName>
-		<LastName>	Южаки 	</LastName>
-		<LastName>	Урбаник 	</LastName>
-		<LastName>	Вага 	</LastName>
-		<LastName>	Вамбери 	</LastName>
-		<LastName>	Вамоши 	</LastName>
-		<LastName>	Варга 	</LastName>
-		<LastName>	Варкони 	</LastName>
-		<LastName>	Васари 	</LastName>
-		<LastName>	Вавра 	</LastName>
-		<LastName>	Велиган 	</LastName>
-		<LastName>	Верзи 	</LastName>
-		<LastName>	Ветец 	</LastName>
-		<LastName>	Видраи 	</LastName>
-		<LastName>	Вайда 	</LastName>
-		<LastName>	Вессели 	</LastName>
-		<LastName>	Затонь 	</LastName>
-		<LastName>	Завадски 	</LastName>
-		<LastName>	Зриньи 	</LastName>
-		<LastName>	Живоски 	</LastName>
-		<LastName>	Жолдош 	</LastName>
+		<LastName>Абдувалиев </LastName>
+		<LastName>Ойклер </LastName>
+		<LastName>Аладар </LastName>
+		<LastName>Алфолди</LastName>
+		<LastName>Андрас </LastName>
+		<LastName>Андрасси </LastName>
+		<LastName>Аннуш </LastName>
+		<LastName>Арань </LastName>
+		<LastName>Арпад</LastName>
+		<LastName>Артали</LastName>
+		<LastName>Бакич </LastName>
+		<LastName>Балашша </LastName>
+		<LastName>Балла </LastName>
+		<LastName>Балтар </LastName>
+		<LastName>Балзар </LastName>
+		<LastName>Барати </LastName>
+		<LastName>Баршонь </LastName>
+		<LastName>Барток </LastName>
+		<LastName>Башириуш </LastName>
+		<LastName>Батори </LastName>
+		<LastName>Белкацем </LastName>
+		<LastName>Беньяч </LastName>
+		<LastName>Бочкаи </LastName>
+		<LastName>Борбала </LastName>
+		<LastName>Бори </LastName>
+		<LastName>Борос </LastName>
+		<LastName>Буксбаум </LastName>
+		<LastName>Буриан </LastName>
+		<LastName>Сизиншки </LastName>
+		<LastName>Корвинус </LastName>
+		<LastName>Чаба </LastName>
+		<LastName>Чапек </LastName>
+		<LastName>Чиллац </LastName>
+		<LastName>Чиллаг </LastName>
+		<LastName>Чолланг </LastName>
+		<LastName>Чоллани </LastName>
+		<LastName>Чурго </LastName>
+		<LastName>Цако </LastName>
+		<LastName>Цене </LastName>
+		<LastName>Цинглер </LastName>
+		<LastName>Цобор </LastName>
+		<LastName>Дардаи </LastName>
+		<LastName>Дароци </LastName>
+		<LastName>Деак </LastName>
+		<LastName>Демко </LastName>
+		<LastName>Дивош </LastName>
+		<LastName>Добос </LastName>
+		<LastName>Доци </LastName>
+		<LastName>Донаньи </LastName>
+		<LastName>Домби </LastName>
+		<LastName>Дорати </LastName>
+		<LastName>Дорофтей </LastName>
+		<LastName>Дожа </LastName>
+		<LastName>Дворжак  </LastName>
+                <LastName>Элла</LastName>
+		<LastName>Этвёш </LastName>
+		<LastName>Фаркаш </LastName>
+		<LastName>Фозекош </LastName>
+		<LastName>Фехер </LastName>
+		<LastName>Фен </LastName>
+		<LastName>Ференци </LastName>
+		<LastName>Фиркушни </LastName>
+		<LastName>Фодеш </LastName>
+		<LastName>Фолдэни</LastName>
+		<LastName>Форгач </LastName>
+                <LastName>Форгац </LastName>
+		<LastName>Габор </LastName>
+		<LastName>Габриш </LastName>
+		<LastName>Гаспар</LastName>
+		<LastName>Газда </LastName>
+		<LastName>Газдаг </LastName>
+		<LastName>Гечек </LastName>
+		<LastName>Гербер </LastName>
+		<LastName>Геро </LastName>
+		<LastName>Гершек </LastName>
+		<LastName>Геза </LastName>
+		<LastName>Гоинш</LastName>
+		<LastName>Гёц </LastName>
+		<LastName>Гродитье</LastName>
+		<LastName>Губа </LastName>
+		<LastName>Гуран </LastName>
+		<LastName>Гурка </LastName>
+		<LastName>Герфи </LastName>
+		<LastName>Гюлаи </LastName>
+		<LastName>Халмаи </LastName>
+		<LastName>Хамори </LastName>
+		<LastName>Ханкишш </LastName>
+		<LastName>Хара </LastName>
+		<LastName>Харнели</LastName>
+		<LastName>Хавлик </LastName>
+		<LastName>Хедервари </LastName>
+		<LastName>Хейд</LastName>
+		<LastName>Хлади </LastName>
+		<LastName>Хока </LastName>
+		<LastName>Холба </LastName>
+		<LastName>Холло </LastName>
+		<LastName>Хораншки </LastName>
+		<LastName>Хорти </LastName>
+		<LastName>Хорват </LastName>
+		<LastName>Хорвас </LastName>
+		<LastName>Хорвас </LastName>
+		<LastName>Гудини </LastName>
+		<LastName>Хруби </LastName>
+		<LastName>Хрутка </LastName>
+		<LastName>Хунайди</LastName>
+		<LastName>Иллеш </LastName>
+		<LastName>Иллешази</LastName>
+		<LastName>Илеш</LastName>
+		<LastName>Иманци </LastName>
+		<LastName>Иштванфи </LastName>
+		<LastName>Ягадич </LastName>
+		<LastName>Ягер </LastName>
+		<LastName>Яжи</LastName>
+		<LastName>Йокаи </LastName>
+		<LastName>Йоо </LastName>
+		<LastName>Йошка </LastName>
+		<LastName>Каетан </LastName>
+		<LastName>Каланьес</LastName>
+		<LastName>Калди </LastName>
+		<LastName>Каллаи </LastName>
+		<LastName>Калман </LastName>
+		<LastName>Каммерер </LastName>
+		<LastName>Кошнар </LastName>
+		<LastName>Казинци</LastName>
+		<LastName>Кемени </LastName>
+		<LastName>Керекеш</LastName>
+		<LastName>Кертеш </LastName>
+		<LastName>Куэн </LastName>
+		<LastName>Кингль </LastName>
+		<LastName>Кирай </LastName>
+		<LastName>Киш</LastName>
+		<LastName>Кнежевич</LastName>
+		<LastName>Кобан </LastName>
+		<LastName>Кочиш </LastName>
+		<LastName>Кодай </LastName>
+		<LastName>Корани </LastName>
+		<LastName>Коршаш </LastName>
+		<LastName>Кортоши</LastName>
+		<LastName>Кошош </LastName>
+		<LastName>Кошут </LastName>
+		<LastName>Ковач </LastName>
+		<LastName>Коваго </LastName>
+		<LastName>Крац </LastName>
+		<LastName>Крошко </LastName>
+		<LastName>Куцка </LastName>
+		<LastName>Кун </LastName>
+		<LastName>Куртаг </LastName>
+		<LastName>Курти </LastName>
+		<LastName>Кучера </LastName>
+		<LastName>Лайош </LastName>
+		<LastName>Лайта </LastName>
+		<LastName>Лайтош </LastName>
+		<LastName>Лакатош </LastName>
+		<LastName>Ласкарис </LastName>
+		<LastName>Лехотка </LastName>
+		<LastName>Лерх </LastName>
+		<LastName>Лигети </LastName>
+		<LastName>Липтак </LastName>
+		<LastName>Лобо </LastName>
+		<LastName>Любик </LastName>
+		<LastName>Лугоши </LastName>
+		<LastName>Лушано </LastName>
+		<LastName>Мадар </LastName>
+		<LastName>Магнони </LastName>
+		<LastName>Майтра </LastName>
+		<LastName>Малек </LastName>
+		<LastName>Малорош </LastName>
+		<LastName>Марковиц </LastName>
+		<LastName>Матюш </LastName>
+		<LastName>Мольнар </LastName>
+		<LastName>Мункаши </LastName>
+		<LastName>Надежни </LastName>
+		<LastName>Надь</LastName>
+		<LastName>Неедлы </LastName>
+		<LastName>Немет </LastName>
+		<LastName>Новашкин </LastName>
+		<LastName>Нилаш </LastName>
+		<LastName>Оноди </LastName>
+		<LastName>Орци </LastName>
+		<LastName>Ордина </LastName>
+		<LastName>Палаги </LastName>
+		<LastName>Панди </LastName>
+		<LastName>Партош </LastName>
+		<LastName>Пазмани </LastName>
+		<LastName>Пернеки</LastName>
+		<LastName>Петёфи </LastName>
+		<LastName>Пиота </LastName>
+		<LastName>Пишонт </LastName>
+		<LastName>Полтари </LastName>
+		<LastName>Понграц </LastName>
+		<LastName>Пот </LastName>
+		<LastName>Потиорек </LastName>
+		<LastName>Прихода </LastName>
+		<LastName>Протеши </LastName>
+		<LastName>Пульский</LastName>
+		<LastName>Ракоши </LastName>
+		<LastName>Редик </LastName>
+		<LastName>Ревай </LastName>
+		<LastName>Ронай </LastName>
+		<LastName>Рознер </LastName>
+		<LastName>Рожа </LastName>
+		<LastName>Рубик </LastName>
+		<LastName>Сафар</LastName>
+		<LastName>Саги </LastName>
+		<LastName>Шандор </LastName>
+		<LastName>Шарф </LastName>
+		<LastName>Шебёк </LastName>
+		<LastName>Серени </LastName>
+		<LastName>Зёнкер </LastName>
+		<LastName>Шолти </LastName>
+		<LastName>Шоймоши </LastName>
+		<LastName>Шош </LastName>
+		<LastName>Штарк </LastName>
+		<LastName>Шупола </LastName>
+		<LastName>Шуто </LastName>
+		<LastName>Сабо </LastName>
+		<LastName>Салай </LastName>
+		<LastName>Сатмари </LastName>
+		<LastName>Сечени </LastName>
+		<LastName>Секеи </LastName>
+		<LastName>Секериш </LastName>
+		<LastName>Семере </LastName>
+		<LastName>Сигете </LastName>
+		<LastName>Сухай </LastName>
+		<LastName>Табори </LastName>
+		<LastName>Телек </LastName>
+		<LastName>Телеки </LastName>
+		<LastName>Темешвари </LastName>
+		<LastName>Тешшедик </LastName>
+		<LastName>Турзо </LastName>
+		<LastName>Тиса </LastName>
+		<LastName>Токеш </LastName>
+		<LastName>Токоди </LastName>
+		<LastName>Тот</LastName>
+		<LastName>Южаки </LastName>
+		<LastName>Урбаник </LastName>
+		<LastName>Вага </LastName>
+		<LastName>Вамбери </LastName>
+		<LastName>Вамоши </LastName>
+		<LastName>Варга </LastName>
+		<LastName>Варкони </LastName>
+		<LastName>Васари </LastName>
+		<LastName>Вавра </LastName>
+		<LastName>Велиган </LastName>
+		<LastName>Верзи </LastName>
+		<LastName>Ветец </LastName>
+		<LastName>Видраи </LastName>
+		<LastName>Вайда </LastName>
+		<LastName>Вессели </LastName>
+		<LastName>Затонь </LastName>
+		<LastName>Завадски </LastName>
+		<LastName>Зриньи </LastName>
+		<LastName>Живоски </LastName>
+		<LastName>Жолдош </LastName>
+		<LastName>Szucs</LastName>
+		<LastName>Szuhay</LastName>
+		<LastName>Tabory</LastName>
+		<LastName>Telek</LastName>
+		<LastName>Teleki</LastName>
+		<LastName>Temesvari</LastName>
+		<LastName>Tessedik</LastName>
+		<LastName>Thurzo</LastName>
+		<LastName>Tisza</LastName>
+		<LastName>Tokes</LastName>
+		<LastName>Tokody</LastName>
+		<LastName>Tolgyesi</LastName>
+		<LastName>Toth</LastName>
+		<LastName>Toth</LastName>
+		<LastName>Ujaky</LastName>
+		<LastName>Urbanik</LastName>
+		<LastName>Vaga</LastName>
+		<LastName>Vambery</LastName>
+		<LastName>Vamosi</LastName>
+		<LastName>Varga</LastName>
+		<LastName>Varkonyi</LastName>
+		<LastName>Vasary</LastName>
+		<LastName>Vaszi</LastName>
+		<LastName>Vavra</LastName>
+		<LastName>Veligan</LastName>
+		<LastName>Verboczy</LastName>
+		<LastName>Verzi</LastName>
+		<LastName>Vetec</LastName>
+		<LastName>Vidrai</LastName>
+		<LastName>Wajda</LastName>
+		<LastName>Wessely</LastName>
+		<LastName>Zatony</LastName>
+		<LastName>Zavadsky</LastName>
+		<LastName>Zrinyi</LastName>
+		<LastName>Zsivozky</LastName>
+		<LastName>Zsoldos</LastName>
 
 		<Regiment name="regiment.hungary1">
 			<Experience>experience.none</Experience>
 		</Regiment>
 	  </Nation>
 
-     <Nation name="Канада" chance="3">
+     <Nation name="Canadian" chance="3">
     <Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="1" />
     <Ethnicity name="afri" chance="1" />
     
-	<FirstName>	Алан	</FirstName>
-	<FirstName>	Альберт	</FirstName>
-	<FirstName>	Аллен	</FirstName>
-	<FirstName>	Эндрю	</FirstName>
-	<FirstName>	Энтони	</FirstName>
-	<FirstName>	Артур	</FirstName>
-	<FirstName>	Барри	</FirstName>
-	<FirstName>	Билли	</FirstName>
-	<FirstName>	Бобби	</FirstName>
-	<FirstName>	Брайн	</FirstName>
-	<FirstName>	Брюс	</FirstName>
-	<FirstName>	Карл	</FirstName>
-	<FirstName>	Чарльз	</FirstName>
-	<FirstName>	Крис	</FirstName>
-	<FirstName>	Крейг	</FirstName>
-	<FirstName>	Куртис	</FirstName>
-	<FirstName>	Дейл	</FirstName>
-	<FirstName>	Даниэль	</FirstName>
-	<FirstName>	Данни	</FirstName>
-	<FirstName>	Давид	</FirstName>
-	<FirstName>	Дэннис	</FirstName>
-	<FirstName>	Дональд	</FirstName>
-	<FirstName>	Дуглас	</FirstName>
-	<FirstName>	Эрл	</FirstName>
-	<FirstName>	Эдди	</FirstName>
-	<FirstName>	Эдвард	</FirstName>
-	<FirstName>	Эрик	</FirstName>
-	<FirstName>	Эрнест	</FirstName>
-	<FirstName>	Юджин	</FirstName>
-	<FirstName>	Францис	</FirstName>
-	<FirstName>	Франк	</FirstName>
-	<FirstName>	Фрэд	</FirstName>
-	<FirstName>	Гари	</FirstName>
-	<FirstName>	Георг	</FirstName>
-	<FirstName>	Геральд	</FirstName>
-	<FirstName>	Гленн	</FirstName>
-	<FirstName>	Грегори	</FirstName>
-	<FirstName>	Харольд	</FirstName>
-	<FirstName>	Гарри	</FirstName>
-	<FirstName>	Генри	</FirstName>
-	<FirstName>	Ховард	</FirstName>
-	<FirstName>	Джек	</FirstName>
-	<FirstName>	Джеймс	</FirstName>
-	<FirstName>	Джей	</FirstName>
-	<FirstName>	Джеффри	</FirstName>
-	<FirstName>	Джерри	</FirstName>
-	<FirstName>	Джимми	</FirstName>
-	<FirstName>	Джо	</FirstName>
-	<FirstName>	Джон	</FirstName>
-	<FirstName>	Джонни	</FirstName>
-	<FirstName>	Джозеф	</FirstName>
-	<FirstName>	Кит	</FirstName>
-	<FirstName>	Кеннет	</FirstName>
-	<FirstName>	Кевин	</FirstName>
-	<FirstName>	Ларри	</FirstName>
-	<FirstName>	Лоуренс	</FirstName>
-	<FirstName>	Ли	</FirstName>
-	<FirstName>	Леонард	</FirstName>
-	<FirstName>	Луис	</FirstName>
-	<FirstName>	Марк	</FirstName>
-	<FirstName>	Мартин	</FirstName>
-	<FirstName>	Марвин	</FirstName>
-	<FirstName>	Мелвин	</FirstName>
-	<FirstName>	Майкл	</FirstName>
-	<FirstName>	Норман	</FirstName>
-	<FirstName>	Патрик	</FirstName>
-	<FirstName>	Пол	</FirstName>
-	<FirstName>	Питер	</FirstName>
-	<FirstName>	Филип	</FirstName>
-	<FirstName>	Филлип	</FirstName>
-	<FirstName>	Ральф	</FirstName>
-	<FirstName>	Рандолл	</FirstName>
-	<FirstName>	Ренди	</FirstName>
-	<FirstName>	Реймонд	</FirstName>
-	<FirstName>	Ричард	</FirstName>
-	<FirstName>	Рик	</FirstName>
-	<FirstName>	Рики	</FirstName>
-	<FirstName>	Роберт	</FirstName>
-	<FirstName>	Родни	</FirstName>
-	<FirstName>	Роджер	</FirstName>
-	<FirstName>	Рональд	</FirstName>
-	<FirstName>	Ронни	</FirstName>
-	<FirstName>	Рой	</FirstName>
-	<FirstName>	Расселл	</FirstName>
-	<FirstName>	Сэмюэль	</FirstName>
-	<FirstName>	Скотт	</FirstName>
-	<FirstName>	Стенли	</FirstName>
-	<FirstName>	Стефан	</FirstName>
-	<FirstName>	Стив	</FirstName>
-	<FirstName>	Стивен	</FirstName>
-	<FirstName>	Тэрри	</FirstName>
-	<FirstName>	Томас	</FirstName>
-	<FirstName>	Тимоти	</FirstName>
-	<FirstName>	Томми	</FirstName>
-	<FirstName>	Волтер	</FirstName>
-	<FirstName>	Вейн	</FirstName>
-	<FirstName>	Вилльям	</FirstName>
+	<FirstName>Алан</FirstName>
+	<FirstName>Альберт</FirstName>
+	<FirstName>Аллен</FirstName>
+	<FirstName>Эндрю</FirstName>
+	<FirstName>Энтони</FirstName>
+	<FirstName>Артур</FirstName>
+	<FirstName>Барри</FirstName>
+	<FirstName>Билли</FirstName>
+	<FirstName>Бобби</FirstName>
+	<FirstName>Брайн</FirstName>
+	<FirstName>Брюс</FirstName>
+	<FirstName>Карл</FirstName>
+	<FirstName>Чарльз</FirstName>
+	<FirstName>Крис</FirstName>
+	<FirstName>Крейг</FirstName>
+	<FirstName>Куртис</FirstName>
+	<FirstName>Дейл</FirstName>
+	<FirstName>Даниэль</FirstName>
+	<FirstName>Данни</FirstName>
+	<FirstName>Давид</FirstName>
+	<FirstName>Дэннис</FirstName>
+	<FirstName>Дональд</FirstName>
+	<FirstName>Дуглас</FirstName>
+	<FirstName>Эрл</FirstName>
+	<FirstName>Эдди</FirstName>
+	<FirstName>Эдвард</FirstName>
+	<FirstName>Эрик</FirstName>
+	<FirstName>Эрнест</FirstName>
+	<FirstName>Юджин</FirstName>
+	<FirstName>Францис</FirstName>
+	<FirstName>Франк</FirstName>
+	<FirstName>Фрэд</FirstName>
+	<FirstName>Гари</FirstName>
+	<FirstName>Георг</FirstName>
+	<FirstName>Геральд</FirstName>
+	<FirstName>Гленн</FirstName>
+	<FirstName>Грегори</FirstName>
+	<FirstName>Харольд</FirstName>
+	<FirstName>Гарри</FirstName>
+	<FirstName>Генри</FirstName>
+	<FirstName>Ховард</FirstName>
+	<FirstName>Джек</FirstName>
+	<FirstName>Джеймс</FirstName>
+	<FirstName>Джей</FirstName>
+	<FirstName>Джеффри</FirstName>
+	<FirstName>Джерри</FirstName>
+	<FirstName>Джимми</FirstName>
+	<FirstName>Джо</FirstName>
+	<FirstName>Джон</FirstName>
+	<FirstName>Джонни</FirstName>
+	<FirstName>Джозеф</FirstName>
+	<FirstName>Кит</FirstName>
+	<FirstName>Кеннет</FirstName>
+	<FirstName>Кевин</FirstName>
+	<FirstName>Ларри</FirstName>
+	<FirstName>Лоуренс</FirstName>
+	<FirstName>Ли</FirstName>
+	<FirstName>Леонард</FirstName>
+	<FirstName>Луис</FirstName>
+	<FirstName>Марк</FirstName>
+	<FirstName>Мартин</FirstName>
+	<FirstName>Марвин</FirstName>
+	<FirstName>Мелвин</FirstName>
+	<FirstName>Майкл</FirstName>
+	<FirstName>Норман</FirstName>
+	<FirstName>Патрик</FirstName>
+	<FirstName>Пол</FirstName>
+	<FirstName>Питер</FirstName>
+	<FirstName>Филип</FirstName>
+	<FirstName>Филлип</FirstName>
+	<FirstName>Ральф</FirstName>
+	<FirstName>Рандолл</FirstName>
+	<FirstName>Ренди</FirstName>
+	<FirstName>Реймонд</FirstName>
+	<FirstName>Ричард</FirstName>
+	<FirstName>Рик</FirstName>
+	<FirstName>Рики</FirstName>
+	<FirstName>Роберт</FirstName>
+	<FirstName>Родни</FirstName>
+	<FirstName>Роджер</FirstName>
+	<FirstName>Рональд</FirstName>
+	<FirstName>Ронни</FirstName>
+	<FirstName>Рой</FirstName>
+	<FirstName>Расселл</FirstName>
+	<FirstName>Сэмюэль</FirstName>
+	<FirstName>Скотт</FirstName>
+	<FirstName>Стенли</FirstName>
+	<FirstName>Стефан</FirstName>
+	<FirstName>Стив</FirstName>
+	<FirstName>Стивен</FirstName>
+	<FirstName>Тэрри</FirstName>
+	<FirstName>Томас</FirstName>
+	<FirstName>Тимоти</FirstName>
+	<FirstName>Томми</FirstName>
+	<FirstName>Волтер</FirstName>
+	<FirstName>Вейн</FirstName>
+	<FirstName>Вилльям</FirstName>
 
 	
-    	<LastName>	Адамс	</LastName>
-	<LastName>	Андерсон	</LastName>
-	<LastName>	Аллен	</LastName>
-	<LastName>	Бейли	</LastName>
-	<LastName>	Бейкер	</LastName>
-	<LastName>	Бернс	</LastName>
-	<LastName>	Беннетт	</LastName>
-	<LastName>	Браун	</LastName>
-	<LastName>	Батлер	</LastName>
-	<LastName>	Кампбелл	</LastName>
-	<LastName>	Картер	</LastName>
-	<LastName>	Чапмен	</LastName>
-	<LastName>	Кларк	</LastName>
-	<LastName>	Коллинс	</LastName>
-	<LastName>	Кук	</LastName>
-	<LastName>	Купер	</LastName>
-	<LastName>	Кокс	</LastName>
-	<LastName>	Дэвис	</LastName>
-	<LastName>	Эдвардс	</LastName>
-	<LastName>	Эллис	</LastName>
-	<LastName>	Эванс	</LastName>
-	<LastName>	Фишер	</LastName>
-	<LastName>	Фостер	</LastName>
-	<LastName>	Фокс	</LastName>
-	<LastName>	Фрейзер	</LastName>
-	<LastName>	Грэхам	</LastName>
-	<LastName>	Грей	</LastName>
-	<LastName>	Грин	</LastName>
-	<LastName>	Гриффитс	</LastName>
-	<LastName>	Холл	</LastName>
-	<LastName>	Гамильтон	</LastName>
-	<LastName>	Харрис	</LastName>
-	<LastName>	Харрисон	</LastName>
-	<LastName>	Хендерсон	</LastName>
-	<LastName>	Хилл	</LastName>
-	<LastName>	Ховард	</LastName>
-	<LastName>	Хьюз	</LastName>
-	<LastName>	Джексон	</LastName>
-	<LastName>	Джонсон	</LastName>
-	<LastName>	Джонс	</LastName>
-	<LastName>	Кэлли	</LastName>
-	<LastName>	Кеннеди	</LastName>
-	<LastName>	Кинг	</LastName>
-	<LastName>	Ли	</LastName>
-	<LastName>	Льюис	</LastName>
-	<LastName>	Маршал	</LastName>
-	<LastName>	Мартин	</LastName>
-	<LastName>	Масон	</LastName>
-	<LastName>	МакДональд	</LastName>
-	<LastName>	МакГроу	</LastName>
-	<LastName>	Миллер	</LastName>
-	
-	
-	
-	<LastName>	Митчелл	</LastName>
-	<LastName>	Мур	</LastName>
-	<LastName>	Морган	</LastName>
-	<LastName>	Моррис	</LastName>
-	<LastName>	Мерфи	</LastName>
-	<LastName>	Мюррей	</LastName>
-	<LastName>	Нельсон	</LastName>
-	<LastName>	O'Брайн	</LastName>
-	<LastName>	O'Коннор	</LastName>
-	<LastName>	O'Салливан	</LastName>
-	<LastName>	Паркер	</LastName>
-	<LastName>	Перри	</LastName>
-	<LastName>	Петерсон	</LastName>
-	<LastName>	Филлипс	</LastName>
-	<LastName>	Пауэл	</LastName>
-	<LastName>	Прайс	</LastName>
-	<LastName>	Рид	</LastName>
-	<LastName>	Рейнольдс	</LastName>
-	<LastName>	Ричардс	</LastName>
-	<LastName>	Ричардсон	</LastName>
-	<LastName>	Робертс	</LastName>
-	<LastName>	Робертсон	</LastName>
-	<LastName>	Робинсон	</LastName>
-	<LastName>	Роджерс	</LastName>
-	<LastName>	Росс	</LastName>
-	<LastName>	Расселл	</LastName>
-	<LastName>	Райн	</LastName>
-	<LastName>	Сандерс	</LastName>
-	<LastName>	Скотт	</LastName>
-	<LastName>	Шоу	</LastName>
-	<LastName>	Симпсон	</LastName>
-	<LastName>	Смит	</LastName>
-	<LastName>	Стевенс	</LastName>
-	<LastName>	Стюарт	</LastName>
-	<LastName>	Тейлор	</LastName>
-	<LastName>	Тома	</LastName>
-	<LastName>	Томпсон	</LastName>
-	<LastName>	Тернер	</LastName>
-	<LastName>	Волкер	</LastName>
-	<LastName>	Волш	</LastName>
-	<LastName>	Вард	</LastName>
-	<LastName>	Ватсон	</LastName>
-	<LastName>	Вайт	</LastName>
-	<LastName>	Вилльямс	</LastName>
-	<LastName>	Вилсон	</LastName>
-	<LastName>	Вуд	</LastName>
-	<LastName>	Райт	</LastName>
-	<LastName>	Янг	</LastName>
+    	<LastName>Адамс</LastName>
+	<LastName>Андерсон</LastName>
+	<LastName>Аллен</LastName>
+	<LastName>Бейли</LastName>
+	<LastName>Бейкер</LastName>
+	<LastName>Бернс</LastName>
+	<LastName>Bell</LastName>
+	<LastName>Беннетт</LastName>
+	<LastName>Браун</LastName>
+	<LastName>Батлер</LastName>
+	<LastName>Кампбелл</LastName>
+	<LastName>Картер</LastName>
+	<LastName>Чапмен</LastName>
+	<LastName>Кларк</LastName>
+	<LastName>Кларк</LastName>
+	<LastName>Коллинс</LastName>
+	<LastName>Кук</LastName>
+	<LastName>Купер</LastName>
+	<LastName>Кокс</LastName>
+	<LastName>Дэвис</LastName>
+	<LastName>Эдвардс</LastName>
+	<LastName>Эллис</LastName>
+	<LastName>Эванс</LastName>
+	<LastName>Фишер</LastName>
+	<LastName>Фостер</LastName>
+	<LastName>Фокс</LastName>
+	<LastName>Фрейзер</LastName>
+	<LastName>Грэхам</LastName>
+	<LastName>Грей</LastName>
+	<LastName>Грин</LastName>
+	<LastName>Гриффитс</LastName>
+	<LastName>Холл</LastName>
+	<LastName>Гамильтон</LastName>
+	<LastName>Харрис</LastName>
+	<LastName>Харрисон</LastName>
+	<LastName>Хендерсон</LastName>
+	<LastName>Хилл</LastName>
+	<LastName>Ховард</LastName>
+	<LastName>Хьюз</LastName>
+	<LastName>Джексон</LastName>
+	<LastName>James</LastName>
+	<LastName>Джонсон</LastName>
+	<LastName>Джонс</LastName>
+	<LastName>Джонс</LastName>
+	<LastName>Кэлли</LastName>
+	<LastName>Кеннеди</LastName>
+	<LastName>Кинг</LastName>
+	<LastName>Ли</LastName>
+	<LastName>Ли</LastName>
+	<LastName>Льюис</LastName>
+	<LastName>Маршал</LastName>
+	<LastName>Мартин</LastName>
+	<LastName>Масон</LastName>
+	<LastName>МакДональд</LastName>
+	<LastName>МакГроу</LastName>
+	<LastName>Миллер</LastName>
+	<LastName>Митчелл</LastName>
+	<LastName>Мур</LastName>
+	<LastName>Морган</LastName>
+	<LastName>Моррис</LastName>
+	<LastName>Мерфи</LastName>
+	<LastName>Мюррей</LastName>
+	<LastName>Нельсон</LastName>
+	<LastName>O'Брайн</LastName>
+	<LastName>O'Коннор</LastName>
+	<LastName>O'Салливан</LastName>
+	<LastName>Паркер</LastName>
+	<LastName>Перри</LastName>
+	<LastName>Петерсон</LastName>
+	<LastName>Филлипс</LastName>
+	<LastName>Пауэл</LastName>
+	<LastName>Прайс</LastName>
+	<LastName>Рид</LastName>
+	<LastName>Рейнольдс</LastName>
+	<LastName>Ричардс</LastName>
+	<LastName>Ричардсон</LastName>
+	<LastName>Робертс</LastName>
+	<LastName>Робертсон</LastName>
+	<LastName>Робинсон</LastName>
+	<LastName>Роджерс</LastName>
+	<LastName>Росс</LastName>
+	<LastName>Расселл</LastName>
+	<LastName>Райн</LastName>
+	<LastName>Сандерс</LastName>
+	<LastName>Скотт</LastName>
+	<LastName>Шоу</LastName>
+	<LastName>Симпсон</LastName>
+	<LastName>Смит</LastName>
+	<LastName>Стевенс</LastName>
+	<LastName>Стюарт</LastName>
+	<LastName>Тейлор</LastName>
+	<LastName>Тома</LastName>
+	<LastName>Томпсон</LastName>
+	<LastName>Тернер</LastName>
+	<LastName>Волкер</LastName>
+	<LastName>Волш</LastName>
+	<LastName>Вард</LastName>
+	<LastName>Ватсон</LastName>
+	<LastName>Вайт</LastName>
+	<LastName>Вилльямс</LastName>
+	<LastName>Вилсон</LastName>
+	<LastName>Вуд</LastName>
+	<LastName>Райт</LastName>
+	<LastName>Янг</LastName>
 
     
     <Regiment name="regiment.canada1">
@@ -540,81 +595,80 @@
   </Nation>
   
   
-  <Nation name="Канада" chance="1">
+  <Nation name="Canadian" chance="1">
     <Ethnicity name="nor" chance="1" />
 	
-	<FirstName>	Вилльям	</FirstName>
-	<FirstName>	Оливер	</FirstName>
-	<FirstName>	Томас	</FirstName>
-	<FirstName>	Натан	</FirstName>
-	<FirstName>	Алексис	</FirstName>
-	<FirstName>	Феликс	</FirstName>
-	<FirstName>	Габриэль	</FirstName>
-	<FirstName>	Самуэль	</FirstName>
-	<FirstName>	Антуан	</FirstName>
-	<FirstName>	Ксавьер	</FirstName>
-	<FirstName>	Якоб	</FirstName>
-	<FirstName>	Рафаэль	</FirstName>
-	<FirstName>	Мэтис	</FirstName>
-	<FirstName>	Захарий	</FirstName>
-	<FirstName>	Александр	</FirstName>
-	<FirstName>	Бенджамин	</FirstName>
-	<FirstName>	Ной	</FirstName>
-	<FirstName>	Энтони	</FirstName>
-	<FirstName>	Джастин	</FirstName>
-	<FirstName>	Винсент	</FirstName>
+	<FirstName>Вилльям</FirstName>
+	<FirstName>Оливер</FirstName>
+	<FirstName>Томас</FirstName>
+	<FirstName>Натан</FirstName>
+	<FirstName>Алексис</FirstName>
+	<FirstName>Феликс</FirstName>
+	<FirstName>Габриэль</FirstName>
+	<FirstName>Самуэль</FirstName>
+	<FirstName>Антуан</FirstName>
+	<FirstName>Ксавьер</FirstName>
+	<FirstName>Якоб</FirstName>
+	<FirstName>Рафаэль</FirstName>
+	<FirstName>Мэтис</FirstName>
+	<FirstName>Захарий</FirstName>
+	<FirstName>Александр</FirstName>
+	<FirstName>Бенджамин</FirstName>
+	<FirstName>Ной</FirstName>
+	<FirstName>Энтони</FirstName>
+	<FirstName>Джастин</FirstName>
+	<FirstName>Винсент</FirstName>
 	
-	<LastName>	Трамбле	</LastName>
-	<LastName>	Ганон	</LastName>
-	<LastName>	Рой	</LastName>
-	<LastName>	Кот	</LastName>
-	<LastName>	Бушар	</LastName>
-	<LastName>	Готье	</LastName>
-	<LastName>	Морен	</LastName>
-	<LastName>	Лавуа	</LastName>
-	<LastName>	Фортин	</LastName>
-	<LastName>	Ганье	</LastName>
-	<LastName>	Пельтье	</LastName>
-	<LastName>	Белангер	</LastName>
-	<LastName>	Бержерон	</LastName>
-	<LastName>	Левек	</LastName>
-	<LastName>	Симард	</LastName>
-	<LastName>	Жирар	</LastName>
-	<LastName>	Лебланк	</LastName>
-	<LastName>	Буше	</LastName>
-	<LastName>	Уэлле	</LastName>
-	<LastName>	Карон	</LastName>
-	<LastName>	Бьюли	</LastName>
-	<LastName>	Порье	</LastName>
-	<LastName>	Дубе	</LastName>
-	<LastName>	Клутье	</LastName>
-	<LastName>	Фурнье	</LastName>
-	<LastName>	Лапоинт	</LastName>
-	<LastName>	Лефевр	</LastName>
-	<LastName>	Пулен	</LastName>
-	<LastName>	Надю	</LastName>
-	<LastName>	Мартин	</LastName>
-	<LastName>	Сен-Пьер	</LastName>
-	<LastName>	Мартель	</LastName>
-	<LastName>	Гренье	</LastName>
-	<LastName>	Ландри	</LastName>
-	<LastName>	Лессард	</LastName>
-	<LastName>	Леклерк	</LastName>
-	<LastName>	Бедард	</LastName>
-	<LastName>	Бернье	</LastName>
-	<LastName>	Кутюр	</LastName>
-	<LastName>	Ришар	</LastName>
-	<LastName>	Мишо	</LastName>
-	<LastName>	Дежарден	</LastName>
-	<LastName>	Эбер	</LastName>
-	<LastName>	Блейс	</LastName>
-	
-	<LastName>	Тюркотт	</LastName>
-	<LastName>	Савар	</LastName>
-	<LastName>	Лашанс	</LastName>
-	<LastName>	Парент	</LastName>
-	<LastName>	Демер	</LastName>
-	<LastName>	Госслин	</LastName>
+	<LastName>Трамбле</LastName>
+	<LastName>Ганон</LastName>
+	<LastName>Рой</LastName>
+	<LastName>Кот</LastName>
+	<LastName>Бушар</LastName>
+	<LastName>Готье</LastName>
+	<LastName>Морен</LastName>
+	<LastName>Лавуа</LastName>
+	<LastName>Фортин</LastName>
+	<LastName>Ганье</LastName>
+	<LastName>Пельтье</LastName>
+	<LastName>Белангер</LastName>
+	<LastName>Бержерон</LastName>
+	<LastName>Левек</LastName>
+	<LastName>Симард</LastName>
+	<LastName>Жирар</LastName>
+	<LastName>Лебланк</LastName>
+	<LastName>Буше</LastName>
+	<LastName>Уэлле</LastName>
+	<LastName>Карон</LastName>
+	<LastName>Бьюли</LastName>
+	<LastName>Порье</LastName>
+	<LastName>Дубе</LastName>
+	<LastName>Клутье</LastName>
+	<LastName>Фурнье</LastName>
+	<LastName>Лапоинт</LastName>
+	<LastName>Лефевр</LastName>
+	<LastName>Пулен</LastName>
+	<LastName>Надю</LastName>
+	<LastName>Мартин</LastName>
+	<LastName>Сен-Пьер</LastName>
+	<LastName>Мартель</LastName>
+	<LastName>Гренье</LastName>
+	<LastName>Ландри</LastName>
+	<LastName>Лессард</LastName>
+	<LastName>Леклерк</LastName>
+	<LastName>Бедард</LastName>
+	<LastName>Бернье</LastName>
+	<LastName>Кутюр</LastName>
+	<LastName>Ришар</LastName>
+	<LastName>Мишо</LastName>
+	<LastName>Дежарден</LastName>
+	<LastName>Эбер</LastName>
+	<LastName>Блейс</LastName>
+	<LastName>Тюркотт</LastName>
+	<LastName>Савар</LastName>
+	<LastName>Лашанс</LastName>
+	<LastName>Парент</LastName>
+	<LastName>Демер</LastName>
+	<LastName>Госслин</LastName>
 	
 	<Regiment name="regiment.canada1">
       <Experience>experience.canada1</Experience>
@@ -627,434 +681,437 @@
 
 	
 	
-    <Nation name="США" chance="9">
+    <Nation name="American" chance="9">
         <Ethnicity name="nor" chance="1" />
         <Ethnicity name="med" chance="1" />
         <Ethnicity name="afri" chance="1" />
 
-		<FirstName>	Аарон	</FirstName>
-		<FirstName>	Эбботт	</FirstName>
-		<FirstName>	Адам	</FirstName>
-		<FirstName>	Эддисон	</FirstName>
-		<FirstName>	Адриан	</FirstName>
-		<FirstName>	Алан	</FirstName>
-		<FirstName>	Альберт	</FirstName>
-		<FirstName>	Алден	</FirstName>
-		<FirstName>	Алдис	</FirstName>
-		<FirstName>	Алекс	</FirstName>
-		<FirstName>	Алфи	</FirstName>
-		<FirstName>	Альфред	</FirstName>
-		<FirstName>	Аллан	</FirstName>
-		<FirstName>	Алстон	</FirstName>
-		<FirstName>	Альтон	</FirstName>
-		<FirstName>	Алвис	</FirstName>
-		<FirstName>	Амос	</FirstName>
-		<FirstName>	Эндрю	</FirstName>
-		<FirstName>	Ангус	</FirstName>
-		<FirstName>	Ансель	</FirstName>
-		<FirstName>	Энтони	</FirstName>
-		<FirstName>	Арчер	</FirstName>
-		<FirstName>	Арнольд	</FirstName>
-		<FirstName>	Артур	</FirstName>
-		<FirstName>	Обри	</FirstName>
-		<FirstName>	Остин	</FirstName>
-		<FirstName>	Эвери	</FirstName>
-		<FirstName>	Аксель	</FirstName>
-		<FirstName>	Болдвин	</FirstName>
-		<FirstName>	Барклай	</FirstName>
-		<FirstName>	Барнаби	</FirstName>
-		<FirstName>	Барретт	</FirstName>
-		<FirstName>	Бэрри	</FirstName>
-		<FirstName>	Бен	</FirstName>
-		<FirstName>	Бентон	</FirstName>
-		<FirstName>	Бернард	</FirstName>
-		<FirstName>	Берт	</FirstName>
-		<FirstName>	Блейн	</FirstName>
-		<FirstName>	Блейр	</FirstName>
-		<FirstName>	Блек	</FirstName>
-		<FirstName>	Борис	</FirstName>
-		<FirstName>	Воуэн	</FirstName>
-		<FirstName>	Брейден	</FirstName>
-		<FirstName>	Брэдли	</FirstName>
-		<FirstName>	Брендан	</FirstName>
-		<FirstName>	Брендон	</FirstName>
-		<FirstName>	Брент	</FirstName>
-		<FirstName>	Бретт	</FirstName>
-		<FirstName>	Брайн	</FirstName>
-		<FirstName>	Брок	</FirstName>
-		<FirstName>	Брюс	</FirstName>
-		<FirstName>	Брюно	</FirstName>
-		<FirstName>	Брайант	</FirstName>
-		<FirstName>	Бак	</FirstName>
-		<FirstName>	Бад	</FirstName>
-		<FirstName>	Бертон	</FirstName>
-		<FirstName>	Байрон	</FirstName>
-		<FirstName>	Калеб	</FirstName>
-		<FirstName>	Калверт	</FirstName>
-		<FirstName>	Кельвин	</FirstName>
-		<FirstName>	Карл	</FirstName>
-		<FirstName>	Карлтон	</FirstName>
-		<FirstName>	Карни	</FirstName>
-		<FirstName>	Картер	</FirstName>
-		<FirstName>	Карвер	</FirstName>
-		<FirstName>	Кэри	</FirstName>
-		<FirstName>	Кейси	</FirstName>
-		<FirstName>	Чад	</FirstName>
-		<FirstName>	Чандлер	</FirstName>
-		<FirstName>	Чанинг	</FirstName>
-		<FirstName>	Чапман	</FirstName>
-		<FirstName>	Чарльз	</FirstName>
-		<FirstName>	Честер	</FirstName>
-		<FirstName>	Кристиан	</FirstName>
-		<FirstName>	Кристофер	</FirstName>
-		<FirstName>	Кларенс	</FirstName>
-		<FirstName>	Клод	</FirstName>
-		<FirstName>	Клейтон	</FirstName>
-		<FirstName>	Клиффорд	</FirstName>
-		<FirstName>	Клив	</FirstName>
-		<FirstName>	Колин	</FirstName>
-		<FirstName>	Конан	</FirstName>
-		<FirstName>	Коннор	</FirstName>
-		<FirstName>	Конрад	</FirstName>
-		<FirstName>	Крейг	</FirstName>
-		<FirstName>	Кросби	</FirstName>
-		<FirstName>	Кулберт	</FirstName>
-		<FirstName>	Калвер	</FirstName>
-		<FirstName>	Курт	</FirstName>
-		<FirstName>	Куртис	</FirstName>
-		<FirstName>	Дейл	</FirstName>
-		<FirstName>	Делтон	</FirstName>
-		<FirstName>	Деймон	</FirstName>
-		<FirstName>	Даниэль	</FirstName>
-		<FirstName>	Давид	</FirstName>
-		<FirstName>	Дин	</FirstName>
-		<FirstName>	Деклан	</FirstName>
-		<FirstName>	Деннис	</FirstName>
-		<FirstName>	Дерек	</FirstName>
-		<FirstName>	Дермот	</FirstName>
-		<FirstName>	Дес	</FirstName>
-		<FirstName>	Десмонд	</FirstName>
-		<FirstName>	Декстер	</FirstName>
-		<FirstName>	Диллон	</FirstName>
-		<FirstName>	Дион	</FirstName>
-		<FirstName>	Дирк	</FirstName>
-		<FirstName>	Доминик	</FirstName>
-		<FirstName>	Дональд	</FirstName>
-		<FirstName>	Дуглас	</FirstName>
-		<FirstName>	Дрейк	</FirstName>
-		<FirstName>	Дрю	</FirstName>
-		<FirstName>	Дункан	</FirstName>
-		<FirstName>	Дуайт	</FirstName>
-		<FirstName>	Дилан	</FirstName>
-		<FirstName>	Эрл	</FirstName>
-		<FirstName>	Эдан	</FirstName>
-		<FirstName>	Эдди	</FirstName>
-		<FirstName>	Эдгар	</FirstName>
-		<FirstName>	Эдмонд	</FirstName>
-		<FirstName>	Эдмунд	</FirstName>
-		<FirstName>	Эдвард	</FirstName>
-		<FirstName>	Эдвин	</FirstName>
-		<FirstName>	Эли	</FirstName>
-		<FirstName>	Элиас	</FirstName>
-		<FirstName>	Элайджа	</FirstName>
-		<FirstName>	Элиот	</FirstName>
-		<FirstName>	Эллиотт	</FirstName>
-		<FirstName>	Элтон	</FirstName>
-		<FirstName>	Элвис	</FirstName>
-		<FirstName>	Эмерсон	</FirstName>
-		<FirstName>	Эмери	</FirstName>
-		<FirstName>	Эрик	</FirstName>
-		<FirstName>	Эрнест	</FirstName>
-		<FirstName>	Эррол	</FirstName>
-		<FirstName>	Эрскин	</FirstName>
-		<FirstName>	Эрвин	</FirstName>
-		<FirstName>	Этан	</FirstName>
-		<FirstName>	Этанаэль	</FirstName>
-		<FirstName>	Юджин	</FirstName>
-		<FirstName>	Эван	</FirstName>
-		<FirstName>	Эверетт	</FirstName>
-		<FirstName>	Феликс	</FirstName>
-		<FirstName>	Феррис	</FirstName>
-		<FirstName>	Флойд	</FirstName>
-		<FirstName>	Форбс	</FirstName>
-		<FirstName>	Форрест	</FirstName>
-		<FirstName>	Фостер	</FirstName>
-		<FirstName>	Фокс	</FirstName>
-		<FirstName>	Францис	</FirstName>
-		<FirstName>	Франк	</FirstName>
-		<FirstName>	Фрейзер	</FirstName>
-		<FirstName>	Фред	</FirstName>
-		<FirstName>	Габриэль	</FirstName>
-		<FirstName>	Гейл	</FirstName>
-		<FirstName>	Галвин	</FirstName>
-		<FirstName>	Гаррет	</FirstName>
-		<FirstName>	Гарт	</FirstName>
-		<FirstName>	Гавин	</FirstName>
-		<FirstName>	Георг	</FirstName>
-		<FirstName>	Геральд	</FirstName>
-		<FirstName>	Джерар	</FirstName>
-		<FirstName>	Жиль	</FirstName>
-		<FirstName>	Гилрой	</FirstName>
-		<FirstName>	Гленн	</FirstName>
-		<FirstName>	Грэхам	</FirstName>
-		<FirstName>	Грант	</FirstName>
-		<FirstName>	Грегори	</FirstName>
-		<FirstName>	Гай	</FirstName>
-		<FirstName>	Хал	</FirstName>
-		<FirstName>	Харли	</FirstName>
-		<FirstName>	Харольд	</FirstName>
-		<FirstName>	Харрис	</FirstName>
-		<FirstName>	Хартли	</FirstName>
-		<FirstName>	Хит	</FirstName>
-		<FirstName>	Гектор	</FirstName>
-		<FirstName>	Хенри	</FirstName>
-		<FirstName>	Ховард	</FirstName>
-		<FirstName>	Хантер	</FirstName>
-		<FirstName>	Ян	</FirstName>
-		<FirstName>	Ирвин	</FirstName>
-		<FirstName>	Ирвинг	</FirstName>
-		<FirstName>	Исаак	</FirstName>
-		<FirstName>	Исаия	</FirstName>
-		<FirstName>	Иван	</FirstName>
-		<FirstName>	Джэк	</FirstName>
-		<FirstName>	Якоб	</FirstName>
-		<FirstName>	Джеймс	</FirstName>
-		<FirstName>	Джейсон	</FirstName>
-		<FirstName>	Джаспер	</FirstName>
-		<FirstName>	Джэд	</FirstName>
-		<FirstName>	Джеффри	</FirstName>
-		<FirstName>	Еремия	</FirstName>
-		<FirstName>	Джереми	</FirstName>
-		<FirstName>	Джером	</FirstName>
-		<FirstName>	Джесси	</FirstName>
-		<FirstName>	Джимми	</FirstName>
-		<FirstName>	Джо	</FirstName>
-		<FirstName>	Джой	</FirstName>
-		<FirstName>	Джон	</FirstName>
-		<FirstName>	Джонатан	</FirstName>
-		<FirstName>	Йозеф	</FirstName>
-		<FirstName>	Джошуа	</FirstName>
-		<FirstName>	Джастин	</FirstName>
-		<FirstName>	Кейн	</FirstName>
-		<FirstName>	Китон	</FirstName>
-		<FirstName>	Кейт	</FirstName>
-		<FirstName>	Кельвин	</FirstName>
-		<FirstName>	Кен	</FirstName>
-		<FirstName>	Кендалл	</FirstName>
-		<FirstName>	Кент	</FirstName>
-		<FirstName>	Кевин	</FirstName>
-		<FirstName>	Кифер	</FirstName>
-		<FirstName>	Кирк	</FirstName>
-		<FirstName>	Кит	</FirstName>
-		<FirstName>	Коди	</FirstName>
-		<FirstName>	Конрад	</FirstName>
-		<FirstName>	Курт	</FirstName>
-		<FirstName>	Кайл	</FirstName>
-		<FirstName>	Ламонт	</FirstName>
-		<FirstName>	Ларс	</FirstName>
-		<FirstName>	Лоуренс	</FirstName>
-		<FirstName>	Ли	</FirstName>
-		<FirstName>	Лео	</FirstName>
-		<FirstName>	Леон	</FirstName>
-		<FirstName>	Лирой	</FirstName>
-		<FirstName>	Лесли	</FirstName>
-		<FirstName>	Льюис	</FirstName>
-		<FirstName>	Лионел	</FirstName>
-		<FirstName>	Ллойд	</FirstName>
-		<FirstName>	Логан	</FirstName>
-		<FirstName>	Луис	</FirstName>
-		<FirstName>	Лукас	</FirstName>
-		<FirstName>	Люк	</FirstName>
-		<FirstName>	Лютер	</FirstName>
-		<FirstName>	Линдон	</FirstName>
-		<FirstName>	Малькольм	</FirstName>
-		<FirstName>	Марк	</FirstName>
-		<FirstName>	Маркус	</FirstName>
-		<FirstName>	Марк	</FirstName>
-		<FirstName>	Мартин	</FirstName>
-		<FirstName>	Марвин	</FirstName>
-		<FirstName>	Маттью	</FirstName>
-		<FirstName>	Морис	</FirstName>
-		<FirstName>	Макс	</FirstName>
-		<FirstName>	Максвелл	</FirstName>
-		<FirstName>	Майкл	</FirstName>
-		<FirstName>	Мюррей	</FirstName>
-		<FirstName>	Натан	</FirstName>
-		<FirstName>	Нил	</FirstName>
-		<FirstName>	Ник	</FirstName>
-		<FirstName>	Найджел	</FirstName>
-		<FirstName>	Ноул	</FirstName>
-		<FirstName>	Оливер	</FirstName>
-		<FirstName>	Оуэн	</FirstName>
-		<FirstName>	Пол	</FirstName>
-		<FirstName>	Пакстон	</FirstName>
-		<FirstName>	Перси	</FirstName>
-		<FirstName>	Перри	</FirstName>
-		<FirstName>	Питер	</FirstName>
-		<FirstName>	Пейтон	</FirstName>
-		<FirstName>	Филип	</FirstName>
-		<FirstName>	Пирс	</FirstName>
-		<FirstName>	Квинн	</FirstName>
-		<FirstName>	Ральф	</FirstName>
-		<FirstName>	Рамси	</FirstName>
-		<FirstName>	Рекс	</FirstName>
-		<FirstName>	Ричард	</FirstName>
-		<FirstName>	Роберт	</FirstName>
-		<FirstName>	Робин	</FirstName>
-		<FirstName>	Родни	</FirstName>
-		<FirstName>	Роджер	</FirstName>
-		<FirstName>	Роланд	</FirstName>
-		<FirstName>	Рольф	</FirstName>
-		<FirstName>	Рональд	</FirstName>
-		<FirstName>	Рори	</FirstName>
-		<FirstName>	Росс	</FirstName>
-		<FirstName>	Рой	</FirstName>
-		<FirstName>	Расселл	</FirstName>
-		<FirstName>	Райн	</FirstName>
-		<FirstName>	Сэм	</FirstName>
-		<FirstName>	Сэмюэль	</FirstName>
-		<FirstName>	Скотт	</FirstName>
-		<FirstName>	Син	</FirstName>
-		<FirstName>	Себастиан	</FirstName>
-		<FirstName>	Сэф	</FirstName>
-		<FirstName>	Шон	</FirstName>
-		<FirstName>	Симон	</FirstName>
-		<FirstName>	Соломон	</FirstName>
-		<FirstName>	Стэн	</FirstName>
-		<FirstName>	Стефан	</FirstName>
-		<FirstName>	Стюарт	</FirstName>
-		<FirstName>	Томас	</FirstName>
-		<FirstName>	Тимоти	</FirstName>
-		<FirstName>	Титус	</FirstName>
-		<FirstName>	Тобиас	</FirstName>
-		<FirstName>	Тоби	</FirstName>
-		<FirstName>	Тобиас	</FirstName>
-		<FirstName>	Тони	</FirstName>
-		<FirstName>	Тревелерс	</FirstName>
-		<FirstName>	Трэвис	</FirstName>
-		<FirstName>	Трент	</FirstName>
-		<FirstName>	Трэвор	</FirstName>
-		<FirstName>	Тристан	</FirstName>
-		<FirstName>	Трой	</FirstName>
-		<FirstName>	Труман	</FirstName>
-		<FirstName>	Тайлер	</FirstName>
-		<FirstName>	Ванс	</FirstName>
-		<FirstName>	Вон	</FirstName>
-		<FirstName>	Виктор	</FirstName>
-		<FirstName>	Винсент	</FirstName>
-		<FirstName>	Волтер	</FirstName>
-		<FirstName>	Варрен	</FirstName>
-		<FirstName>	Вейн	</FirstName>
-		<FirstName>	Уэсли	</FirstName>
-		<FirstName>	Вилл	</FirstName>
-		<FirstName>	Вилард	</FirstName>
-		<FirstName>	Вилльям	</FirstName>
-		<FirstName>	Виллис	</FirstName>
-		<FirstName>	Винстон	</FirstName>
-		<FirstName>	Зак	</FirstName>
-		<FirstName>	Зейн	</FirstName>
+		<FirstName>Аарон</FirstName>
+		<FirstName>Эбботт</FirstName>
+		<FirstName>Адам</FirstName>
+		<FirstName>Эддисон</FirstName>
+		<FirstName>Адриан</FirstName>
+		<FirstName>Aiden</FirstName>
+		<FirstName>Алан</FirstName>
+		<FirstName>Альберт</FirstName>
+		<FirstName>Алден</FirstName>
+		<FirstName>Алдис</FirstName>
+		<FirstName>Алекс</FirstName>
+		<FirstName>Алфи</FirstName>
+		<FirstName>Альфред</FirstName>
+		<FirstName>Аллан</FirstName>
+		<FirstName>Алстон</FirstName>
+		<FirstName>Альтон</FirstName>
+		<FirstName>Алвис</FirstName>
+		<FirstName>Амос</FirstName>
+		<FirstName>Эндрю</FirstName>
+		<FirstName>Ангус</FirstName>
+		<FirstName>Ансель</FirstName>
+		<FirstName>Энтони</FirstName>
+		<FirstName>Арчер</FirstName>
+		<FirstName>Арнольд</FirstName>
+		<FirstName>Артур</FirstName>
+		<FirstName>Обри</FirstName>
+		<FirstName>Остин</FirstName>
+		<FirstName>Эвери</FirstName>
+		<FirstName>Аксель</FirstName>
+		<FirstName>Болдвин</FirstName>
+		<FirstName>Барклай</FirstName>
+		<FirstName>Барнаби</FirstName>
+		<FirstName>Барретт</FirstName>
+		<FirstName>Бэрри</FirstName>
+		<FirstName>Бен</FirstName>
+		<FirstName>Бентон</FirstName>
+		<FirstName>Бернард</FirstName>
+		<FirstName>Берт</FirstName>
+		<FirstName>Блейн</FirstName>
+		<FirstName>Блейр</FirstName>
+		<FirstName>Блек</FirstName>
+		<FirstName>Борис</FirstName>
+		<FirstName>Воуэн</FirstName>
+		<FirstName>Брейден</FirstName>
+		<FirstName>Брэдли</FirstName>
+		<FirstName>Брендан</FirstName>
+		<FirstName>Брендон</FirstName>
+		<FirstName>Брент</FirstName>
+		<FirstName>Бретт</FirstName>
+		<FirstName>Брайн</FirstName>
+		<FirstName>Брок</FirstName>
+		<FirstName>Брюс</FirstName>
+		<FirstName>Брюно</FirstName>
+		<FirstName>Брайант</FirstName>
+		<FirstName>Бак</FirstName>
+		<FirstName>Бад</FirstName>
+		<FirstName>Бертон</FirstName>
+		<FirstName>Байрон</FirstName>
+		<FirstName>Калеб</FirstName>
+		<FirstName>Калверт</FirstName>
+		<FirstName>Кельвин</FirstName>
+		<FirstName>Карл</FirstName>
+		<FirstName>Карлтон</FirstName>
+		<FirstName>Карни</FirstName>
+		<FirstName>Картер</FirstName>
+		<FirstName>Карвер</FirstName>
+		<FirstName>Кэри</FirstName>
+		<FirstName>Кейси</FirstName>
+		<FirstName>Чад</FirstName>
+		<FirstName>Чандлер</FirstName>
+		<FirstName>Чанинг</FirstName>
+		<FirstName>Чапман</FirstName>
+		<FirstName>Чарльз</FirstName>
+		<FirstName>Честер</FirstName>
+		<FirstName>Кристиан</FirstName>
+		<FirstName>Кристофер</FirstName>
+		<FirstName>Кларенс</FirstName>
+		<FirstName>Клод</FirstName>
+		<FirstName>Клейтон</FirstName>
+		<FirstName>Клиффорд</FirstName>
+		<FirstName>Клив</FirstName>
+		<FirstName>Колин</FirstName>
+		<FirstName>Конан</FirstName>
+		<FirstName>Коннор</FirstName>
+		<FirstName>Конрад</FirstName>
+		<FirstName>Крейг</FirstName>
+		<FirstName>Кросби</FirstName>
+		<FirstName>Кулберт</FirstName>
+		<FirstName>Калвер</FirstName>
+		<FirstName>Курт</FirstName>
+		<FirstName>Куртис</FirstName>
+		<FirstName>Дейл</FirstName>
+		<FirstName>Делтон</FirstName>
+		<FirstName>Деймон</FirstName>
+		<FirstName>Даниэль</FirstName>
+		<FirstName>Давид</FirstName>
+		<FirstName>Дин</FirstName>
+		<FirstName>Деклан</FirstName>
+		<FirstName>Деннис</FirstName>
+		<FirstName>Дерек</FirstName>
+		<FirstName>Дермот</FirstName>
+		<FirstName>Дес</FirstName>
+		<FirstName>Десмонд</FirstName>
+		<FirstName>Декстер</FirstName>
+		<FirstName>Диллон</FirstName>
+		<FirstName>Дион</FirstName>
+		<FirstName>Дирк</FirstName>
+		<FirstName>Доминик</FirstName>
+		<FirstName>Дональд</FirstName>
+		<FirstName>Дуглас</FirstName>
+		<FirstName>Дрейк</FirstName>
+		<FirstName>Дрю</FirstName>
+		<FirstName>Дункан</FirstName>
+		<FirstName>Дуайт</FirstName>
+		<FirstName>Дилан</FirstName>
+		<FirstName>Эрл</FirstName>
+		<FirstName>Эдан</FirstName>
+		<FirstName>Эдди</FirstName>
+		<FirstName>Эдгар</FirstName>
+		<FirstName>Эдмонд</FirstName>
+		<FirstName>Эдмунд</FirstName>
+		<FirstName>Эдвард</FirstName>
+		<FirstName>Эдвин</FirstName>
+		<FirstName>Эли</FirstName>
+		<FirstName>Элиас</FirstName>
+		<FirstName>Элайджа</FirstName>
+		<FirstName>Элиот</FirstName>
+		<FirstName>Эллиотт</FirstName>
+		<FirstName>Элтон</FirstName>
+		<FirstName>Элвис</FirstName>
+		<FirstName>Эмерсон</FirstName>
+		<FirstName>Эмери</FirstName>
+		<FirstName>Эрик</FirstName>
+		<FirstName>Эрик</FirstName>
+		<FirstName>Эрнест</FirstName>
+		<FirstName>Эррол</FirstName>
+		<FirstName>Эрскин</FirstName>
+		<FirstName>Эрвин</FirstName>
+		<FirstName>Этан</FirstName>
+		<FirstName>Этанаэль</FirstName>
+		<FirstName>Юджин</FirstName>
+		<FirstName>Эван</FirstName>
+		<FirstName>Эверетт</FirstName>
+		<FirstName>Феликс</FirstName>
+		<FirstName>Феррис</FirstName>
+		<FirstName>Флойд</FirstName>
+		<FirstName>Форбс</FirstName>
+		<FirstName>Форрест</FirstName>
+		<FirstName>Фостер</FirstName>
+		<FirstName>Фокс</FirstName>
+		<FirstName>Францис</FirstName>
+		<FirstName>Франк</FirstName>
+		<FirstName>Фрейзер</FirstName>
+		<FirstName>Фред</FirstName>
+		<FirstName>Габриэль</FirstName>
+		<FirstName>Гейл</FirstName>
+		<FirstName>Галвин</FirstName>
+		<FirstName>Гаррет</FirstName>
+		<FirstName>Гарт</FirstName>
+		<FirstName>Гавин</FirstName>
+		<FirstName>Георг</FirstName>
+		<FirstName>Геральд</FirstName>
+		<FirstName>Джерар</FirstName>
+		<FirstName>Жиль</FirstName>
+		<FirstName>Гилрой</FirstName>
+		<FirstName>Гленн</FirstName>
+		<FirstName>Грэхам</FirstName>
+		<FirstName>Грант</FirstName>
+		<FirstName>Грегори</FirstName>
+		<FirstName>Гай</FirstName>
+		<FirstName>Хал</FirstName>
+		<FirstName>Харли</FirstName>
+		<FirstName>Харольд</FirstName>
+		<FirstName>Харрис</FirstName>
+		<FirstName>Хартли</FirstName>
+		<FirstName>Хит</FirstName>
+		<FirstName>Гектор</FirstName>
+		<FirstName>Хенри</FirstName>
+		<FirstName>Ховард</FirstName>
+		<FirstName>Хантер</FirstName>
+		<FirstName>Ян</FirstName>
+		<FirstName>Ирвин</FirstName>
+		<FirstName>Ирвинг</FirstName>
+		<FirstName>Исаак</FirstName>
+		<FirstName>Исаия</FirstName>
+		<FirstName>Иван</FirstName>
+		<FirstName>Джэк</FirstName>
+		<FirstName>Якоб</FirstName>
+		<FirstName>Джеймс</FirstName>
+		<FirstName>Джейсон</FirstName>
+		<FirstName>Джаспер</FirstName>
+		<FirstName>Джэд</FirstName>
+		<FirstName>Джеффри</FirstName>
+		<FirstName>Еремия</FirstName>
+		<FirstName>Джереми</FirstName>
+		<FirstName>Джером</FirstName>
+		<FirstName>Джесси</FirstName>
+		<FirstName>Джимми</FirstName>
+		<FirstName>Джо</FirstName>
+		<FirstName>Джой</FirstName>
+		<FirstName>Джон</FirstName>
+		<FirstName>Джонатан</FirstName>
+		<FirstName>Йозеф</FirstName>
+		<FirstName>Джошуа</FirstName>
+		<FirstName>Джастин</FirstName>
+		<FirstName>Кейн</FirstName>
+		<FirstName>Китон</FirstName>
+		<FirstName>Кейт</FirstName>
+		<FirstName>Кельвин</FirstName>
+		<FirstName>Кен</FirstName>
+		<FirstName>Кендалл</FirstName>
+		<FirstName>Кент</FirstName>
+		<FirstName>Кевин</FirstName>
+		<FirstName>Кифер</FirstName>
+		<FirstName>Кирк</FirstName>
+		<FirstName>Кит</FirstName>
+		<FirstName>Коди</FirstName>
+		<FirstName>Конрад</FirstName>
+		<FirstName>Курт</FirstName>
+		<FirstName>Кайл</FirstName>
+		<FirstName>Ламонт</FirstName>
+		<FirstName>Ларс</FirstName>
+		<FirstName>Лоуренс</FirstName>
+		<FirstName>Ли</FirstName>
+		<FirstName>Лео</FirstName>
+		<FirstName>Леон</FirstName>
+		<FirstName>Лирой</FirstName>
+		<FirstName>Лесли</FirstName>
+		<FirstName>Льюис</FirstName>
+		<FirstName>Лионел</FirstName>
+		<FirstName>Ллойд</FirstName>
+		<FirstName>Логан</FirstName>
+		<FirstName>Луис</FirstName>
+		<FirstName>Лукас</FirstName>
+		<FirstName>Люк</FirstName>
+		<FirstName>Лютер</FirstName>
+		<FirstName>Линдон</FirstName>
+		<FirstName>Малькольм</FirstName>
+		<FirstName>Марк</FirstName>
+		<FirstName>Маркус</FirstName>
+		<FirstName>Марк</FirstName>
+		<FirstName>Мартин</FirstName>
+		<FirstName>Марвин</FirstName>
+		<FirstName>Маттью</FirstName>
+		<FirstName>Морис</FirstName>
+		<FirstName>Макс</FirstName>
+		<FirstName>Максвелл</FirstName>
+		<FirstName>Майкл</FirstName>
+		<FirstName>Мюррей</FirstName>
+		<FirstName>Натан</FirstName>
+		<FirstName>Нил</FirstName>
+		<FirstName>Ник</FirstName>
+		<FirstName>Найджел</FirstName>
+		<FirstName>Ноул</FirstName>
+		<FirstName>Оливер</FirstName>
+		<FirstName>Оуэн</FirstName>
+		<FirstName>Пол</FirstName>
+		<FirstName>Пакстон</FirstName>
+		<FirstName>Перси</FirstName>
+		<FirstName>Перри</FirstName>
+		<FirstName>Питер</FirstName>
+		<FirstName>Пейтон</FirstName>
+		<FirstName>Филип</FirstName>
+		<FirstName>Пирс</FirstName>
+		<FirstName>Квинн</FirstName>
+		<FirstName>Ральф</FirstName>
+		<FirstName>Рамси</FirstName>
+		<FirstName>Рекс</FirstName>
+		<FirstName>Ричард</FirstName>
+		<FirstName>Роберт</FirstName>
+		<FirstName>Робин</FirstName>
+		<FirstName>Родни</FirstName>
+		<FirstName>Роджер</FirstName>
+		<FirstName>Роланд</FirstName>
+		<FirstName>Рольф</FirstName>
+		<FirstName>Рональд</FirstName>
+		<FirstName>Рори</FirstName>
+		<FirstName>Росс</FirstName>
+		<FirstName>Рой</FirstName>
+		<FirstName>Расселл</FirstName>
+		<FirstName>Райн</FirstName>
+		<FirstName>Сэм</FirstName>
+		<FirstName>Сэмюэль</FirstName>
+		<FirstName>Скотт</FirstName>
+		<FirstName>Син</FirstName>
+		<FirstName>Себастиан</FirstName>
+		<FirstName>Сэф</FirstName>
+		<FirstName>Шон</FirstName>
+		<FirstName>Симон</FirstName>
+		<FirstName>Соломон</FirstName>
+		<FirstName>Стэн</FirstName>
+		<FirstName>Стефан</FirstName>
+		<FirstName>Стюарт</FirstName>
+		<FirstName>Стюарт</FirstName>
+		<FirstName>Томас</FirstName>
+		<FirstName>Тимоти</FirstName>
+		<FirstName>Титус</FirstName>
+		<FirstName>Тобиас</FirstName>
+		<FirstName>Тоби</FirstName>
+		<FirstName>Тобиас</FirstName>
+		<FirstName>Тони</FirstName>
+		<FirstName>Тревелерс</FirstName>
+		<FirstName>Трэвис</FirstName>
+		<FirstName>Трент</FirstName>
+		<FirstName>Трэвор</FirstName>
+		<FirstName>Тристан</FirstName>
+		<FirstName>Трой</FirstName>
+		<FirstName>Труман</FirstName>
+		<FirstName>Тайлер</FirstName>
+		<FirstName>Ванс</FirstName>
+		<FirstName>Вон</FirstName>
+		<FirstName>Виктор</FirstName>
+		<FirstName>Винсент</FirstName>
+		<FirstName>Волтер</FirstName>
+		<FirstName>Варрен</FirstName>
+		<FirstName>Вейн</FirstName>
+		<FirstName>Уэсли</FirstName>
+		<FirstName>Вилл</FirstName>
+		<FirstName>Вилард</FirstName>
+		<FirstName>Вилльям</FirstName>
+		<FirstName>Виллис</FirstName>
+		<FirstName>Винстон</FirstName>
+		<FirstName>Зак</FirstName>
+		<FirstName>Зейн</FirstName>
 
-		<LastName>	Эбботт 	</LastName>
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Тома	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Гарсия	</LastName>
-		<LastName>	Мартинес	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Родригес	</LastName>
-		<LastName>	Льюис	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Хернандес	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Лопес	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Гонзалес	</LastName>
-		<LastName>	Нельсон	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Перес	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Стюарт	</LastName>
-		<LastName>	Санчес	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Рид	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Ривера	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ховард	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Торрес	</LastName>
-		<LastName>	Петерсон	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Рамирес	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Брукс	</LastName>
-		<LastName>	Кэлли	</LastName>
-		<LastName>	Сандерс	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Бернс	</LastName>
-		<LastName>	Росс	</LastName>
-		<LastName>	Хендерсон	</LastName>
-		<LastName>	Коулман	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Пэрри	</LastName>
-		<LastName>	Пауэлл	</LastName>
-		<LastName>	Лонг	</LastName>
-		<LastName>	Паттерсон	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Флорес	</LastName>
-		<LastName>	Вашингтон	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Симмонс	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Гонзалес	</LastName>
-		<LastName>	Брайнт	</LastName>
-		<LastName>	Пресли	</LastName>
-		<LastName>	Расселл	</LastName>
-		<LastName>	Гриффинс	</LastName>
-		<LastName>	Диас	</LastName>
-		<LastName>	Хейз	</LastName>
+		<LastName>Эбботт </LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Тома</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Гарсия</LastName>
+		<LastName>Мартинес</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Родригес</LastName>
+		<LastName>Льюис</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Хернандес</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Лопес</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Гонзалес</LastName>
+		<LastName>Нельсон</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Перес</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Стюарт</LastName>
+		<LastName>Санчес</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Рид</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Ривера</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ховард</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Торрес</LastName>
+		<LastName>Петерсон</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Рамирес</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Брукс</LastName>
+		<LastName>Кэлли</LastName>
+		<LastName>Сандерс</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Бернс</LastName>
+		<LastName>Росс</LastName>
+		<LastName>Хендерсон</LastName>
+		<LastName>Коулман</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Пэрри</LastName>
+		<LastName>Пауэлл</LastName>
+		<LastName>Лонг</LastName>
+		<LastName>Паттерсон</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Флорес</LastName>
+		<LastName>Вашингтон</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Симмонс</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Гонзалес</LastName>
+		<LastName>Брайнт</LastName>
+		<LastName>Пресли</LastName>
+		<LastName>Расселл</LastName>
+		<LastName>Гриффинс</LastName>
+		<LastName>Диас</LastName>
+		<LastName>Хейз</LastName>
         <Regiment name="regiment.america1">
             <Experience>experience.none</Experience>
             <Experience>experience.america1</Experience>
@@ -1070,202 +1127,202 @@
     </Nation>
 	
 	
-    <Nation name="Великобритания" chance="4">
+    <Nation name="British" chance="4">
         <Ethnicity name="med" chance="2" />
         <Ethnicity name="afri" chance="1" />
         <Ethnicity name="nor" chance="2" />
-		<FirstName>	Джеймс	</FirstName>
-		<FirstName>	Джон	</FirstName>
-		<FirstName>	Роберт	</FirstName>
-		<FirstName>	Майкл	</FirstName>
-		<FirstName>	Вилльям	</FirstName>
-		<FirstName>	Дэвид	</FirstName>
-		<FirstName>	Ричард	</FirstName>
-		<FirstName>	Джозеф	</FirstName>
-		<FirstName>	Чарльз	</FirstName>
-		<FirstName>	Томас	</FirstName>
-		<FirstName>	Крис	</FirstName>
-		<FirstName>	Даниэль	</FirstName>
-		<FirstName>	Мэттью	</FirstName>
-		<FirstName>	Дональд	</FirstName>
-		<FirstName>	Энтони	</FirstName>
-		<FirstName>	Пол	</FirstName>
-		<FirstName>	Марк	</FirstName>
-		<FirstName>	Георг	</FirstName>
-		<FirstName>	Стивен	</FirstName>
-		<FirstName>	Кеннет	</FirstName>
-		<FirstName>	Эндрю	</FirstName>
-		<FirstName>	Эдвард	</FirstName>
-		<FirstName>	Брайн	</FirstName>
-		<FirstName>	Джошуа	</FirstName>
-		<FirstName>	Кевин	</FirstName>
-		<FirstName>	Рональд	</FirstName>
-		<FirstName>	Тимоти	</FirstName>
-		<FirstName>	Джейсон	</FirstName>
-		<FirstName>	Джеффри	</FirstName>
-		<FirstName>	Гари	</FirstName>
-		<FirstName>	Райн	</FirstName>
-		<FirstName>	Ник	</FirstName>
-		<FirstName>	Эрик	</FirstName>
-		<FirstName>	Стефан	</FirstName>
-		<FirstName>	Якоб	</FirstName>
-		<FirstName>	Ларри	</FirstName>
-		<FirstName>	Франк	</FirstName>
-		<FirstName>	Джонатан	</FirstName>
-		<FirstName>	Скотт	</FirstName>
-		<FirstName>	Джастин	</FirstName>
-		<FirstName>	Реймонд	</FirstName>
-		<FirstName>	Брендон	</FirstName>
-		<FirstName>	Грегори	</FirstName>
-		<FirstName>	Самуэль	</FirstName>
-		<FirstName>	Патрик	</FirstName>
-		<FirstName>	Бен	</FirstName>
-		<FirstName>	Джек	</FirstName>
-		<FirstName>	Дэннис	</FirstName>
-		<FirstName>	Джери	</FirstName>
-		<FirstName>	Алекс	</FirstName>
-		<FirstName>	Тайлер	</FirstName>
-		<FirstName>	Дуглас	</FirstName>
-		<FirstName>	Генри	</FirstName>
-		<FirstName>	Питер	</FirstName>
-		<FirstName>	Волтер	</FirstName>
-		<FirstName>	Аарон	</FirstName>
-		<FirstName>	Адам	</FirstName>
-		<FirstName>	Гарольд	</FirstName>
-		<FirstName>	Зак	</FirstName>
-		<FirstName>	Натан	</FirstName>
-		<FirstName>	Карл	</FirstName>
-		<FirstName>	Кайл	</FirstName>
-		<FirstName>	Артур	</FirstName>
-		<FirstName>	Геральд	</FirstName>
-		<FirstName>	Лоуренс	</FirstName>
-		<FirstName>	Роджер	</FirstName>
-		<FirstName>	Альберт	</FirstName>
-		<FirstName>	Кит	</FirstName>
-		<FirstName>	Джереми	</FirstName>
-		<FirstName>	Терри	</FirstName>
-		<FirstName>	Джо	</FirstName>
-		<FirstName>	Шон	</FirstName>
-		<FirstName>	Вилли	</FirstName>
-		<FirstName>	Джесс	</FirstName>
-		<FirstName>	Ральф	</FirstName>
-		<FirstName>	Билли	</FirstName>
-		<FirstName>	Остин	</FirstName>
-		<FirstName>	Брюс	</FirstName>
-		<FirstName>	Кристиан	</FirstName>
-		<FirstName>	Рой	</FirstName>
-		<FirstName>	Брайн	</FirstName>
-		<FirstName>	Луис	</FirstName>
-		<FirstName>	Гарри	</FirstName>
-		<FirstName>	Вейн	</FirstName>
-		<FirstName>	Этан	</FirstName>
-		<FirstName>	Джордан	</FirstName>
-		<FirstName>	Расселл	</FirstName>
-		<FirstName>	Алан	</FirstName>
-		<FirstName>	Филип	</FirstName>
-		<FirstName>	Ренди	</FirstName>
-		<FirstName>	Говард	</FirstName>
-		<FirstName>	Винцент	</FirstName>
-		<FirstName>	Бобби	</FirstName>
-		<FirstName>	Дилан	</FirstName>
-		<FirstName>	Джонни	</FirstName>
-		<FirstName>	Филлип	</FirstName>
-		<FirstName>	Крейг	</FirstName>
+		<FirstName>Джеймс</FirstName>
+		<FirstName>Джон</FirstName>
+		<FirstName>Роберт</FirstName>
+		<FirstName>Майкл</FirstName>
+		<FirstName>Вилльям</FirstName>
+		<FirstName>Дэвид</FirstName>
+		<FirstName>Ричард</FirstName>
+		<FirstName>Джозеф</FirstName>
+		<FirstName>Чарльз</FirstName>
+		<FirstName>Томас</FirstName>
+		<FirstName>Крис</FirstName>
+		<FirstName>Даниэль</FirstName>
+		<FirstName>Мэттью</FirstName>
+		<FirstName>Дональд</FirstName>
+		<FirstName>Энтони</FirstName>
+		<FirstName>Пол</FirstName>
+		<FirstName>Марк</FirstName>
+		<FirstName>Георг</FirstName>
+		<FirstName>Стивен</FirstName>
+		<FirstName>Кеннет</FirstName>
+		<FirstName>Эндрю</FirstName>
+		<FirstName>Эдвард</FirstName>
+		<FirstName>Брайн</FirstName>
+		<FirstName>Джошуа</FirstName>
+		<FirstName>Кевин</FirstName>
+		<FirstName>Рональд</FirstName>
+		<FirstName>Тимоти</FirstName>
+		<FirstName>Джейсон</FirstName>
+		<FirstName>Джеффри</FirstName>
+		<FirstName>Гари</FirstName>
+		<FirstName>Райн</FirstName>
+		<FirstName>Ник</FirstName>
+		<FirstName>Эрик</FirstName>
+		<FirstName>Стефан</FirstName>
+		<FirstName>Якоб</FirstName>
+		<FirstName>Ларри</FirstName>
+		<FirstName>Франк</FirstName>
+		<FirstName>Джонатан</FirstName>
+		<FirstName>Скотт</FirstName>
+		<FirstName>Джастин</FirstName>
+		<FirstName>Реймонд</FirstName>
+		<FirstName>Брендон</FirstName>
+		<FirstName>Грегори</FirstName>
+		<FirstName>Самуэль</FirstName>
+		<FirstName>Патрик</FirstName>
+		<FirstName>Бен</FirstName>
+		<FirstName>Джек</FirstName>
+		<FirstName>Дэннис</FirstName>
+		<FirstName>Джери</FirstName>
+		<FirstName>Алекс</FirstName>
+		<FirstName>Тайлер</FirstName>
+		<FirstName>Дуглас</FirstName>
+		<FirstName>Генри</FirstName>
+		<FirstName>Питер</FirstName>
+		<FirstName>Волтер</FirstName>
+		<FirstName>Аарон</FirstName>
+		<FirstName>Адам</FirstName>
+		<FirstName>Гарольд</FirstName>
+		<FirstName>Зак</FirstName>
+		<FirstName>Натан</FirstName>
+		<FirstName>Карл</FirstName>
+		<FirstName>Кайл</FirstName>
+		<FirstName>Артур</FirstName>
+		<FirstName>Геральд</FirstName>
+		<FirstName>Лоуренс</FirstName>
+		<FirstName>Роджер</FirstName>
+		<FirstName>Альберт</FirstName>
+		<FirstName>Кит</FirstName>
+		<FirstName>Джереми</FirstName>
+		<FirstName>Терри</FirstName>
+		<FirstName>Джо</FirstName>
+		<FirstName>Шон</FirstName>
+		<FirstName>Вилли</FirstName>
+		<FirstName>Джесс</FirstName>
+		<FirstName>Ральф</FirstName>
+		<FirstName>Билли</FirstName>
+		<FirstName>Остин</FirstName>
+		<FirstName>Брюс</FirstName>
+		<FirstName>Кристиан</FirstName>
+		<FirstName>Рой</FirstName>
+		<FirstName>Брайн</FirstName>
+		<FirstName>Луис</FirstName>
+		<FirstName>Гарри</FirstName>
+		<FirstName>Вейн</FirstName>
+		<FirstName>Этан</FirstName>
+		<FirstName>Джордан</FirstName>
+		<FirstName>Расселл</FirstName>
+		<FirstName>Алан</FirstName>
+		<FirstName>Филип</FirstName>
+		<FirstName>Ренди</FirstName>
+		<FirstName>Говард</FirstName>
+		<FirstName>Винцент</FirstName>
+		<FirstName>Бобби</FirstName>
+		<FirstName>Дилан</FirstName>
+		<FirstName>Джонни</FirstName>
+		<FirstName>Филлип</FirstName>
+		<FirstName>Крейг</FirstName>
 
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
 
         <Regiment name="regiment.britain1">
             <Experience>experience.britain1</Experience>
@@ -1282,7 +1339,7 @@
         </Regiment>
     </Nation>
 	
-	    <Nation name="ГДР" chance="2">
+	    <Nation name="East German" chance="2">
         <Ethnicity name="nor" chance="3" />
         <Ethnicity name="med" chance="1" />
 		
@@ -1318,14 +1375,13 @@
 	<LastName>Шмидт</LastName>
 	<LastName>Шнайдер</LastName>
 	<LastName>Фишер</LastName>
+        <LastName>Вебер</LastName>
 	<LastName>Мейер</LastName>
-	<LastName>Вебер</LastName>
-	<LastName>Шультс</LastName>
-	<LastName>Вагнер</LastName>
+        <LastName>Вагнер</LastName>
 	<LastName>Бекер</LastName>
 	<LastName>Бауэр</LastName>
 	<LastName>Хоффман</LastName>
-	<LastName>Шульц</LastName>
+        <LastName>Шульц</LastName>
 	<LastName>Кох</LastName>
 	<LastName>Рихтер</LastName>
 	<LastName>Клейн</LastName>
@@ -1339,7 +1395,9 @@
 	<LastName>Хартманн</LastName>
 	<LastName>Шмиц</LastName>
 	<LastName>Ланге</LastName>
-	<LastName>Мейер</LastName>        
+	<LastName>Майер</LastName>        
+	<LastName>Вальтер</LastName>
+        <LastName>Mэйер</LastName>
 	<LastName>Вальтер</LastName>
 	<LastName>Бек</LastName>
 	<LastName>Краус</LastName>
@@ -1386,7 +1444,7 @@
 </Nation>	
 
 	
-    <Nation name="ФРГ" chance="2">
+    <Nation name="West German" chance="2">
         <Ethnicity name="nor" chance="2" />
         <Ethnicity name="med" chance="1" />
 	<FirstName>Алекс</FirstName>
@@ -1421,9 +1479,8 @@
 	<LastName>Шмидт</LastName>
 	<LastName>Шнайдер</LastName>
 	<LastName>Фишер</LastName>
-	<LastName>Мейер</LastName>
 	<LastName>Вебер</LastName>
-	<LastName>Шультс</LastName>
+	<LastName>Мейер</LastName>
 	<LastName>Вагнер</LastName>
 	<LastName>Бекер</LastName>
 	<LastName>Бауэр</LastName>
@@ -1443,6 +1500,8 @@
 	<LastName>Шмиц</LastName>
 	<LastName>Ланге</LastName>
 	<LastName>Мейер</LastName>        
+	<LastName>Вальтер</LastName>
+	<LastName>Майер</LastName>
 	<LastName>Вальтер</LastName>
 	<LastName>Бек</LastName>
 	<LastName>Краус</LastName>
@@ -1479,7 +1538,7 @@
   </Nation>
 
  
-    <Nation name="Советский Союз" chance="12">
+    <Nation name="Soviet Union" chance="12">
         <Ethnicity name="nor" chance="14" />
 	<FirstName>Иван</FirstName>
 	<FirstName>Борис</FirstName>
@@ -1495,18 +1554,22 @@
 	<FirstName>Василий</FirstName>
 	<FirstName>Виктор</FirstName>
 	<FirstName>Юрий</FirstName>
+	<FirstName>Алексей</FirstName>
 	<FirstName>Никита</FirstName>
 	<FirstName>Сергей</FirstName>
+	<FirstName>Богдан</FirstName>
+	<FirstName>Андрей</FirstName>
 	<FirstName>Роман</FirstName>
 	<FirstName>Артем</FirstName>
 	<FirstName>Игорь</FirstName>
 	<FirstName>Даниил</FirstName>
 	<FirstName>Илья</FirstName>
-	<FirstName>Павел</FirstName>
+	<FirstName>Валерий</FirstName>
 	<FirstName>Вадим</FirstName>
-	<FirstName>Константин</FirstName>
+	<FirstName>Федор</FirstName>
 	<FirstName>Глеб</FirstName>
 	<FirstName>Евгений</FirstName>
+	<FirstName>Степан</FirstName>
 	<FirstName>Артур</FirstName>
 	<FirstName>Денис</FirstName>
 	<FirstName>Григорий</FirstName>
@@ -1515,6 +1578,7 @@
 	<FirstName>Леонид</FirstName>
 	<FirstName>Лев</FirstName>
 	<FirstName>Тарас</FirstName>
+
 	<LastName>Романов</LastName>
 	<LastName>Калашников</LastName>
 	<LastName>Петров</LastName>
@@ -1544,10 +1608,13 @@
 	<LastName>Гурин</LastName>
 	<LastName>Лукин</LastName>
 	<LastName>Юдин</LastName>
+	<LastName>Павлов</LastName>
 	<LastName>Сокол</LastName>
 	<LastName>Волков</LastName>
 	<LastName>Зарецкий</LastName>
 	<LastName>Глинка</LastName>
+	<LastName>Иванов</LastName>
+	<LastName>Польский</LastName>
 	<LastName>Коваленко</LastName>
 	<LastName>Кирсенко</LastName>
 	<LastName>Махно</LastName>
@@ -1555,7 +1622,10 @@
 	<LastName>Кличко</LastName>
 	<LastName>Кравчук</LastName>
 	<LastName>Шевчук</LastName>
+	<LastName>Дыбань</LastName>
 	<LastName>Кучма</LastName>
+
+
 		
     <Regiment name="regiment.russian1">
       <Experience>experience.russian1</Experience>
@@ -1579,7 +1649,7 @@
     </Nation>
 	
 	
-    <Nation name="Чехословакия" chance="2">
+    <Nation name="Czechoslovakian" chance="2">
         <Ethnicity name="med" chance="1" />
         <Ethnicity name="nor" chance="1" />
 	<FirstName>Ян</FirstName>
@@ -1617,6 +1687,10 @@
 	<LastName>Колар</LastName>
 	<LastName>Полак</LastName>
 	<LastName>Вавра</LastName>
+        <LastName>Ковас</LastName>
+        <LastName>Балаз</LastName>
+        <LastName>Лукас</LastName>
+        <LastName>Руснак</LastName>
 		
         <Regiment name="regiment.czech1">
             <Experience>experience.russian1</Experience>
@@ -1625,7 +1699,7 @@
     </Nation>
 	
 	
-    <Nation name="Япония" chance="4">
+    <Nation name="Japanese" chance="4">
         <Ethnicity name="asi" chance="1" />
 	<FirstName>Хироши</FirstName>
 	<FirstName>Акира</FirstName>
@@ -1688,7 +1762,7 @@
     </Nation>
 	
 	
-    <Nation name="Италия" chance="2">
+    <Nation name="Italian" chance="2">
         <Ethnicity name="med" chance="1" />
         <Ethnicity name="nor" chance="1" />
 		
@@ -1741,156 +1815,156 @@
     </Nation>
 
 	
-  <Nation name="Австралия" chance="3">
+  <Nation name="Australian" chance="3">
     <Ethnicity name="nor" chance="3" />
     <Ethnicity name="med" chance="1" />
 	
-		<FirstName>	Аарон	</FirstName>
-		<FirstName>	Джек	</FirstName>
-		<FirstName>	Вилльям	</FirstName>
-		<FirstName>	Ной 	</FirstName>
-		<FirstName>	Этан	</FirstName>
-		<FirstName>	Оливер	</FirstName>
-		<FirstName>	Томас	</FirstName>
-		<FirstName>	Купер	</FirstName>
-		<FirstName>	Джеймс	</FirstName>
-		<FirstName>	Лукас	</FirstName>
-		<FirstName>	Лачлан	</FirstName>
-		<FirstName>	Лиам	</FirstName>
-		<FirstName>	Семюэль	</FirstName>
-		<FirstName>	Якоб	</FirstName>
-		<FirstName>	Джошуа	</FirstName>
-		<FirstName>	Мейсон	</FirstName>
-		<FirstName>	Рейли	</FirstName>
-		<FirstName>	Макс	</FirstName>
-		<FirstName>	Алекс	</FirstName>
-		<FirstName>	Чарли	</FirstName>
-		<FirstName>	Ксавьер	</FirstName>
-		<FirstName>	Бенджамин	</FirstName>
-		<FirstName>	Харрисон	</FirstName>
-		<FirstName>	Талер	</FirstName>
-		<FirstName>	Хантер	</FirstName>
-		<FirstName>	Райн	</FirstName>
-		<FirstName>	Леви	</FirstName>
-		<FirstName>	Исаак	</FirstName>
-		<FirstName>	Джексон	</FirstName>
-		<FirstName>	Блейк	</FirstName>
-		<FirstName>	Гарри	</FirstName>
-		<FirstName>	Бракстон	</FirstName>
-		<FirstName>	Оскар	</FirstName>
-		<FirstName>	Генри	</FirstName>
-		<FirstName>	Эли	</FirstName>
-		<FirstName>	Даниэль	</FirstName>
-		<FirstName>	Джейден	</FirstName>
-		<FirstName>	Джексон	</FirstName>
-		<FirstName>	Логан	</FirstName>
-		<FirstName>	Джейк	</FirstName>
-		<FirstName>	Себа	</FirstName>
-		<FirstName>	Флинн	</FirstName>
-		<FirstName>	Патрик	</FirstName>
-		<FirstName>	Хадсон	</FirstName>
-		<FirstName>	Дилан	</FirstName>
-		<FirstName>	Митчелл	</FirstName>
-		<FirstName>	Арчи	</FirstName>
-		<FirstName>	Коннор	</FirstName>
-		<FirstName>	Люк	</FirstName>
-		<FirstName>	Мэтью	</FirstName>
-		<FirstName>	Айден	</FirstName>
+		<FirstName>Аарон</FirstName>
+		<FirstName>Джек</FirstName>
+		<FirstName>Вилльям</FirstName>
+		<FirstName>Ной </FirstName>
+		<FirstName>Этан</FirstName>
+		<FirstName>Оливер</FirstName>
+		<FirstName>Томас</FirstName>
+		<FirstName>Купер</FirstName>
+		<FirstName>Джеймс</FirstName>
+		<FirstName>Лукас</FirstName>
+		<FirstName>Лачлан</FirstName>
+		<FirstName>Лиам</FirstName>
+		<FirstName>Семюэль</FirstName>
+		<FirstName>Якоб</FirstName>
+		<FirstName>Джошуа</FirstName>
+		<FirstName>Мейсон</FirstName>
+		<FirstName>Рейли</FirstName>
+		<FirstName>Макс</FirstName>
+		<FirstName>Алекс</FirstName>
+		<FirstName>Чарли</FirstName>
+		<FirstName>Ксавьер</FirstName>
+		<FirstName>Бенджамин</FirstName>
+		<FirstName>Харрисон</FirstName>
+		<FirstName>Талер</FirstName>
+		<FirstName>Хантер</FirstName>
+		<FirstName>Райн</FirstName>
+		<FirstName>Леви</FirstName>
+		<FirstName>Исаак</FirstName>
+		<FirstName>Джексон</FirstName>
+		<FirstName>Блейк</FirstName>
+		<FirstName>Гарри</FirstName>
+		<FirstName>Бракстон</FirstName>
+		<FirstName>Оскар</FirstName>
+		<FirstName>Генри</FirstName>
+		<FirstName>Эли</FirstName>
+		<FirstName>Даниэль</FirstName>
+		<FirstName>Джейден</FirstName>
+		<FirstName>Джексон</FirstName>
+		<FirstName>Логан</FirstName>
+		<FirstName>Джейк</FirstName>
+		<FirstName>Себа</FirstName>
+		<FirstName>Флинн</FirstName>
+		<FirstName>Патрик</FirstName>
+		<FirstName>Хадсон</FirstName>
+		<FirstName>Дилан</FirstName>
+		<FirstName>Митчелл</FirstName>
+		<FirstName>Арчи</FirstName>
+		<FirstName>Коннор</FirstName>
+		<FirstName>Люк</FirstName>
+		<FirstName>Мэтью</FirstName>
+		<FirstName>Айден</FirstName>
 
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
 		
 	    <Regiment name="regiment.aus1">
       <Experience>experience.aus1</Experience>
@@ -1904,156 +1978,156 @@
     </Regiment>
   </Nation>
 
-     <Nation name="Новая Зеландия" chance="2">
+     <Nation name="New Zealander" chance="2">
     <Ethnicity name="med"  chance="1" />
     <Ethnicity name="nor"  chance="3" />
 
-		<FirstName>	Аарон	</FirstName>
-		<FirstName>	Джек	</FirstName>
-		<FirstName>	Вилльям	</FirstName>
-		<FirstName>	Ной 	</FirstName>
-		<FirstName>	Этан	</FirstName>
-		<FirstName>	Оливер	</FirstName>
-		<FirstName>	Томас	</FirstName>
-		<FirstName>	Купер	</FirstName>
-		<FirstName>	Джеймс	</FirstName>
-		<FirstName>	Лукас	</FirstName>
-		<FirstName>	Лачлан	</FirstName>
-		<FirstName>	Лиам	</FirstName>
-		<FirstName>	Семюэль	</FirstName>
-		<FirstName>	Якоб	</FirstName>
-		<FirstName>	Джошуа	</FirstName>
-		<FirstName>	Мейсон	</FirstName>
-		<FirstName>	Рейли	</FirstName>
-		<FirstName>	Макс	</FirstName>
-		<FirstName>	Алекс	</FirstName>
-		<FirstName>	Чарли	</FirstName>
-		<FirstName>	Ксавьер	</FirstName>
-		<FirstName>	Бенджамин	</FirstName>
-		<FirstName>	Харрисон	</FirstName>
-		<FirstName>	Талер	</FirstName>
-		<FirstName>	Хантер	</FirstName>
-		<FirstName>	Райн	</FirstName>
-		<FirstName>	Леви	</FirstName>
-		<FirstName>	Исаак	</FirstName>
-		<FirstName>	Джексон	</FirstName>
-		<FirstName>	Блейк	</FirstName>
-		<FirstName>	Гарри	</FirstName>
-		<FirstName>	Бракстон	</FirstName>
-		<FirstName>	Оскар	</FirstName>
-		<FirstName>	Генри	</FirstName>
-		<FirstName>	Эли	</FirstName>
-		<FirstName>	Даниэль	</FirstName>
-		<FirstName>	Джейден	</FirstName>
-		<FirstName>	Джексон	</FirstName>
-		<FirstName>	Логан	</FirstName>
-		<FirstName>	Джейк	</FirstName>
-		<FirstName>	Себа	</FirstName>
-		<FirstName>	Флинн	</FirstName>
-		<FirstName>	Патрик	</FirstName>
-		<FirstName>	Хадсон	</FirstName>
-		<FirstName>	Дилан	</FirstName>
-		<FirstName>	Митчелл	</FirstName>
-		<FirstName>	Арчи	</FirstName>
-		<FirstName>	Коннор	</FirstName>
-		<FirstName>	Люк	</FirstName>
-		<FirstName>	Мэтью	</FirstName>
-		<FirstName>	Айден	</FirstName>
+		<FirstName>Аарон</FirstName>
+		<FirstName>Джек</FirstName>
+		<FirstName>Вилльям</FirstName>
+		<FirstName>Ной </FirstName>
+		<FirstName>Этан</FirstName>
+		<FirstName>Оливер</FirstName>
+		<FirstName>Томас</FirstName>
+		<FirstName>Купер</FirstName>
+		<FirstName>Джеймс</FirstName>
+		<FirstName>Лукас</FirstName>
+		<FirstName>Лачлан</FirstName>
+		<FirstName>Лиам</FirstName>
+		<FirstName>Семюэль</FirstName>
+		<FirstName>Якоб</FirstName>
+		<FirstName>Джошуа</FirstName>
+		<FirstName>Мейсон</FirstName>
+		<FirstName>Рейли</FirstName>
+		<FirstName>Макс</FirstName>
+		<FirstName>Алекс</FirstName>
+		<FirstName>Чарли</FirstName>
+		<FirstName>Ксавьер</FirstName>
+		<FirstName>Бенджамин</FirstName>
+		<FirstName>Харрисон</FirstName>
+		<FirstName>Талер</FirstName>
+		<FirstName>Хантер</FirstName>
+		<FirstName>Райн</FirstName>
+		<FirstName>Леви</FirstName>
+		<FirstName>Исаак</FirstName>
+		<FirstName>Джексон</FirstName>
+		<FirstName>Блейк</FirstName>
+		<FirstName>Гарри</FirstName>
+		<FirstName>Бракстон</FirstName>
+		<FirstName>Оскар</FirstName>
+		<FirstName>Генри</FirstName>
+		<FirstName>Эли</FirstName>
+		<FirstName>Даниэль</FirstName>
+		<FirstName>Джейден</FirstName>
+		<FirstName>Джексон</FirstName>
+		<FirstName>Логан</FirstName>
+		<FirstName>Джейк</FirstName>
+		<FirstName>Себа</FirstName>
+		<FirstName>Флинн</FirstName>
+		<FirstName>Патрик</FirstName>
+		<FirstName>Хадсон</FirstName>
+		<FirstName>Дилан</FirstName>
+		<FirstName>Митчелл</FirstName>
+		<FirstName>Арчи</FirstName>
+		<FirstName>Коннор</FirstName>
+		<FirstName>Люк</FirstName>
+		<FirstName>Мэтью</FirstName>
+		<FirstName>Айден</FirstName>
 
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
 	
 		<Regiment name="regiment.nz1">
       <Experience>experience.nz1</Experience>
@@ -2067,37 +2141,37 @@
     </Regiment>
   </Nation>
 
-  <Nation name="Греция" chance="2">
+  <Nation name="Greek" chance="2">
 	<Ethnicity name="med" chance="1" />
 
-		<FirstName>	Георгеос	</FirstName>
-		<FirstName>	Иоаннис	</FirstName>
-		<FirstName>	Димитрис	</FirstName>
-		<FirstName>	Василис	</FirstName>
-		<FirstName>	Христосос	</FirstName>
-		<FirstName>	Михалис	</FirstName>
-		<FirstName>	Спирос	</FirstName>
-		<FirstName>	Антонис	</FirstName>
-		<FirstName>	Андреас	</FirstName>
-		<FirstName>	Элиас	</FirstName>
-		<FirstName>	Алекс	</FirstName>
+		<FirstName>Георгеос</FirstName>
+		<FirstName>Иоаннис</FirstName>
+		<FirstName>Димитрис</FirstName>
+		<FirstName>Василис</FirstName>
+		<FirstName>Христосос</FirstName>
+		<FirstName>Михалис</FirstName>
+		<FirstName>Спирос</FirstName>
+		<FirstName>Антонис</FirstName>
+		<FirstName>Андреас</FirstName>
+		<FirstName>Элиас</FirstName>
+		<FirstName>Алекс</FirstName>
 
-		<LastName>	Влахос	</LastName>
-		<LastName>	Ангелис	</LastName>
-		<LastName>	Барош	</LastName>
-		<LastName>	Дукас	</LastName>
-		<LastName>	Халас	</LastName>
-		<LastName>	Лазос	</LastName>
-		<LastName>	Лорис	</LastName>
-		<LastName>	Малас	</LastName>
-		<LastName>	Дракос	</LastName>
-		<LastName>	Каирис	</LastName>
-		<LastName>	Габрис	</LastName>
-		<LastName>	Леос	</LastName>
-		<LastName>	Ахас	</LastName>
-		<LastName>	Анастос	</LastName>
-		<LastName>	Петрас	</LastName>
-		<LastName>	Николи	</LastName>
+		<LastName>Влахос</LastName>
+		<LastName>Ангелис</LastName>
+		<LastName>Барош</LastName>
+		<LastName>Дукас</LastName>
+		<LastName>Халас</LastName>
+		<LastName>Лазос</LastName>
+		<LastName>Лорис</LastName>
+		<LastName>Малас</LastName>
+		<LastName>Дракос</LastName>
+		<LastName>Каирис</LastName>
+		<LastName>Габрис</LastName>
+		<LastName>Леос</LastName>
+		<LastName>Ахас</LastName>
+		<LastName>Анастос</LastName>
+		<LastName>Петрас</LastName>
+		<LastName>Николи</LastName>
 		
 	<Regiment name="regiment.greek1">
 		<Experience>experience.none</Experience>
@@ -2114,46 +2188,46 @@
 </Nation>
 
 
-  <Nation name="Польша" chance="2">
+  <Nation name="Polish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 	
-		<FirstName>	Якуб	</FirstName>
-		<FirstName>	Семен	</FirstName>
-		<FirstName>	Каспар	</FirstName>
-		<FirstName>	Филип	</FirstName>
-		<FirstName>	Миша	</FirstName>
-		<FirstName>	Матеус	</FirstName>
-		<FirstName>	Бартош	</FirstName>
-		<FirstName>	Адам	</FirstName>
-		<FirstName>	Виктор	</FirstName>
-		<FirstName>	Петр	</FirstName>
-		<FirstName>	Ян	</FirstName>	
-		<FirstName>	Давид	</FirstName>
-		<FirstName>	Мико	</FirstName>
-		<FirstName>	Игорь	</FirstName>
-		<FirstName>	Матей	</FirstName>
-		<FirstName>	Алекс	</FirstName>
-		<FirstName>	Патрик	</FirstName>
-		<FirstName>	Доминик	</FirstName>
+		<FirstName>Якуб</FirstName>
+		<FirstName>Семен</FirstName>
+		<FirstName>Каспар</FirstName>
+		<FirstName>Филип</FirstName>
+		<FirstName>Миша</FirstName>
+		<FirstName>Матеус</FirstName>
+		<FirstName>Бартош</FirstName>
+		<FirstName>Адам</FirstName>
+		<FirstName>Виктор</FirstName>
+		<FirstName>Петр</FirstName>
+		<FirstName>Ян</FirstName>	
+		<FirstName>Давид</FirstName>
+		<FirstName>Мико</FirstName>
+		<FirstName>Игорь</FirstName>
+		<FirstName>Матей</FirstName>
+		<FirstName>Алекс</FirstName>
+		<FirstName>Патрик</FirstName>
+		<FirstName>Доминик</FirstName>
 
-		<LastName>	Новак	</LastName>
-		<LastName>	Ковальски	</LastName>
-		<LastName>	Войчик	</LastName>
-		<LastName>	Камински	</LastName>
-		<LastName>	Зейлински	</LastName>
-		<LastName>	Возняк	</LastName>
-		<LastName>	Дабровски	</LastName>
-		<LastName>	Мазур	</LastName>
-		<LastName>	Кравчук	</LastName>
-		<LastName>	Дудек	</LastName>
-		<LastName>	Павлак	</LastName>
-		<LastName>	Горски	</LastName>
-		<LastName>	Дуда	</LastName>
-		<LastName>	Беняк	</LastName>
-		<LastName>	Копик	</LastName>
-		<LastName>	Каня	</LastName>
-		<LastName>	Срока	</LastName>
+		<LastName>Новак</LastName>
+		<LastName>Ковальски</LastName>
+		<LastName>Войчик</LastName>
+		<LastName>Камински</LastName>
+		<LastName>Зейлински</LastName>
+		<LastName>Возняк</LastName>
+		<LastName>Дабровски</LastName>
+		<LastName>Мазур</LastName>
+		<LastName>Кравчук</LastName>
+		<LastName>Дудек</LastName>
+		<LastName>Павлак</LastName>
+		<LastName>Горски</LastName>
+		<LastName>Дуда</LastName>
+		<LastName>Беняк</LastName>
+		<LastName>Копик</LastName>
+		<LastName>Каня</LastName>
+		<LastName>Срока</LastName>
 		
 	<Regiment name="regiment.poland1">
 		<Experience>experience.none</Experience>
@@ -2173,46 +2247,46 @@
 	</Regiment>
 </Nation>
 
-  <Nation name="Испания" chance="2">
+  <Nation name="Spanish" chance="2">
 	<Ethnicity name="med" chance="3" />
     <Ethnicity name="nor" chance="1" />
 
-		<FirstName>	Дэвид	</FirstName>
-		<FirstName>	Антонио	</FirstName>
-		<FirstName>	Франциско	</FirstName>
-		<FirstName>	Хавьер	</FirstName>
-		<FirstName>	Мануэль	</FirstName>
-		<FirstName>	Хосе	</FirstName>
-		<FirstName>	Мигель	</FirstName>
-		<FirstName>	Карлос	</FirstName>
-		<FirstName>	Пабло	</FirstName>
-		<FirstName>	Альваро	</FirstName>
-		<FirstName>	Диего	</FirstName>	
-		<FirstName>	Рауль	</FirstName>
-		<FirstName>	Икер	</FirstName>
-		<FirstName>	Педро	</FirstName>
-		<FirstName>	Луис	</FirstName>
-		<FirstName>	Гонзало	</FirstName>
-		<FirstName>	Жорди	</FirstName>
-		<FirstName>	Бруно	</FirstName>
+		<FirstName>Дэвид</FirstName>
+		<FirstName>Антонио</FirstName>
+		<FirstName>Франциско</FirstName>
+		<FirstName>Хавьер</FirstName>
+		<FirstName>Мануэль</FirstName>
+		<FirstName>Хосе</FirstName>
+		<FirstName>Мигель</FirstName>
+		<FirstName>Карлос</FirstName>
+		<FirstName>Пабло</FirstName>
+		<FirstName>Альваро</FirstName>
+		<FirstName>Диего</FirstName>	
+		<FirstName>Рауль</FirstName>
+		<FirstName>Икер</FirstName>
+		<FirstName>Педро</FirstName>
+		<FirstName>Луис</FirstName>
+		<FirstName>Гонзало</FirstName>
+		<FirstName>Жорди</FirstName>
+		<FirstName>Бруно</FirstName>
 
-		<LastName>	Гарсия	</LastName>
-		<LastName>	Фернандес	</LastName>
-		<LastName>	Гонсалес	</LastName>
-		<LastName>	Лопес	</LastName>
-		<LastName>	Мартинес	</LastName>
-		<LastName>	Санчес	</LastName>
-		<LastName>	Перес	</LastName>
-		<LastName>	Диас	</LastName>
-		<LastName>	Гомес	</LastName>
-		<LastName>	Руис	</LastName>
-		<LastName>	Алонсо	</LastName>
-		<LastName>	Ромео	</LastName>
-		<LastName>	Наварро	</LastName>
-		<LastName>	Торрес	</LastName>
-		<LastName>	Васкес	</LastName>
-		<LastName>	Серрано	</LastName>
-		<LastName>	Рамос	</LastName>	
+		<LastName>Гарсия</LastName>
+		<LastName>Фернандес</LastName>
+		<LastName>Гонсалес</LastName>
+		<LastName>Лопес</LastName>
+		<LastName>Мартинес</LastName>
+		<LastName>Санчес</LastName>
+		<LastName>Перес</LastName>
+		<LastName>Диас</LastName>
+		<LastName>Гомес</LastName>
+		<LastName>Руис</LastName>
+		<LastName>Алонсо</LastName>
+		<LastName>Ромео</LastName>
+		<LastName>Наварро</LastName>
+		<LastName>Торрес</LastName>
+		<LastName>Васкес</LastName>
+		<LastName>Серрано</LastName>
+		<LastName>Рамос</LastName>	
 	
 		<Regiment name="regiment.spain1">
 		<Experience>experience.spain1</Experience>
@@ -2226,46 +2300,46 @@
 	</Regiment>
 </Nation>
 
-  <Nation name="Норвегия" chance="2">
+  <Nation name="Norwegian" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Ян	</FirstName>
-		<FirstName>	Бьерн	</FirstName>
-		<FirstName>	Оле	</FirstName>
-		<FirstName>	Ларс	</FirstName>
-		<FirstName>	Хьель	</FirstName>
-		<FirstName>	Арне	</FirstName>
-		<FirstName>	Кнут	</FirstName>
-		<FirstName>	Свен	</FirstName>
-		<FirstName>	Ханс	</FirstName>
-		<FirstName>	Тор	</FirstName>
-		<FirstName>	Мортен	</FirstName>	
-		<FirstName>	Эрик	</FirstName>
-		<FirstName>	Олав	</FirstName>
-		<FirstName>	Магнус	</FirstName>
-		<FirstName>	Эспен	</FirstName>
-		<FirstName>	Нильс	</FirstName>
-		<FirstName>	Фроде	</FirstName>
-		<FirstName>	Гуннар	</FirstName>
+		<FirstName>Ян</FirstName>
+		<FirstName>Бьерн</FirstName>
+		<FirstName>Оле</FirstName>
+		<FirstName>Ларс</FirstName>
+		<FirstName>Хьель</FirstName>
+		<FirstName>Арне</FirstName>
+		<FirstName>Кнут</FirstName>
+		<FirstName>Свен</FirstName>
+		<FirstName>Ханс</FirstName>
+		<FirstName>Тор</FirstName>
+		<FirstName>Мортен</FirstName>	
+		<FirstName>Эрик</FirstName>
+		<FirstName>Олав</FirstName>
+		<FirstName>Магнус</FirstName>
+		<FirstName>Эспен</FirstName>
+		<FirstName>Нильс</FirstName>
+		<FirstName>Фроде</FirstName>
+		<FirstName>Гуннар</FirstName>
 
-		<LastName>	Хансен	</LastName>
-		<LastName>	Йохансен	</LastName>
-		<LastName>	Олсен	</LastName>
-		<LastName>	Ларсен	</LastName>
-		<LastName>	Андерсен	</LastName>
-		<LastName>	Нильсен	</LastName>
-		<LastName>	Педерсен	</LastName>
-		<LastName>	Йенсен	</LastName>
-		<LastName>	Берг	</LastName>
-		<LastName>	Хауген	</LastName>
-		<LastName>	Лунд	</LastName>
-		<LastName>	Солберг	</LastName>
-		<LastName>	Баккен	</LastName>
-		<LastName>	Лунде	</LastName>
-		<LastName>	Эриксен	</LastName>
-		<LastName>	Арнесен	</LastName>
-		<LastName>	Холм	</LastName>	
+		<LastName>Хансен</LastName>
+		<LastName>Йохансен</LastName>
+		<LastName>Олсен</LastName>
+		<LastName>Ларсен</LastName>
+		<LastName>Андерсен</LastName>
+		<LastName>Нильсен</LastName>
+		<LastName>Педерсен</LastName>
+		<LastName>Йенсен</LastName>
+		<LastName>Берг</LastName>
+		<LastName>Хауген</LastName>
+		<LastName>Лунд</LastName>
+		<LastName>Солберг</LastName>
+		<LastName>Баккен</LastName>
+		<LastName>Лунде</LastName>
+		<LastName>Эриксен</LastName>
+		<LastName>Арнесен</LastName>
+		<LastName>Холм</LastName>	
 	
 	<Regiment name="regiment.norway1">
 		<Experience>experience.none</Experience>
@@ -2275,47 +2349,47 @@
 	</Regiment>
 </Nation>
 
-  <Nation name="Голландия" chance="2">
+  <Nation name="Dutch" chance="2">
 	<Ethnicity name="med" chance="2" />
     <Ethnicity name="nor" chance="4" />
     <Ethnicity name="afri" chance="1" />
 	
-		<FirstName>	Лукас	</FirstName>
-		<FirstName>	Даан	</FirstName>
-		<FirstName>	Томас	</FirstName>
-		<FirstName>	Люк	</FirstName>
-		<FirstName>	Ларс	</FirstName>
-		<FirstName>	Нигель	</FirstName>
-		<FirstName>	Руд	</FirstName>
-		<FirstName>	Рубен	</FirstName>
-		<FirstName>	Свен	</FirstName>
-		<FirstName>	Дирк	</FirstName>
-		<FirstName>	Рон	</FirstName>	
-		<FirstName>	Пауль	</FirstName>
-		<FirstName>	Стейн	</FirstName>
-		<FirstName>	Робин	</FirstName>
-		<FirstName>	Арьен	</FirstName>
-		<FirstName>	Джаспер	</FirstName>
-		<FirstName>	Мичел	</FirstName>
-		<FirstName>	Кевин	</FirstName>
+		<FirstName>Лукас</FirstName>
+		<FirstName>Даан</FirstName>
+		<FirstName>Томас</FirstName>
+		<FirstName>Люк</FirstName>
+		<FirstName>Ларс</FirstName>
+		<FirstName>Нигель</FirstName>
+		<FirstName>Руд</FirstName>
+		<FirstName>Рубен</FirstName>
+		<FirstName>Свен</FirstName>
+		<FirstName>Дирк</FirstName>
+		<FirstName>Рон</FirstName>	
+		<FirstName>Пауль</FirstName>
+		<FirstName>Стейн</FirstName>
+		<FirstName>Робин</FirstName>
+		<FirstName>Арьен</FirstName>
+		<FirstName>Джаспер</FirstName>
+		<FirstName>Мичел</FirstName>
+		<FirstName>Кевин</FirstName>
 
-		<LastName>	де Йонг	</LastName>
-		<LastName>	де Фриз	</LastName>
-		<LastName>	Янсен	</LastName>
-		<LastName>	де Берг	</LastName>
-		<LastName>	Бэккер	</LastName>
-		<LastName>	ван Дейк	</LastName>
-		<LastName>	Виссер	</LastName>
-		<LastName>	Яннсен	</LastName>
-		<LastName>	Смит	</LastName>
-		<LastName>	Мейер	</LastName>
-		<LastName>	Виллемс	</LastName>
-		<LastName>	Малдер	</LastName>
-		<LastName>	Вос	</LastName>
-		<LastName>	Петерс	</LastName>
-		<LastName>	Хендрикс	</LastName>
-		<LastName>	Деккер	</LastName>
-		<LastName>	де Грааф	</LastName>	
+		<LastName>де Йонг</LastName>
+		<LastName>де Фриз</LastName>
+		<LastName>Янсен</LastName>
+		<LastName>де Берг</LastName>
+		<LastName>Бэккер</LastName>
+		<LastName>ван Дейк</LastName>
+		<LastName>Виссер</LastName>
+		<LastName>Яннсен</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Мейер</LastName>
+		<LastName>Виллемс</LastName>
+		<LastName>Малдер</LastName>
+		<LastName>Вос</LastName>
+		<LastName>Петерс</LastName>
+		<LastName>Хендрикс</LastName>
+		<LastName>Деккер</LastName>
+		<LastName>де Грааф</LastName>	
 	<Regiment name="regiment.dutch1">
 		<Experience>experience.none</Experience>
 	</Regiment>
@@ -2330,46 +2404,46 @@
 </Nation>	
 
 
-  <Nation name="Дания" chance="2">
+  <Nation name="Danish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 	
-		<FirstName>	Фредерик </FirstName>
-		<FirstName>	Миккель	</FirstName>
-		<FirstName>	Магнус </FirstName>
-		<FirstName>	Мадс	</FirstName>
-		<FirstName>	Каспер	</FirstName>
-		<FirstName>	Никлас	</FirstName>
-		<FirstName>	Мальте	</FirstName>
-		<FirstName>	Джонас	</FirstName>
-		<FirstName>	Маркус	</FirstName>
-		<FirstName>	Сандер	</FirstName>
-		<FirstName>	Матиас	</FirstName>	
-		<FirstName>	Карл	</FirstName>
-		<FirstName>	Ной	</FirstName>
-		<FirstName>	Лукас	</FirstName>
-		<FirstName>	Виктор	</FirstName>
-		<FirstName>	Оливер	</FirstName>
-		<FirstName>	Эмиль	</FirstName>
-		<FirstName>	Оскар	</FirstName>
+		<FirstName>Фредерик </FirstName>
+		<FirstName>Миккель</FirstName>
+		<FirstName>Магнус </FirstName>
+		<FirstName>Мадс</FirstName>
+		<FirstName>Каспер</FirstName>
+		<FirstName>Никлас</FirstName>
+		<FirstName>Мальте</FirstName>
+		<FirstName>Джонас</FirstName>
+		<FirstName>Маркус</FirstName>
+		<FirstName>Сандер</FirstName>
+		<FirstName>Матиас</FirstName>	
+		<FirstName>Карл</FirstName>
+		<FirstName>Ной</FirstName>
+		<FirstName>Лукас</FirstName>
+		<FirstName>Виктор</FirstName>
+		<FirstName>Оливер</FirstName>
+		<FirstName>Эмиль</FirstName>
+		<FirstName>Оскар</FirstName>
 
-		<LastName>	Дженсен	</LastName>
-		<LastName>	Нильсен	</LastName>
-		<LastName>	Ларсен	</LastName>
-		<LastName>	Мадсен	</LastName>
-		<LastName>	Кнудсен	</LastName>
-		<LastName>	Ниссен	</LastName>
-		<LastName>	Джепсен	</LastName>
-		<LastName>	Клаусен	</LastName>
-		<LastName>	Якобсен	</LastName>
-		<LastName>	Кьер	</LastName>
-		<LastName>	Хансен	</LastName>
-		<LastName>	Педерсен	</LastName>
-		<LastName>	Андерсен	</LastName>
-		<LastName>	Кристенсен	</LastName>
-		<LastName>	Томсен	</LastName>
-		<LastName>	Олесен	</LastName>
-		<LastName>	Эриксен	</LastName>	
+		<LastName>Дженсен</LastName>
+		<LastName>Нильсен</LastName>
+		<LastName>Ларсен</LastName>
+		<LastName>Мадсен</LastName>
+		<LastName>Кнудсен</LastName>
+		<LastName>Ниссен</LastName>
+		<LastName>Джепсен</LastName>
+		<LastName>Клаусен</LastName>
+		<LastName>Якобсен</LastName>
+		<LastName>Кьер</LastName>
+		<LastName>Хансен</LastName>
+		<LastName>Педерсен</LastName>
+		<LastName>Андерсен</LastName>
+		<LastName>Кристенсен</LastName>
+		<LastName>Томсен</LastName>
+		<LastName>Олесен</LastName>
+		<LastName>Эриксен</LastName>	
 
 	<Regiment name="regiment.danish1">
 		<Experience>experience.none</Experience>
@@ -2383,47 +2457,47 @@
 </Nation>
 
 
-  <Nation name="Франция" chance="3">
+  <Nation name="French" chance="3">
 	<Ethnicity name="med" chance="2" />
     <Ethnicity name="nor" chance="4" />
     <Ethnicity name="afri" chance="1" />
 	
-		<FirstName>	Хьюго	</FirstName>
-		<FirstName>	Луис	</FirstName>
-		<FirstName>	Рафаэль	</FirstName>
-		<FirstName>	Максим	</FirstName>
-		<FirstName>	Габриэль	</FirstName>
-		<FirstName>	Жюль	</FirstName>
-		<FirstName>	Ромен	</FirstName>
-		<FirstName>	Пьер	</FirstName>
-		<FirstName>	Рэми	</FirstName>
-		<FirstName>	Люк	</FirstName>
-		<FirstName>	Камил	</FirstName>	
-		<FirstName>	Флориан	</FirstName>
-		<FirstName>	Гаэль	</FirstName>
-		<FirstName>	Эдриен	</FirstName>
-		<FirstName>	Алексис	</FirstName>
-		<FirstName>	Жан	</FirstName>
-		<FirstName>	Андрэ	</FirstName>
-		<FirstName>	Люсьен	</FirstName>
+		<FirstName>Хьюго</FirstName>
+		<FirstName>Луис</FirstName>
+		<FirstName>Рафаэль</FirstName>
+		<FirstName>Максим</FirstName>
+		<FirstName>Габриэль</FirstName>
+		<FirstName>Жюль</FirstName>
+		<FirstName>Ромен</FirstName>
+		<FirstName>Пьер</FirstName>
+		<FirstName>Рэми</FirstName>
+		<FirstName>Люк</FirstName>
+		<FirstName>Камил</FirstName>	
+		<FirstName>Флориан</FirstName>
+		<FirstName>Гаэль</FirstName>
+		<FirstName>Эдриен</FirstName>
+		<FirstName>Алексис</FirstName>
+		<FirstName>Жан</FirstName>
+		<FirstName>Андрэ</FirstName>
+		<FirstName>Люсьен</FirstName>
 
-		<LastName>	Бернар	</LastName>
-		<LastName>	Дюбоис	</LastName>
-		<LastName>	Тома	</LastName>
-		<LastName>	Петит	</LastName>
-		<LastName>	Дюранд	</LastName>
-		<LastName>	Лирой	</LastName>
-		<LastName>	Моро	</LastName>
-		<LastName>	Лорент	</LastName>
-		<LastName>	Лефевр	</LastName>
-		<LastName>	Мерсье	</LastName>
-		<LastName>	Бланк	</LastName>
-		<LastName>	Морен	</LastName>
-		<LastName>	Дюваль	</LastName>
-		<LastName>	Роше	</LastName>
-		<LastName>	Ноэл	</LastName>
-		<LastName>	Форе	</LastName>
-		<LastName>	Рено	</LastName>	
+		<LastName>Бернар</LastName>
+		<LastName>Дюбоис</LastName>
+		<LastName>Тома</LastName>
+		<LastName>Петит</LastName>
+		<LastName>Дюранд</LastName>
+		<LastName>Лирой</LastName>
+		<LastName>Моро</LastName>
+		<LastName>Лорент</LastName>
+		<LastName>Лефевр</LastName>
+		<LastName>Мерсье</LastName>
+		<LastName>Бланк</LastName>
+		<LastName>Морен</LastName>
+		<LastName>Дюваль</LastName>
+		<LastName>Роше</LastName>
+		<LastName>Ноэл</LastName>
+		<LastName>Форе</LastName>
+		<LastName>Рено</LastName>	
 		
 	<Regiment name="regiment.french1">
 		<Experience>experience.none</Experience>
@@ -2445,47 +2519,47 @@
 	</Regiment>	
 </Nation>
 
-  <Nation name="Швеция" chance="2">
+  <Nation name="Swedish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Робин	</FirstName>
-		<FirstName>	Эрик	</FirstName>
-		<FirstName>	Маркус	</FirstName>
-		<FirstName>	Олле	</FirstName>
-		<FirstName>	Маттиас	</FirstName>
-		<FirstName>	Виктор	</FirstName>
-		<FirstName>	Джоаким	</FirstName>
-		<FirstName>	Микаэл	</FirstName>
-		<FirstName>	Тобиас	</FirstName>
-		<FirstName>	Карл	</FirstName>
-		<FirstName>	Хенрик	</FirstName>	
-		<FirstName>	Патрик	</FirstName>
-		<FirstName>	Расмус	</FirstName>
-		<FirstName>	Пер	</FirstName>
-		<FirstName>	Олоф	</FirstName>
-		<FirstName>	Нильс	</FirstName>
-		<FirstName>	Стефан	</FirstName>
-		<FirstName>	Бьерн	</FirstName>
-		<FirstName>	Матс	</FirstName>
+		<FirstName>Робин</FirstName>
+		<FirstName>Эрик</FirstName>
+		<FirstName>Маркус</FirstName>
+		<FirstName>Олле</FirstName>
+		<FirstName>Маттиас</FirstName>
+		<FirstName>Виктор</FirstName>
+		<FirstName>Джоаким</FirstName>
+		<FirstName>Микаэл</FirstName>
+		<FirstName>Тобиас</FirstName>
+		<FirstName>Карл</FirstName>
+		<FirstName>Хенрик</FirstName>	
+		<FirstName>Патрик</FirstName>
+		<FirstName>Расмус</FirstName>
+		<FirstName>Пер</FirstName>
+		<FirstName>Олоф</FirstName>
+		<FirstName>Нильс</FirstName>
+		<FirstName>Стефан</FirstName>
+		<FirstName>Бьерн</FirstName>
+		<FirstName>Матс</FirstName>
 
-		<LastName>	Карлссон	</LastName>
-		<LastName>	Нильссон	</LastName>
-		<LastName>	Ларссон	</LastName>
-		<LastName>	Перссон	</LastName>
-		<LastName>	Джонссон	</LastName>
-		<LastName>	Линдберг	</LastName>
-		<LastName>	Линдгрен	</LastName>
-		<LastName>	Берг	</LastName>
-		<LastName>	Экланд	</LastName>
-		<LastName>	Бергман	</LastName>
-		<LastName>	Валлин	</LastName>
-		<LastName>	Нордин	</LastName>
-		<LastName>	Блом	</LastName>
-		<LastName>	Норберг	</LastName>
-		<LastName>	Фолк	</LastName>
-		<LastName>	Бергамн	</LastName>
-		<LastName>	Холмгрен	</LastName>	
+		<LastName>Карлссон</LastName>
+		<LastName>Нильссон</LastName>
+		<LastName>Ларссон</LastName>
+		<LastName>Перссон</LastName>
+		<LastName>Джонссон</LastName>
+		<LastName>Линдберг</LastName>
+		<LastName>Линдгрен</LastName>
+		<LastName>Берг</LastName>
+		<LastName>Экланд</LastName>
+		<LastName>Бергман</LastName>
+		<LastName>Валлин</LastName>
+		<LastName>Нордин</LastName>
+		<LastName>Блом</LastName>
+		<LastName>Норберг</LastName>
+		<LastName>Фолк</LastName>
+		<LastName>Бергамн</LastName>
+		<LastName>Холмгрен</LastName>	
 		
 	<Regiment name="regiment.swede1">
 		<Experience>experience.none</Experience>
@@ -2498,45 +2572,45 @@
 </Nation>
 
 
-  <Nation name="Финляндия" chance="1">
+  <Nation name="Finnish" chance="1">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Элиас	</FirstName>
-		<FirstName>	Онни	</FirstName>
-		<FirstName>	Леро	</FirstName>
-		<FirstName>	Веети	</FirstName>
-		<FirstName>	Ниило	</FirstName>
-		<FirstName>	Матиас	</FirstName>
-		<FirstName>	Вилхо	</FirstName>
-		<FirstName>	Ааро	</FirstName>
-		<FirstName>	Пеету	</FirstName>
-		<FirstName>	Конста	</FirstName>
-		<FirstName>	Миро	</FirstName>	
-		<FirstName>	Оскари	</FirstName>
-		<FirstName>	Каспер	</FirstName>
-		<FirstName>	Лука	</FirstName>
-		<FirstName>	Юхо	</FirstName>
-		<FirstName>	Лаури	</FirstName>
-		<FirstName>	Тапио	</FirstName>
+		<FirstName>Элиас</FirstName>
+		<FirstName>Онни</FirstName>
+		<FirstName>Леро</FirstName>
+		<FirstName>Веети</FirstName>
+		<FirstName>Ниило</FirstName>
+		<FirstName>Матиас</FirstName>
+		<FirstName>Вилхо</FirstName>
+		<FirstName>Ааро</FirstName>
+		<FirstName>Пеету</FirstName>
+		<FirstName>Конста</FirstName>
+		<FirstName>Миро</FirstName>	
+		<FirstName>Оскари</FirstName>
+		<FirstName>Каспер</FirstName>
+		<FirstName>Лука</FirstName>
+		<FirstName>Юхо</FirstName>
+		<FirstName>Лаури</FirstName>
+		<FirstName>Тапио</FirstName>
 
-		<LastName>	Корхонен	</LastName>
-		<LastName>	Виртанен	</LastName>
-		<LastName>	Макинен	</LastName>
-		<LastName>	Ниеминен	</LastName>
-		<LastName>	Лайне	</LastName>
-		<LastName>	Хайкинен	</LastName>
-		<LastName>	Коскинен	</LastName>
-		<LastName>	Салонен	</LastName>
-		<LastName>	Хейнонен	</LastName>
-		<LastName>	Маттила	</LastName>
-		<LastName>	Сало	</LastName>
-		<LastName>	Лайтинен	</LastName>
-		<LastName>	Ахонен	</LastName>
-		<LastName>	Турунен	</LastName>
-		<LastName>	Куннинен	</LastName>
-		<LastName>	Сааринен	</LastName>
-		<LastName>	Йокинен	</LastName>	
+		<LastName>Корхонен</LastName>
+		<LastName>Виртанен</LastName>
+		<LastName>Макинен</LastName>
+		<LastName>Ниеминен</LastName>
+		<LastName>Лайне</LastName>
+		<LastName>Хайкинен</LastName>
+		<LastName>Коскинен</LastName>
+		<LastName>Салонен</LastName>
+		<LastName>Хейнонен</LastName>
+		<LastName>Маттила</LastName>
+		<LastName>Сало</LastName>
+		<LastName>Лайтинен</LastName>
+		<LastName>Ахонен</LastName>
+		<LastName>Турунен</LastName>
+		<LastName>Куннинен</LastName>
+		<LastName>Сааринен</LastName>
+		<LastName>Йокинен</LastName>	
 	
 	<Regiment name="regiment.finn1">
 		<Experience>experience.none</Experience>

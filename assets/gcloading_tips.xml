@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <GCLoadingTips>
 
-<Tip showOnFirstGroundCombat="true">&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Лаунчер игры содержит ссылку на "Краткое руководство", в котором описана механика игры.
+<Tip showOnFirstGroundCombat="true">&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Лаунчер игры содержит кнопку с ссылкой на "Краткое руководство", в котором описана механика игры.
 
-Используйте его, если столкнетесь со сложностями.&lt;/font&gt;
+Используйте его, если столкнетесь с сложностями.&lt;/font&gt;
 </Tip>
+	
+<tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете изменить папку для сохранений прямо в лаунчере игры.&lt;/font&gt;</tip>
 
-<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Вы можете изменить папку для сохранений прямо в лаунчере игры.&lt;/font&gt;</Tip>
+<tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Игра включает в себя рассказ, который описывает Инцидент в Исландии 1958 года, а также появление организации "Ксенонавты".
 
-<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Игра включает в себя рассказ, который описывает Инцидент в Исландии 1958 года, а также появление организации "Ксенонавты".
+Этот рассказ можно найти в лаунчере игры в разделе "Дополнительно".&lt;/font&gt;</tip>
 
-Этот рассказ можно найти в лаунчере игры в разделе "Дополнительно".&lt;/font&gt;</Tip>
-
-<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Специализация солдата не влияет на игровой процесс, но помогает сортировать войска и подобрать снаряжение.&lt;/font&gt;</Tip>
+<tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Специализация солдата не влияет на игровой процесс, но помогает сортировать войска и подобрать снаряжение.&lt;/font&gt;</tip>
 
 <Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Даже если система защиты базы не в состоянии отразить атакующий НЛО, то она может хотя бы сократить количество десанта пришельцев.&lt;/font&gt;</Tip>
 
@@ -96,9 +96,9 @@
 
 Юниты с высоким процентом оставшихся ОД, при выполнении действия имеют больше шансов избежать ответного огня.&lt;/font&gt;</Tip>
 
-<Tip>Оценка изменения финансирования региона отображается при наведении курсора в правый верхний угол мировой карты.</Tip>
+<Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; Оценка изменения финансирования региона отображается при наведении курсора в правый верхний угол мировой карты.&lt;/font&gt;</Tip>
 
-<!-- <Tip>&lt;font size='20' face='fonts/evochronfont.mvec'&gt; The game is bundled with an example developer mod (Soviet Weapons Pack) and a selection of community-made mods.&lt;/font&gt;</Tip> -->
+<!-- <Tip>The game is bundled with an example developer mod (Soviet Weapons Pack) and a selection of community-made mods.</Tip> -->
 
 </GCLoadingTips>
 

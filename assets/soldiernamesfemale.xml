@@ -5,7 +5,7 @@
   <Ethnicity name="med"  count="7" />
   <Ethnicity name="nor"  count="9" />
 
-  <Nation name="Венгрия" chance="2">
+  <Nation name="Hungarian" chance="2">
     <Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="1" />
     <FirstName>Кайта</FirstName>
@@ -38,27 +38,27 @@
   </Nation>
   
   
-  <Nation name="Канада" chance="3">
+  <Nation name="Canadian" chance="3">
     <Ethnicity name="med" chance="2" />
     <Ethnicity name="nor" chance="2" />
     <Ethnicity name="afri" chance="1" />
-		<FirstName>Джейн</FirstName>
-		<FirstName>Виктория</FirstName>
-		<FirstName>Кейт</FirstName>
-		<FirstName>Эмма</FirstName>
-		<FirstName>Софи</FirstName>
-		<FirstName>Анна</FirstName>
-		<FirstName>Эллисон</FirstName>
-		<FirstName>Сара</FirstName>
-		<FirstName>Клэр</FirstName>
-		<FirstName>Люси</FirstName>
-		<FirstName>Лоурен</FirstName>
-		<FirstName>Лаура</FirstName>
-		<FirstName>Виолет</FirstName>
-		<FirstName>Кэрол</FirstName>
-		<FirstName>Дженнифер</FirstName>
-		<FirstName>Хло</FirstName>
-		<FirstName>Натали</FirstName>
+	<FirstName>Джейн</FirstName>
+	<FirstName>Виктория</FirstName>
+	<FirstName>Кейт</FirstName>
+	<FirstName>Эмма</FirstName>
+	<FirstName>Софи</FirstName>
+	<FirstName>Анна</FirstName>
+	<FirstName>Эллисон</FirstName>
+	<FirstName>Сара</FirstName>
+	<FirstName>Клэр</FirstName>
+	<FirstName>Люси</FirstName>
+	<FirstName>Лоурен</FirstName>
+	<FirstName>Лаура</FirstName>
+	<FirstName>Виолет</FirstName>
+	<FirstName>Кэрол</FirstName>
+	<FirstName>Дженнифер</FirstName>
+	<FirstName>Хло</FirstName>
+	<FirstName>Натали</FirstName>
 
 
     <LastName>Ганье</LastName>
@@ -87,7 +87,7 @@
     </Regiment>
   </Nation>
   
-   <Nation name="Канада" chance="1">
+   <Nation name="Canadian" chance="1">
     <Ethnicity name="nor" chance="3" />
 	
 		<FirstName>Лиа</FirstName>
@@ -111,57 +111,56 @@
 		<FirstName>Ариан</FirstName>
 		<FirstName>Аурелия</FirstName>
 	
-	<LastName>	Трамбле	</LastName>
-	<LastName>	Ганон	</LastName>
-	<LastName>	Рой	</LastName>
-	<LastName>	Кот	</LastName>
-	<LastName>	Бушар	</LastName>
-	<LastName>	Готье	</LastName>
-	<LastName>	Морен	</LastName>
-	<LastName>	Лавуа	</LastName>
-	<LastName>	Фортин	</LastName>
-	<LastName>	Ганье	</LastName>
-	<LastName>	Пельтье	</LastName>
-	<LastName>	Белангер	</LastName>
-	<LastName>	Бержерон	</LastName>
-	<LastName>	Левек	</LastName>
-	<LastName>	Симард	</LastName>
-	<LastName>	Жирар	</LastName>
-	<LastName>	Лебланк	</LastName>
-	<LastName>	Буше	</LastName>
-	<LastName>	Уэлле	</LastName>
-	<LastName>	Карон	</LastName>
-	<LastName>	Бьюли	</LastName>
-	<LastName>	Порье	</LastName>
-	<LastName>	Дубе	</LastName>
-	<LastName>	Клутье	</LastName>
-	<LastName>	Фурнье	</LastName>
-	<LastName>	Лапоинт	</LastName>
-	<LastName>	Лефевр	</LastName>
-	<LastName>	Пулен	</LastName>
-	<LastName>	Надю	</LastName>
-	<LastName>	Мартин	</LastName>
-	<LastName>	Сен-Пьер	</LastName>
-	<LastName>	Мартель	</LastName>
-	<LastName>	Гренье	</LastName>
-	<LastName>	Ландри	</LastName>
-	<LastName>	Лессард	</LastName>
-	<LastName>	Леклерк	</LastName>
-	<LastName>	Бедард	</LastName>
-	<LastName>	Бернье	</LastName>
-	<LastName>	Кутюр	</LastName>
-	<LastName>	Ришар	</LastName>
-	<LastName>	Мишо	</LastName>
-	<LastName>	Дежарден	</LastName>
-	<LastName>	Эбер	</LastName>
-	<LastName>	Блейс	</LastName>
-	
-	<LastName>	Тюркотт	</LastName>
-	<LastName>	Савар	</LastName>
-	<LastName>	Лашанс	</LastName>
-	<LastName>	Парент	</LastName>
-	<LastName>	Демер	</LastName>
-	<LastName>	Госслин	</LastName>
+	<LastName>Трамбле</LastName>
+	<LastName>Ганон</LastName>
+	<LastName>Рой</LastName>
+	<LastName>Кот</LastName>
+	<LastName>Бушар</LastName>
+	<LastName>Готье</LastName>
+	<LastName>Морен</LastName>
+	<LastName>Лавуа</LastName>
+	<LastName>Фортин</LastName>
+	<LastName>Ганье</LastName>
+	<LastName>Пельтье</LastName>
+	<LastName>Белангер</LastName>
+	<LastName>Бержерон</LastName>
+	<LastName>Левек</LastName>
+	<LastName>Симард</LastName>
+	<LastName>Жирар</LastName>
+	<LastName>Лебланк</LastName>
+	<LastName>Буше</LastName>
+	<LastName>Уэлле</LastName>
+	<LastName>Карон</LastName>
+	<LastName>Бьюли</LastName>
+	<LastName>Порье</LastName>
+	<LastName>Дубе</LastName>
+	<LastName>Клутье</LastName>
+	<LastName>Фурнье</LastName>
+	<LastName>Лапоинт</LastName>
+	<LastName>Лефевр</LastName>
+	<LastName>Пулен</LastName>
+	<LastName>Надю</LastName>
+	<LastName>Мартин</LastName>
+	<LastName>Сен-Пьер</LastName>
+	<LastName>Мартель</LastName>
+	<LastName>Гренье</LastName>
+	<LastName>Ландри</LastName>
+	<LastName>Лессард</LastName>
+	<LastName>Леклерк</LastName>
+	<LastName>Бедард</LastName>
+	<LastName>Бернье</LastName>
+	<LastName>Кутюр</LastName>
+	<LastName>Ришар</LastName>
+	<LastName>Мишо</LastName>
+	<LastName>Дежарден</LastName>
+	<LastName>Эбер</LastName>
+	<LastName>Блейс</LastName>
+	<LastName>Тюркотт</LastName>
+	<LastName>Савар</LastName>
+	<LastName>Лашанс</LastName>
+	<LastName>Парент</LastName>
+	<LastName>Демер</LastName>
+	<LastName>Госслин</LastName>
 	
 	<Regiment name="regiment.canada1">
       <Experience>experience.none</Experience>
@@ -172,11 +171,10 @@
   </Nation>
   
   
-  <Nation name="США" chance="9">
+  <Nation name="American" chance="9">
     <Ethnicity name="nor" chance="1" />
     <Ethnicity name="med" chance="1" />
     <Ethnicity name="afri" chance="1" />    
-		<FirstName>Джейн</FirstName>
 		<FirstName>Виктория</FirstName>
 		<FirstName>Кейт</FirstName>
 		<FirstName>Эмма</FirstName>
@@ -195,107 +193,107 @@
 		<FirstName>Натали</FirstName>
 
 
-		<LastName>	Эбботт 	</LastName>
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Тома	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Гарсия	</LastName>
-		<LastName>	Мартинес	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Родригес	</LastName>
-		<LastName>	Льюис	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Хернандес	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Лопес	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Гонзалес	</LastName>
-		<LastName>	Нельсон	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Перес	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Стюарт	</LastName>
-		<LastName>	Санчес	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Рид	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Ривера	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ховард	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Торрес	</LastName>
-		<LastName>	Петерсон	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Рамирес	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Брукс	</LastName>
-		<LastName>	Кэлли	</LastName>
-		<LastName>	Сандерс	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Бернс	</LastName>
-		<LastName>	Росс	</LastName>
-		<LastName>	Хендерсон	</LastName>
-		<LastName>	Коулман	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Пэрри	</LastName>
-		<LastName>	Пауэлл	</LastName>
-		<LastName>	Лонг	</LastName>
-		<LastName>	Паттерсон	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Флорес	</LastName>
-		<LastName>	Вашингтон	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Симмонс	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Гонзалес	</LastName>
-		<LastName>	Брайнт	</LastName>
-		<LastName>	Пресли	</LastName>
-		<LastName>	Расселл	</LastName>
-		<LastName>	Гриффинс	</LastName>
-		<LastName>	Диас	</LastName>
-		<LastName>	Хейз	</LastName>
+		<LastName>Эбботт </LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Тома</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Гарсия</LastName>
+		<LastName>Мартинес</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Родригес</LastName>
+		<LastName>Льюис</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Хернандес</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Лопес</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Гонзалес</LastName>
+		<LastName>Нельсон</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Перес</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Стюарт</LastName>
+		<LastName>Санчес</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Рид</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Ривера</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ховард</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Торрес</LastName>
+		<LastName>Петерсон</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Рамирес</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Брукс</LastName>
+		<LastName>Кэлли</LastName>
+		<LastName>Сандерс</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Бернс</LastName>
+		<LastName>Росс</LastName>
+		<LastName>Хендерсон</LastName>
+		<LastName>Коулман</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Пэрри</LastName>
+		<LastName>Пауэлл</LastName>
+		<LastName>Лонг</LastName>
+		<LastName>Паттерсон</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Флорес</LastName>
+		<LastName>Вашингтон</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Симмонс</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Гонзалес</LastName>
+		<LastName>Брайнт</LastName>
+		<LastName>Пресли</LastName>
+		<LastName>Расселл</LastName>
+		<LastName>Гриффинс</LastName>
+		<LastName>Диас</LastName>
+		<LastName>Хейз</LastName>
 		
     <Regiment name="regiment.america1">
       <Experience>experience.none</Experience>
@@ -309,11 +307,10 @@
   </Nation>
   
   
-  <Nation name="Великобритания" chance="4">
+  <Nation name="British" chance="4">
     <Ethnicity name="med"  chance="2" />
     <Ethnicity name="afri" chance="1" />
     <Ethnicity name="nor"  chance="2" />
-		<FirstName>Джейн</FirstName>
 		<FirstName>Виктория</FirstName>
 		<FirstName>Кейт</FirstName>
 		<FirstName>Эмма</FirstName>
@@ -331,100 +328,100 @@
 		<FirstName>Хло</FirstName>
 		<FirstName>Натали</FirstName>
 
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
     <Regiment name="regiment.britain1">
       <Experience>experience.none</Experience>
     </Regiment>
@@ -437,7 +434,7 @@
 </Nation>
 
 
-	    <Nation name="ГДР" chance="2">
+	    <Nation name="East German" chance="2">
         <Ethnicity name="nor" chance="3" />
         <Ethnicity name="med" chance="1" />
 		
@@ -445,7 +442,7 @@
 		<FirstName>Агата</FirstName>
 		<FirstName>Аня</FirstName>
 		<FirstName>Астрид</FirstName>
-		<FirstName>Клавдия</FirstName>
+		<FirstName>Claudia</FirstName>
 		<FirstName>Дора</FirstName>
 		<FirstName>Фрида</FirstName>
 		<FirstName>Эрика</FirstName>
@@ -465,9 +462,8 @@
         <LastName>Шмидт</LastName>
 	<LastName>Шнайдер</LastName>
 	<LastName>Фишер</LastName>
-	<LastName>Мейер</LastName>
 	<LastName>Вебер</LastName>
-	<LastName>Шультс</LastName>
+	<LastName>Мейер</LastName>
 	<LastName>Вагнер</LastName>
 	<LastName>Бекер</LastName>
         <LastName>Бауэр</LastName>
@@ -487,6 +483,8 @@
         <LastName>Шмиц</LastName>
         <LastName>Ланге</LastName>
         <LastName>Мейер</LastName>        
+	<LastName>Вальтер</LastName>
+	<LastName>Майер</LastName>
 	<LastName>Вальтер</LastName>
         <LastName>Бек</LastName>
         <LastName>Краус</LastName>
@@ -509,7 +507,7 @@
         <LastName>Граф</LastName>
         <LastName>Бауманн</LastName>
         <LastName>Буш</LastName>
-		
+
     <Regiment name="regiment.Egermany1">
       <Experience>experience.none</Experience>
 	</Regiment>
@@ -524,7 +522,7 @@
     </Regiment>
 </Nation>	
  
-    <Nation name="ФРГ" chance="2">
+    <Nation name="West German" chance="2">
         <Ethnicity name="nor" chance="3" />
         <Ethnicity name="med" chance="1" />
 		<FirstName>Хильда</FirstName>
@@ -551,9 +549,8 @@
         <LastName>Шмидт</LastName>
 	<LastName>Шнайдер</LastName>
 	<LastName>Фишер</LastName>
-	<LastName>Мейер</LastName>
 	<LastName>Вебер</LastName>
-	<LastName>Шультс</LastName>
+	<LastName>Мейер</LastName>
 	<LastName>Вагнер</LastName>
 	<LastName>Бекер</LastName>
         <LastName>Бауэр</LastName>
@@ -573,6 +570,8 @@
         <LastName>Шмиц</LastName>
         <LastName>Ланге</LastName>
         <LastName>Мейер</LastName>        
+	<LastName>Вальтер</LastName>
+	<LastName>Майер</LastName>
 	<LastName>Вальтер</LastName>
         <LastName>Бек</LastName>
         <LastName>Краус</LastName>
@@ -608,8 +607,7 @@
   </Nation>
 
   
-    </Nation>
-    <Nation name="Советский Союз" chance="12">
+   <Nation name="Soviet Union" chance="12">
         <Ethnicity name="nor" chance="2" />
 		
     <FirstName>Екатерина</FirstName>
@@ -634,8 +632,6 @@
     <LastName>Петрова</LastName>
     <LastName>Смирнова</LastName>
     <LastName>Иванова</LastName>
-    <LastName>Елисеева</LastName>	
-    <LastName>Кузнецова</LastName>
     <LastName>Попова</LastName>
     <LastName>Соколова</LastName>
     <LastName>Лебедева</LastName>
@@ -648,7 +644,11 @@
 	<LastName>Андропова</LastName>
     <LastName>Чехова</LastName>
     <LastName>Марилова</LastName>
-
+    <LastName>Смирнова</LastName>
+    <LastName>Иванова</LastName>
+    <LastName>Кузнецова</LastName>
+    <LastName>Попова</LastName>
+    <LastName>Соколова</LastName>
     <Regiment name="regiment.russian1">
       <Experience>experience.none</Experience>
     </Regiment>
@@ -661,7 +661,7 @@
   </Nation>
    
   
-  <Nation name="Чехословакия" chance="1">
+  <Nation name="Czechoslovakian" chance="1">
     <Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="1" />
 		<FirstName>Алина</FirstName>
@@ -677,30 +677,34 @@
 		<FirstName>Ольга</FirstName>
 
 
-        <LastName>Новак</LastName>
+        <LastName>Новакова</LastName>
         <LastName>Новатны</LastName>
-        <LastName>Свобода</LastName>
-        <LastName>Дворак</LastName>
+        <LastName>Свободова</LastName>
+        <LastName>Дворакова</LastName>
         <LastName>Черны</LastName>
         <LastName>Веселы</LastName>
         <LastName>Покорны</LastName>
-        <LastName>Кучера</LastName>
-	<LastName>Желинек</LastName>
-        <LastName>Хажек</LastName>
-        <LastName>Рузика</LastName>
-        <LastName>Земан</LastName>
-        <LastName>Фиала</LastName>
-        <LastName>Крал</LastName>
-        <LastName>Бенеш</LastName>
-        <LastName>Марек</LastName>
-	<LastName>Чермак</LastName>
-        <LastName>Хорак</LastName>
-        <LastName>Немец</LastName>
+        <LastName>Кучерова</LastName>
+	<LastName>Желинкова</LastName>
+        <LastName>Хайкова</LastName>
+        <LastName>Рузикова</LastName>
+        <LastName>Земанова</LastName>
+        <LastName>Фиалова</LastName>
+        <LastName>Кралова</LastName>
+        <LastName>Бенесова</LastName>
+        <LastName>Маркова</LastName>
+	<LastName>Чермакова</LastName>
+        <LastName>Хоракова</LastName>
+        <LastName>Немцова</LastName>
         <LastName>Малы</LastName>
-        <LastName>Блазек</LastName>
-        <LastName>Колар</LastName>
-        <LastName>Полак</LastName>
-        <LastName>Вавра</LastName>
+        <LastName>Блазкова</LastName>
+        <LastName>Коларова</LastName>
+        <LastName>Полакова</LastName>
+        <LastName>Ваврова</LastName>
+        <LastName>Ковакова</LastName>
+        <LastName>Балашова</LastName>
+        <LastName>Лукашова</LastName>
+        <LastName>Рузнакова</LastName>
 		
     <Regiment name="regiment.czech1">
       <Experience>experience.russian1</Experience>
@@ -709,7 +713,7 @@
   </Nation>
   
   
-  <Nation name="Япония" chance="4">
+  <Nation name="Japanese" chance="4">
     <Ethnicity name="asi" chance="1" />
 		<FirstName>Кеи</FirstName>
 		<FirstName>Аико</FirstName>
@@ -761,7 +765,7 @@
     </Regiment>
   </Nation>
 
-  <Nation name="Италия" chance="2">
+  <Nation name="Italian" chance="2">
      <Ethnicity name="med" chance="1" />
      <Ethnicity name="nor" chance="1" />
 	 
@@ -808,7 +812,7 @@
         </Regiment>
     </Nation>
 	
-	 <Nation name="Австралия" chance="3">
+	 <Nation name="Australian" chance="3">
     <Ethnicity name="nor" chance="3" />
     <Ethnicity name="med" chance="1" />
 	
@@ -830,100 +834,100 @@
 		<FirstName>Хло</FirstName>
 		<FirstName>Натали</FirstName>
 
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
 		
 	    <Regiment name="regiment.aus1">
       <Experience>experience.none</Experience>
@@ -933,7 +937,7 @@
     </Regiment>
   </Nation>
 
-     <Nation name="Новая Зеландия" chance="2">
+     <Nation name="New Zealander" chance="2">
     <Ethnicity name="med"  chance="1" />
     <Ethnicity name="nor"  chance="3" />
 	
@@ -955,101 +959,100 @@
 		<FirstName>Хло</FirstName>
 		<FirstName>Натали</FirstName>
 
-
-		<LastName>	Смит	</LastName>
-		<LastName>	Джонс	</LastName>
-		<LastName>	Вилльямс	</LastName>
-		<LastName>	Тейлор	</LastName>
-		<LastName>	Браун	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Эванс	</LastName>
-		<LastName>	Вилсон	</LastName>
-		<LastName>	Томас	</LastName>
-		<LastName>	Джонсон	</LastName>
-		<LastName>	Робертс	</LastName>
-		<LastName>	Робинсон	</LastName>
-		<LastName>	Томпсон	</LastName>
-		<LastName>	Райт	</LastName>
-		<LastName>	Волкер	</LastName>
-		<LastName>	Вайт	</LastName>
-		<LastName>	Эдвардс	</LastName>
-		<LastName>	Хьюз	</LastName>
-		<LastName>	Грин	</LastName>
-		<LastName>	Холл	</LastName>
-		<LastName>	Левис	</LastName>
-		<LastName>	Харрис	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Джексон	</LastName>
-		<LastName>	Вуд	</LastName>
-		<LastName>	Тернер	</LastName>
-		<LastName>	Мартин	</LastName>
-		<LastName>	Купер	</LastName>
-		<LastName>	Хилл	</LastName>
-		<LastName>	Вард	</LastName>
-		<LastName>	Моррис	</LastName>
-		<LastName>	Мур	</LastName>
-		<LastName>	Кларк	</LastName>
-		<LastName>	Ли	</LastName>
-		<LastName>	Кинг	</LastName>
-		<LastName>	Бейкер	</LastName>
-		<LastName>	Харрисон	</LastName>
-		<LastName>	Морган	</LastName>
-		<LastName>	Аллен	</LastName>
-		<LastName>	Джеймс	</LastName>
-		<LastName>	Скотт	</LastName>
-		<LastName>	Филлипс	</LastName>
-		<LastName>	Ватсон	</LastName>
-		<LastName>	Дэвис	</LastName>
-		<LastName>	Паркер	</LastName>
-		<LastName>	Прайс	</LastName>
-		<LastName>	Беннетт	</LastName>
-		<LastName>	Янг	</LastName>
-		<LastName>	Гриффитс	</LastName>
-		<LastName>	Митчелл	</LastName>
-		<LastName>	Келли	</LastName>
-		<LastName>	Кук	</LastName>
-		<LastName>	Картер	</LastName>
-		<LastName>	Ричардсон	</LastName>
-		<LastName>	Бейли	</LastName>
-		<LastName>	Коллинс	</LastName>
-		<LastName>	Белл	</LastName>
-		<LastName>	Шоу	</LastName>
-		<LastName>	Мерфи	</LastName>
-		<LastName>	Миллер	</LastName>
-		<LastName>	Кокс	</LastName>
-		<LastName>	Ричардс	</LastName>
-		<LastName>	Маршал	</LastName>
-		<LastName>	Андерсон	</LastName>
-		<LastName>	Симпсон	</LastName>
-		<LastName>	Эллис	</LastName>
-		<LastName>	Адамс	</LastName>
-		<LastName>	Вилкинсон	</LastName>
-		<LastName>	Фостер	</LastName>
-		<LastName>	Чапман	</LastName>
-		<LastName>	Пауэл	</LastName>
-		<LastName>	Вебб	</LastName>
-		<LastName>	Роджерс	</LastName>
-		<LastName>	Грей	</LastName>
-		<LastName>	Масон	</LastName>
-		<LastName>	Хант	</LastName>
-		<LastName>	Кампбелл	</LastName>
-		<LastName>	Мэттьюс	</LastName>
-		<LastName>	Оуэн	</LastName>
-		<LastName>	Палмер	</LastName>
-		<LastName>	Холмс	</LastName>
-		<LastName>	Миллс	</LastName>
-		<LastName>	Барнс	</LastName>
-		<LastName>	Найт	</LastName>
-		<LastName>	Ллойд	</LastName>
-		<LastName>	Батлер	</LastName>
-		<LastName>	Рассел	</LastName>
-		<LastName>	Баркер	</LastName>
-		<LastName>	Фишер	</LastName>
-		<LastName>	Стивенс	</LastName>
-		<LastName>	Дженкинс	</LastName>
-		<LastName>	Мюррей	</LastName>
-		<LastName>	Диксон	</LastName>
-		<LastName>	Харви	</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Джонс</LastName>
+		<LastName>Вилльямс</LastName>
+		<LastName>Тейлор</LastName>
+		<LastName>Браун</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Эванс</LastName>
+		<LastName>Вилсон</LastName>
+		<LastName>Томас</LastName>
+		<LastName>Джонсон</LastName>
+		<LastName>Робертс</LastName>
+		<LastName>Робинсон</LastName>
+		<LastName>Томпсон</LastName>
+		<LastName>Райт</LastName>
+		<LastName>Волкер</LastName>
+		<LastName>Вайт</LastName>
+		<LastName>Эдвардс</LastName>
+		<LastName>Хьюз</LastName>
+		<LastName>Грин</LastName>
+		<LastName>Холл</LastName>
+		<LastName>Левис</LastName>
+		<LastName>Харрис</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Джексон</LastName>
+		<LastName>Вуд</LastName>
+		<LastName>Тернер</LastName>
+		<LastName>Мартин</LastName>
+		<LastName>Купер</LastName>
+		<LastName>Хилл</LastName>
+		<LastName>Вард</LastName>
+		<LastName>Моррис</LastName>
+		<LastName>Мур</LastName>
+		<LastName>Кларк</LastName>
+		<LastName>Ли</LastName>
+		<LastName>Кинг</LastName>
+		<LastName>Бейкер</LastName>
+		<LastName>Харрисон</LastName>
+		<LastName>Морган</LastName>
+		<LastName>Аллен</LastName>
+		<LastName>Джеймс</LastName>
+		<LastName>Скотт</LastName>
+		<LastName>Филлипс</LastName>
+		<LastName>Ватсон</LastName>
+		<LastName>Дэвис</LastName>
+		<LastName>Паркер</LastName>
+		<LastName>Прайс</LastName>
+		<LastName>Беннетт</LastName>
+		<LastName>Янг</LastName>
+		<LastName>Гриффитс</LastName>
+		<LastName>Митчелл</LastName>
+		<LastName>Келли</LastName>
+		<LastName>Кук</LastName>
+		<LastName>Картер</LastName>
+		<LastName>Ричардсон</LastName>
+		<LastName>Бейли</LastName>
+		<LastName>Коллинс</LastName>
+		<LastName>Белл</LastName>
+		<LastName>Шоу</LastName>
+		<LastName>Мерфи</LastName>
+		<LastName>Миллер</LastName>
+		<LastName>Кокс</LastName>
+		<LastName>Ричардс</LastName>
+		<LastName>Маршал</LastName>
+		<LastName>Андерсон</LastName>
+		<LastName>Симпсон</LastName>
+		<LastName>Эллис</LastName>
+		<LastName>Адамс</LastName>
+		<LastName>Вилкинсон</LastName>
+		<LastName>Фостер</LastName>
+		<LastName>Чапман</LastName>
+		<LastName>Пауэл</LastName>
+		<LastName>Вебб</LastName>
+		<LastName>Роджерс</LastName>
+		<LastName>Грей</LastName>
+		<LastName>Масон</LastName>
+		<LastName>Хант</LastName>
+		<LastName>Кампбелл</LastName>
+		<LastName>Мэттьюс</LastName>
+		<LastName>Оуэн</LastName>
+		<LastName>Палмер</LastName>
+		<LastName>Холмс</LastName>
+		<LastName>Миллс</LastName>
+		<LastName>Барнс</LastName>
+		<LastName>Найт</LastName>
+		<LastName>Ллойд</LastName>
+		<LastName>Батлер</LastName>
+		<LastName>Рассел</LastName>
+		<LastName>Баркер</LastName>
+		<LastName>Фишер</LastName>
+		<LastName>Стивенс</LastName>
+		<LastName>Дженкинс</LastName>
+		<LastName>Мюррей</LastName>
+		<LastName>Диксон</LastName>
+		<LastName>Харви</LastName>
 		
 		<Regiment name="regiment.nz1">
       <Experience>experience.nz1</Experience>
@@ -1063,36 +1066,34 @@
     </Regiment>
   </Nation>	
 	
-  </Nation>
-  <Nation name="Греция" chance="2">
+  <Nation name="Greek" chance="2">
 	<Ethnicity name="med" chance="1" />
 
-		<FirstName>	Мария	</FirstName>
-		<FirstName>	Элини	</FirstName>
-		<FirstName>	София	</FirstName>
-		<FirstName>	Джорджия </FirstName>
-		<FirstName>	Деметра	</FirstName>
-		<FirstName>	Эйрена	</FirstName>
-		<FirstName>	Анна	</FirstName>
-		<FirstName>	Иоанна	</FirstName>
+		<FirstName>Мария</FirstName>
+		<FirstName>Элини</FirstName>
+		<FirstName>София</FirstName>
+		<FirstName>Джорджия </FirstName>
+		<FirstName>Деметра</FirstName>
+		<FirstName>Эйрена</FirstName>
+		<FirstName>Анна</FirstName>
+		<FirstName>Иоанна</FirstName>
 
-
-		<LastName>	Влахос	</LastName>
-		<LastName>	Ангелис	</LastName>
-		<LastName>	Барош	</LastName>
-		<LastName>	Дукас	</LastName>
-		<LastName>	Халас	</LastName>
-		<LastName>	Лазос	</LastName>
-		<LastName>	Лорис	</LastName>
-		<LastName>	Малас	</LastName>
-		<LastName>	Дракос	</LastName>
-		<LastName>	Каирис	</LastName>
-		<LastName>	Габрис	</LastName>
-		<LastName>	Леос	</LastName>
-		<LastName>	Ахас	</LastName>
-		<LastName>	Анастос	</LastName>
-		<LastName>	Петрас	</LastName>
-		<LastName>	Николи	</LastName>
+		<LastName>Влахос</LastName>
+		<LastName>Ангелис</LastName>
+		<LastName>Барош</LastName>
+		<LastName>Дукас</LastName>
+		<LastName>Халас</LastName>
+		<LastName>Лазос</LastName>
+		<LastName>Лорис</LastName>
+		<LastName>Малас</LastName>
+		<LastName>Дракос</LastName>
+		<LastName>Каирис</LastName>
+		<LastName>Габрис</LastName>
+		<LastName>Леос</LastName>
+		<LastName>Ахас</LastName>
+		<LastName>Анастос</LastName>
+		<LastName>Петрас</LastName>
+		<LastName>Николи</LastName>
 		
 	<Regiment name="regiment.greek1">
 		<Experience>experience.none</Experience>
@@ -1106,36 +1107,36 @@
 </Nation>	
 
 
-  <Nation name="Польша" chance="2">
+  <Nation name="Polish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 	
-		<FirstName>	Юлия	</FirstName>
-		<FirstName>	Сюзанна	</FirstName>
-		<FirstName>	Мая	</FirstName>
-		<FirstName>	Лена	</FirstName>
-		<FirstName>	София	</FirstName>
-		<FirstName>	Наталья	</FirstName>
-		<FirstName>	Виктория	</FirstName>
-		<FirstName>	Оливия	</FirstName>
+		<FirstName>Юлия</FirstName>
+		<FirstName>Сюзанна</FirstName>
+		<FirstName>Мая</FirstName>
+		<FirstName>Лена</FirstName>
+		<FirstName>София</FirstName>
+		<FirstName>Наталья</FirstName>
+		<FirstName>Виктория</FirstName>
+		<FirstName>Оливия</FirstName>
 
-		<LastName>	Новак	</LastName>
-		<LastName>	Ковальски	</LastName>
-		<LastName>	Войчик	</LastName>
-		<LastName>	Камински	</LastName>
-		<LastName>	Зейлински	</LastName>
-		<LastName>	Возняк	</LastName>
-		<LastName>	Дабровски	</LastName>
-		<LastName>	Мазур	</LastName>
-		<LastName>	Кравчук	</LastName>
-		<LastName>	Дудек	</LastName>
-		<LastName>	Павлак	</LastName>
-		<LastName>	Горски	</LastName>
-		<LastName>	Дуда	</LastName>
-		<LastName>	Беняк	</LastName>
-		<LastName>	Копик	</LastName>
-		<LastName>	Каня	</LastName>
-		<LastName>	Срока	</LastName>
+		<LastName>Новак</LastName>
+		<LastName>Ковальски</LastName>
+		<LastName>Войчик</LastName>
+		<LastName>Камински</LastName>
+		<LastName>Зейлински</LastName>
+		<LastName>Возняк</LastName>
+		<LastName>Дабровски</LastName>
+		<LastName>Мазур</LastName>
+		<LastName>Кравчук</LastName>
+		<LastName>Дудек</LastName>
+		<LastName>Павлак</LastName>
+		<LastName>Горски</LastName>
+		<LastName>Дуда</LastName>
+		<LastName>Беняк</LastName>
+		<LastName>Копик</LastName>
+		<LastName>Каня</LastName>
+		<LastName>Срока</LastName>
 		
 	<Regiment name="regiment.poland1">
 		<Experience>experience.none</Experience>
@@ -1151,39 +1152,39 @@
 	</Regiment>
 </Nation>
 
- <Nation name="Испания" chance="2">
+ <Nation name="Spanish" chance="2">
 	<Ethnicity name="med" chance="3" />
     <Ethnicity name="nor" chance="1" />
 
-		<FirstName>	Мария	</FirstName>
-		<FirstName>	Кармен	</FirstName>
-		<FirstName>	Исабель	</FirstName>
-		<FirstName>	Антониа	</FirstName>
-		<FirstName>	Ракель	</FirstName>
-		<FirstName>	Сара	</FirstName>
-		<FirstName>	Кристина	</FirstName>
-		<FirstName>	Лусия	</FirstName>
-		<FirstName>	Ана	</FirstName>
-		<FirstName>	Альба	</FirstName>
-		<FirstName>	Нереа	</FirstName>	
+		<FirstName>Мария</FirstName>
+		<FirstName>Кармен</FirstName>
+		<FirstName>Исабель</FirstName>
+		<FirstName>Антониа</FirstName>
+		<FirstName>Ракель</FirstName>
+		<FirstName>Сара</FirstName>
+		<FirstName>Кристина</FirstName>
+		<FirstName>Лусия</FirstName>
+		<FirstName>Ана</FirstName>
+		<FirstName>Альба</FirstName>
+		<FirstName>Нереа</FirstName>	
 
-		<LastName>	Гарсия	</LastName>
-		<LastName>	Фернандес	</LastName>
-		<LastName>	Гонсалес	</LastName>
-		<LastName>	Лопес	</LastName>
-		<LastName>	Мартинес	</LastName>
-		<LastName>	Санчес	</LastName>
-		<LastName>	Перес	</LastName>
-		<LastName>	Диас	</LastName>
-		<LastName>	Гомес	</LastName>
-		<LastName>	Руис	</LastName>
-		<LastName>	Алонсо	</LastName>
-		<LastName>	Ромео	</LastName>
-		<LastName>	Наварро	</LastName>
-		<LastName>	Торрес	</LastName>
-		<LastName>	Васкес	</LastName>
-		<LastName>	Серрано	</LastName>
-		<LastName>	Рамос	</LastName>	
+		<LastName>Гарсия</LastName>
+		<LastName>Фернандес</LastName>
+		<LastName>Гонсалес</LastName>
+		<LastName>Лопес</LastName>
+		<LastName>Мартинес</LastName>
+		<LastName>Санчес</LastName>
+		<LastName>Перес</LastName>
+		<LastName>Диас</LastName>
+		<LastName>Гомес</LastName>
+		<LastName>Руис</LastName>
+		<LastName>Алонсо</LastName>
+		<LastName>Ромео</LastName>
+		<LastName>Наварро</LastName>
+		<LastName>Торрес</LastName>
+		<LastName>Васкес</LastName>
+		<LastName>Серрано</LastName>
+		<LastName>Рамос</LastName>	
 	
 		<Regiment name="regiment.spain1">
 		<Experience>experience.none</Experience>
@@ -1196,42 +1197,42 @@
 	</Regiment>
 </Nation>
 
-  <Nation name="Норвегия" chance="2">
+  <Nation name="Norwegian" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Эмма	</FirstName>
-		<FirstName>	Линни	</FirstName>
-		<FirstName>	Сара	</FirstName>
-		<FirstName>	Нора	</FirstName>
-		<FirstName>	Ингрид	</FirstName>
-		<FirstName>	Тия	</FirstName>
-		<FirstName>	Ида	</FirstName>
-		<FirstName>	Мая	</FirstName>
-		<FirstName>	Миа	</FirstName>
-		<FirstName>	Мария	</FirstName>
-		<FirstName>	Фрида	</FirstName>	
-		<FirstName>	Элиз	</FirstName>
-		<FirstName>	Ода	</FirstName>
-		<FirstName>	Оливия	</FirstName>
+		<FirstName>Эмма</FirstName>
+		<FirstName>Линни</FirstName>
+		<FirstName>Сара</FirstName>
+		<FirstName>Нора</FirstName>
+		<FirstName>Ингрид</FirstName>
+		<FirstName>Тия</FirstName>
+		<FirstName>Ида</FirstName>
+		<FirstName>Мая</FirstName>
+		<FirstName>Миа</FirstName>
+		<FirstName>Мария</FirstName>
+		<FirstName>Фрида</FirstName>	
+		<FirstName>Элиз</FirstName>
+		<FirstName>Ода</FirstName>
+		<FirstName>Оливия</FirstName>
 
-		<LastName>	Хансен	</LastName>
-		<LastName>	Йохансен	</LastName>
-		<LastName>	Олсен	</LastName>
-		<LastName>	Ларсен	</LastName>
-		<LastName>	Андерсен	</LastName>
-		<LastName>	Нильсен	</LastName>
-		<LastName>	Педерсен	</LastName>
-		<LastName>	Йенсен	</LastName>
-		<LastName>	Берг	</LastName>
-		<LastName>	Хауген	</LastName>
-		<LastName>	Лунд	</LastName>
-		<LastName>	Солберг	</LastName>
-		<LastName>	Баккен	</LastName>
-		<LastName>	Лунде	</LastName>
-		<LastName>	Эриксен	</LastName>
-		<LastName>	Арнесен	</LastName>
-		<LastName>	Холм	</LastName>	
+		<LastName>Хансен</LastName>
+		<LastName>Йохансен</LastName>
+		<LastName>Олсен</LastName>
+		<LastName>Ларсен</LastName>
+		<LastName>Андерсен</LastName>
+		<LastName>Нильсен</LastName>
+		<LastName>Педерсен</LastName>
+		<LastName>Йенсен</LastName>
+		<LastName>Берг</LastName>
+		<LastName>Хауген</LastName>
+		<LastName>Лунд</LastName>
+		<LastName>Солберг</LastName>
+		<LastName>Баккен</LastName>
+		<LastName>Лунде</LastName>
+		<LastName>Эриксен</LastName>
+		<LastName>Арнесен</LastName>
+		<LastName>Холм</LastName>	
 	
 	<Regiment name="regiment.norway1">
 		<Experience>experience.none</Experience>
@@ -1241,43 +1242,42 @@
 	</Regiment>
 </Nation>
 
-  <Nation name="Голландия" chance="2">
+  <Nation name="Dutch" chance="2">
 	<Ethnicity name="med" chance="2" />
     <Ethnicity name="nor" chance="4" />
     <Ethnicity name="afri" chance="1" />
 	
-		<FirstName>	Софи	</FirstName>
-		<FirstName>	Джулия	</FirstName>
-		<FirstName>	Ева	</FirstName>
-		<FirstName>	Лике	</FirstName>
-		<FirstName>	Санне	</FirstName>
-		<FirstName>	Ноа	</FirstName>
-		<FirstName>	Анна	</FirstName>
-		<FirstName>	Иса	</FirstName>
-		<FirstName>	Флуер	</FirstName>
-		<FirstName>	Линн	</FirstName>
-		<FirstName>	Роуз	</FirstName>	
-		<FirstName>	Энн	</FirstName>
-		<FirstName>	Фемке	</FirstName>
+		<FirstName>Софи</FirstName>
+		<FirstName>Джулия</FirstName>
+		<FirstName>Ева</FirstName>
+		<FirstName>Лике</FirstName>
+		<FirstName>Санне</FirstName>
+		<FirstName>Ноа</FirstName>
+		<FirstName>Анна</FirstName>
+		<FirstName>Иса</FirstName>
+		<FirstName>Флуер</FirstName>
+		<FirstName>Линн</FirstName>
+		<FirstName>Роуз</FirstName>	
+		<FirstName>Энн</FirstName>
+		<FirstName>Фемке</FirstName>
 
-		<LastName>	де Йонг	</LastName>
-		<LastName>	де Фриз	</LastName>
-		<LastName>	Янсен	</LastName>
-		<LastName>	де Берг	</LastName>
-		<LastName>	Бэккер	</LastName>
-		<LastName>	ван Дейк	</LastName>
-		<LastName>	Виссер	</LastName>
-		<LastName>	Яннсен	</LastName>
-		<LastName>	Смит	</LastName>
-		<LastName>	Мейер	</LastName>
-		<LastName>	Виллемс	</LastName>
-		<LastName>	Малдер	</LastName>
-		<LastName>	Вос	</LastName>
-		<LastName>	Петерс	</LastName>
-		<LastName>	Хендрикс	</LastName>
-		<LastName>	Деккер	</LastName>
-		<LastName>	де Грааф	</LastName>
-	
+		<LastName>де Йонг</LastName>
+		<LastName>де Фриз</LastName>
+		<LastName>Янсен</LastName>
+		<LastName>де Берг</LastName>
+		<LastName>Бэккер</LastName>
+		<LastName>ван Дейк</LastName>
+		<LastName>Виссер</LastName>
+		<LastName>Яннсен</LastName>
+		<LastName>Смит</LastName>
+		<LastName>Мейер</LastName>
+		<LastName>Виллемс</LastName>
+		<LastName>Малдер</LastName>
+		<LastName>Вос</LastName>
+		<LastName>Петерс</LastName>
+		<LastName>Хендрикс</LastName>
+		<LastName>Деккер</LastName>
+		<LastName>де Грааф</LastName>
 	<Regiment name="regiment.dutch1">
 		<Experience>experience.none</Experience>
 	</Regiment>
@@ -1289,41 +1289,42 @@
 	</Regiment>
 </Nation>	
 	
-  <Nation name="Дания" chance="2">
+  <Nation name="Danish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 	
-		<FirstName>	Ида	</FirstName>
-		<FirstName>	Кэрол	</FirstName>
-		<FirstName>	Мая	</FirstName>
-		<FirstName>	Фрея	</FirstName>
-		<FirstName>	Софи	</FirstName>
-		<FirstName>	Джули	</FirstName>
-		<FirstName>	Альма	</FirstName>
-		<FirstName>	Карла	</FirstName>
-		<FirstName>	Клара	</FirstName>
-		<FirstName>	Тильда	</FirstName>
-		<FirstName>	Луна	</FirstName>	
-		<FirstName>	Лиа	</FirstName>
-		<FirstName>	Аста	</FirstName>
+		<FirstName>Ида</FirstName>
+		<FirstName>Кэрол</FirstName>
+		<FirstName>Мая</FirstName>
+		<FirstName>Фрея</FirstName>
+		<FirstName>Софи</FirstName>
+		<FirstName>Джули</FirstName>
+		<FirstName>Альма</FirstName>
+		<FirstName>Карла</FirstName>
+		<FirstName>Клара</FirstName>
+		<FirstName>Тильда</FirstName>
+		<FirstName>Луна</FirstName>	
+		<FirstName>Лиа</FirstName>
+		<FirstName>Аста</FirstName>
+		<FirstName>Тильда</FirstName>
 
-		<LastName>	Дженсен	</LastName>
-		<LastName>	Нильсен	</LastName>
-		<LastName>	Ларсен	</LastName>
-		<LastName>	Мадсен	</LastName>
-		<LastName>	Кнудсен	</LastName>
-		<LastName>	Ниссен	</LastName>
-		<LastName>	Джепсен	</LastName>
-		<LastName>	Клаусен	</LastName>
-		<LastName>	Якобсен	</LastName>
-		<LastName>	Кьер	</LastName>
-		<LastName>	Хансен	</LastName>
-		<LastName>	Педерсен	</LastName>
-		<LastName>	Андерсен	</LastName>
-		<LastName>	Кристенсен	</LastName>
-		<LastName>	Томсен	</LastName>
-		<LastName>	Олесен	</LastName>
-		<LastName>	Эриксен	</LastName>	
+		<LastName>Дженсен</LastName>
+		<LastName>Нильсен</LastName>
+		<LastName>Ларсен</LastName>
+		<LastName>Мадсен</LastName>
+		<LastName>Кнудсен</LastName>
+		<LastName>Ниссен</LastName>
+		<LastName>Джепсен</LastName>
+		<LastName>Клаусен</LastName>
+		<LastName>Якобсен</LastName>
+		<LastName>Кьер</LastName>
+		<LastName>Хансен</LastName>
+		<LastName>Педерсен</LastName>
+		<LastName>Андерсен</LastName>
+		<LastName>Кристенсен</LastName>
+		<LastName>Томсен</LastName>
+		<LastName>Олесен</LastName>
+		<LastName>Эриксен</LastName>	
 
 	<Regiment name="regiment.danish1">
 		<Experience>experience.none</Experience>
@@ -1336,7 +1337,7 @@
 	</Regiment>
 </Nation>	
 
-<Nation name="Франция" chance="3">
+<Nation name="French" chance="3">
 	<Ethnicity name="med" chance="2" />
     <Ethnicity name="nor" chance="4" />
     <Ethnicity name="afri" chance="1" />
@@ -1362,23 +1363,23 @@
 		<FirstName>Ариан</FirstName>
 		<FirstName>Аурелия</FirstName>
 
-		<LastName>	Бернар	</LastName>
-		<LastName>	Дюбоис	</LastName>
-		<LastName>	Тома	</LastName>
-		<LastName>	Петит	</LastName>
-		<LastName>	Дюранд	</LastName>
-		<LastName>	Лирой	</LastName>
-		<LastName>	Моро	</LastName>
-		<LastName>	Лорент	</LastName>
-		<LastName>	Лефевр	</LastName>
-		<LastName>	Мерсье	</LastName>
-		<LastName>	Бланк	</LastName>
-		<LastName>	Морен	</LastName>
-		<LastName>	Дюваль	</LastName>
-		<LastName>	Роше	</LastName>
-		<LastName>	Ноэл	</LastName>
-		<LastName>	Форе	</LastName>
-		<LastName>	Рено	</LastName>	
+		<LastName>Бернар</LastName>
+		<LastName>Дюбоис</LastName>
+		<LastName>Тома</LastName>
+		<LastName>Петит</LastName>
+		<LastName>Дюранд</LastName>
+		<LastName>Лирой</LastName>
+		<LastName>Моро</LastName>
+		<LastName>Лорент</LastName>
+		<LastName>Лефевр</LastName>
+		<LastName>Мерсье</LastName>
+		<LastName>Бланк</LastName>
+		<LastName>Морен</LastName>
+		<LastName>Дюваль</LastName>
+		<LastName>Роше</LastName>
+		<LastName>Ноэл</LastName>
+		<LastName>Форе</LastName>
+		<LastName>Рено</LastName>	
 		
 	<Regiment name="regiment.french1">
 		<Experience>experience.none</Experience>
@@ -1395,42 +1396,42 @@
 </Nation>
 
 
-  <Nation name="Швеция" chance="2">
+  <Nation name="Swedish" chance="2">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Мая	</FirstName>
-		<FirstName>	Элис	</FirstName>
-		<FirstName>	Джули	</FirstName>
-		<FirstName>	Линни	</FirstName>
-		<FirstName>	Вилма	</FirstName>
-		<FirstName>	Эльза	</FirstName>
-		<FirstName>	Алва	</FirstName>
-		<FirstName>	Нелли	</FirstName>
-		<FirstName>	Агнес	</FirstName>
-		<FirstName>	Нова	</FirstName>
-		<FirstName>	Альма	</FirstName>	
-		<FirstName>	Тура	</FirstName>
-		<FirstName>	Мария	</FirstName>
-		<FirstName>	Вилда	</FirstName>
+		<FirstName>Мая</FirstName>
+		<FirstName>Элис</FirstName>
+		<FirstName>Джули</FirstName>
+		<FirstName>Линни</FirstName>
+		<FirstName>Вилма</FirstName>
+		<FirstName>Эльза</FirstName>
+		<FirstName>Алва</FirstName>
+		<FirstName>Нелли</FirstName>
+		<FirstName>Агнес</FirstName>
+		<FirstName>Нова</FirstName>
+		<FirstName>Альма</FirstName>	
+		<FirstName>Тура</FirstName>
+		<FirstName>Мария</FirstName>
+		<FirstName>Вилда</FirstName>
 
-		<LastName>	Карлссон	</LastName>
-		<LastName>	Нильссон	</LastName>
-		<LastName>	Ларссон	</LastName>
-		<LastName>	Перссон	</LastName>
-		<LastName>	Джонссон	</LastName>
-		<LastName>	Линдберг	</LastName>
-		<LastName>	Линдгрен	</LastName>
-		<LastName>	Берг	</LastName>
-		<LastName>	Экланд	</LastName>
-		<LastName>	Бергман	</LastName>
-		<LastName>	Валлин	</LastName>
-		<LastName>	Нордин	</LastName>
-		<LastName>	Блом	</LastName>
-		<LastName>	Норберг	</LastName>
-		<LastName>	Фолк	</LastName>
-		<LastName>	Бергамн	</LastName>
-		<LastName>	Холмгрен	</LastName>	
+		<LastName>Карлссон</LastName>
+		<LastName>Нильссон</LastName>
+		<LastName>Ларссон</LastName>
+		<LastName>Перссон</LastName>
+		<LastName>Джонссон</LastName>
+		<LastName>Линдберг</LastName>
+		<LastName>Линдгрен</LastName>
+		<LastName>Берг</LastName>
+		<LastName>Экланд</LastName>
+		<LastName>Бергман</LastName>
+		<LastName>Валлин</LastName>
+		<LastName>Нордин</LastName>
+		<LastName>Блом</LastName>
+		<LastName>Норберг</LastName>
+		<LastName>Фолк</LastName>
+		<LastName>Бергамн</LastName>
+		<LastName>Холмгрен</LastName>	
 		
 	<Regiment name="regiment.swede1">
 		<Experience>experience.none</Experience>
@@ -1440,46 +1441,42 @@
 	</Regiment>	
 </Nation>
 
-
-</Nation>
-  <Nation name="Финляндия" chance="1">
+  <Nation name="Finnish" chance="1">
 	<Ethnicity name="med" chance="1" />
     <Ethnicity name="nor" chance="3" />
 
-		<FirstName>	Айно	</FirstName>
-		<FirstName>	Венла	</FirstName>
-		<FirstName>	Аада	</FirstName>
-		<FirstName>	Сиири	</FirstName>
-		<FirstName>	Иида	</FirstName>
-		<FirstName>	Veera	</FirstName>
-		<FirstName>	Нелла	</FirstName>
-		<FirstName>	Милла	</FirstName>
-		<FirstName>	Рони	</FirstName>
-		<FirstName>	Ния	</FirstName>
-		<FirstName>	Миля	</FirstName>	
-		<FirstName>	Эви	</FirstName>
-		<FirstName>	Пинья	</FirstName>
-		<FirstName>	Алиса	</FirstName>
-		<FirstName>	Тарья	</FirstName>
+		<FirstName>Айно</FirstName>
+		<FirstName>Венла</FirstName>
+		<FirstName>Аада</FirstName>
+		<FirstName>Сиири</FirstName>
+		<FirstName>Иида</FirstName>
+		<FirstName>Веера</FirstName>
+		<FirstName>Нелла</FirstName>
+		<FirstName>Милла</FirstName>
+		<FirstName>Рони</FirstName>
+		<FirstName>Ния</FirstName>
+		<FirstName>Миля</FirstName>
+		<FirstName>Эви</FirstName>
+		<FirstName>Пинья</FirstName>
+		<FirstName>Алиса</FirstName>
 
-		<LastName>	Корхонен	</LastName>
-		<LastName>	Виртанен	</LastName>
-		<LastName>	Макинен	</LastName>
-		<LastName>	Ниеминен	</LastName>
-		<LastName>	Лайне	</LastName>
-		<LastName>	Хайкинен	</LastName>
-		<LastName>	Коскинен	</LastName>
-		<LastName>	Салонен	</LastName>
-		<LastName>	Хейнонен	</LastName>
-		<LastName>	Маттила	</LastName>
-		<LastName>	Сало	</LastName>
-		<LastName>	Лайтинен	</LastName>
-		<LastName>	Ахонен	</LastName>
-		<LastName>	Турунен	</LastName>
-		<LastName>	Куннинен	</LastName>
-		<LastName>	Сааринен	</LastName>
-		<LastName>	Йокинен	</LastName>
-		<LastName>	Турунен	</LastName>	
+		<LastName>Корхонен</LastName>
+		<LastName>Виртанен</LastName>
+		<LastName>Макинен</LastName>
+		<LastName>Ниеминен</LastName>
+		<LastName>Лайне</LastName>
+		<LastName>Хайкинен</LastName>
+		<LastName>Коскинен</LastName>
+		<LastName>Салонен</LastName>
+		<LastName>Хейнонен</LastName>
+		<LastName>Маттила</LastName>
+		<LastName>Сало</LastName>
+		<LastName>Лайтинен</LastName>
+		<LastName>Ахонен</LastName>
+		<LastName>Турунен</LastName>
+		<LastName>Куннинен</LastName>
+		<LastName>Сааринен</LastName>
+		<LastName>Йокинен</LastName>
 	
 	<Regiment name="regiment.finn1">
 		<Experience>experience.none</Experience>
