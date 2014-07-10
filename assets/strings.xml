@@ -2190,7 +2190,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;&gt;   Глобус показывает всю защищаемую вами от вторжения территорию. НЛО пришельцев периодически будут появляться, нанося урон вашим отношениям с финансирующими странами. Ваша задача сбивать их, либо они сами исчезнут после выполнения своего задания.&lt;br&gt;   Сейчас вас попросят расположить вашу первую базу. Синий круг вокруг нее показывает радиус радара, который автоматически будет обнаруживать НЛО, находящиеся внутри этого радиуса. Постарайтесь прикрыть как можно больше территории при помощи вашей базы.&lt;br&gt;   Как только вы это сделаете, имеет смысл ускорить время до появления какого-нибудь события. Кнопки со стрелками сверху экрана контролируют течение времени. Выберете кнопку с четырьмя стрелками для максимального ускорения.&lt;br&gt;   Цель игры - сбивать корабли пришельцев, захватывать артефакты на местах крушений, исследовать их для открытия новых технологий и получения большей информации о вторжении пришельцев.&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;&gt;   Глобус показывает всю защищаемую вами от вторжения территорию. Корабли пришельцев периодически будут появляться, нанося урон вашим отношениям с финансирующими странами. Ваша задача сбивать их, либо они сами исчезнут после выполнения своего задания.&lt;br&gt;   Сейчас вас попросят расположить вашу первую базу. Синий круг вокруг нее показывает радиус радара, который автоматически будет обнаруживать НЛО, находящиеся внутри этого радиуса. Постарайтесь прикрыть как можно больше территории при помощи вашей базы.&lt;br&gt;   Как только вы это сделаете, имеет смысл ускорить время до появления какого-нибудь события. Кнопки со стрелками сверху экрана контролируют течение времени. Выберете кнопку с четырьмя стрелками для максимального ускорения.&lt;br&gt;   Цель игры - сбивать корабли пришельцев, захватывать артефакты на местах крушений, исследовать их для открытия новых технологий и получения большей информации о вторжении пришельцев.&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -4018,7 +4018,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NoAmmoForSHSlot</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Недостаточно &lt;font color='FBBD03'&gt;%1%&lt;/font&gt; для перевооружения &lt;font color='FBBD03'&gt;%2%&lt;/font&gt;. &lt;br/&gt;Перезарядка будет завершёна когда  %1% будут произведены или доставлены на базу &lt;font color='FBBD03'&gt;%3%&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Недостаточно &lt;font color='FBBD03'&gt;%1%&lt;/font&gt; для перевооружения &lt;font color='FBBD03'&gt;%2%&lt;/font&gt;. &lt;br/&gt;Перезарядка будет завершена когда  %1% будут произведены или доставлены на базу &lt;font color='FBBD03'&gt;%3%&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NoFreeGarage</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -4998,7 +4998,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.Jackal</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Улучшенная бронежилет</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Улучшенный бронежилет</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Researches.JackalDesc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -6346,7 +6346,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Заряд C4:&lt;/b&gt; Это блок пластичного взрывчатого вещества с часовым механизмом, используемым для детонации. Основное назначение С4 на поле боя - уничтожение стен, дверей и других структур. Знайте: когда закончится обратный отсчёт, С4 взорвется, даже если солдат все ещё держит её в руках!&#10;&#10;Урон:                       &lt;b&gt;65 Зажигательный&lt;/b&gt; (4x урон ландшафту)&#10;Подавление:           &lt;b&gt;200&lt;/b&gt;&#10;Радиус взрыва:     &lt;b&gt;3.5&lt;/b&gt;&#10;Затраты ОД:           &lt;b&gt;60%&lt;/b&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Заряд C4:&lt;/b&gt; Это блок пластичного взрывчатого вещества с часовым механизмом, используемым для детонации. Основное назначение С4 на поле боя - уничтожение стен, дверей и других структур. Знайте: когда закончится обратный отсчет, С4 взорвется, даже если солдат все еще держит ее в руках!&#10;&#10;Урон:                       &lt;b&gt;65 Зажигательный&lt;/b&gt; (4x урон ландшафту)&#10;Подавление:           &lt;b&gt;200&lt;/b&gt;&#10;Радиус взрыва:     &lt;b&gt;3.5&lt;/b&gt;&#10;Затраты ОД:           &lt;b&gt;60%&lt;/b&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="270">
     <Cell><Data ss:Type="String">weapon.farmershotgun</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -6674,7 +6674,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WorkshopView.Comment1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Мы построим всё что пожелаете, товарищ.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Мы построим все что пожелаете, товарищ.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">WorkshopView.Comment2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
