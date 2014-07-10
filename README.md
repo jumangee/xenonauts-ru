@@ -16,13 +16,17 @@ xenonauts-ru
 В работе над русификатором в принимали участие:
 
  * safaquel
+
  * geolion
  * KMiSSioN
  * resonansER
  * GoshaTheBest
  * a333
  * Newfr
+
  * Jumangee
+ * Like-A Phoenix
+
 
 История изменений
 ------------------------
