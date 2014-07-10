@@ -4562,7 +4562,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.germany3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">40-ой воздушно-десантный</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">40й воздушно-десантный</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.hungary1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -4586,7 +4586,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.japan2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1-ая воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1я воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.navy</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -6390,7 +6390,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.medipack.desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Аптечка:&lt;/b&gt;  Предмет, который можно использовать, чтобы лечить раненых солдат на боле боя. Когда она находиться в руках солдата, ее можно использовать на любого дружественного бойца в прилегающих тайлах. Как результат, аптечка будет восстанавливать одно очко здоровья за одно очко действия. Однако, только половину полученного урона можно вылечить в полевых условиях (остальное нужно лечить на базе), так что полученные ранения уменьшают максимальное число ОЗ солдата на время боя.   Солдаты часто получают кровоточащие раны в бою, которые причиняют дополнительно по 2 очка здоровья урона каждый ход, пока не будут вылечены.&#10;Возможность лечить кровоточащие раны в бою делает Аптечку ценным предметом во время сражения.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Аптечка:&lt;/b&gt;  Снаряжение, необходимое для лечения раненых солдат на поле боя. Если взять аптечку в руки, то ее можно использовать на любом дружественном бойце в прилегающей клетке, в результате чего она восстановит одно очко здоровья за одно потраченное очко действия. Тем не менее, аптечкой можно вылечить только половину нанесенного вреда здоровью, дальнейшее лечение предстоит уже на базе. Это означает, что ранения в любом случае уменьшат общее количество ОЗ бойца на время текущей операции.&#10;Солдаты часто получают в боях кровоточащие раны, каждый ход уносящие определенное количество ОЗ до тех пор, пока их не обработают. Возможность лечить такие раны непосредственно в бою, делают аптечку незаменимой на полях сражений.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.nervegas</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7594,7 +7594,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.canada3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">22-й Королевский полк</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">22й Королевский полк</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.danish1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7626,7 +7626,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.Egermany2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">40-ой воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">40й воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.Egermany3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7634,7 +7634,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.Egermany4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">40-ой воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">40й воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.finn1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7642,11 +7642,11 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.french1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1-ый парашютный полк морской пехоты</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1й парашютный полк морпехоты</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.french2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">13-ый полк драгун парашютистов</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">13й полк драгун парашютистов</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.french3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7670,11 +7670,11 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.hungary1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">37-ой воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">37й воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.italy1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">9-ый штурмовой десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">9й штурмовой десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.italy2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7686,7 +7686,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.japan1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1-ая воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1я воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.norway1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7698,7 +7698,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.nz1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1-й рейнджерский эскадрон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1й рейнджерский эскадрон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.nz2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7706,19 +7706,19 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.poland1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">4101-ый воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">41-ый воздушно-десантный батальон</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.poland2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1-я Горная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1я Горная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.poland3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">7-ая бригада береговой обороны</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">7я бригада береговой обороны</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.poland4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">6-я десантно-штурмовая бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">6я десантно-штурмовая бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.russian1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -7758,11 +7758,11 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.Wgermany2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">200-ая роты глубинной разведки</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">200я роты глубинной разведки</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">regiment.Wgermany3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">26-ая воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">26я воздушно-десантная бригада</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Hungarian</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -8292,7 +8292,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack.desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Усовершенствованная аптечка:&lt;/b&gt;  Этот предмет можно использовать, чтобы лечить раненых солдат на боле боя, излечивая 1 ОЗ за каждое потраченное ОД. Однако в бою можно излечить только половину ОЗ (остальное будет восстановлено на базе).&#10;Солдаты часто получают кровотечения, которые наносят дополнительный урон в 2 ОЗ. Использование аптечки останавливает кровотечения.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Усовершенствованная аптечка:&lt;/b&gt;  Снаряжение, необходимое для лечения раненых солдат на поле боя. Если взять аптечку в руки, то ее можно использовать на любом дружественном бойце в прилегающей клетке, в результате чего она восстановит одно очко здоровья за одно потраченное очко действия. Тем не менее, аптечкой можно вылечить только половину нанесенного вреда здоровью, дальнейшее лечение предстоит уже на базе. Это означает, что ранения в любом случае уменьшат общее количество ОЗ бойца на время текущей операции.&#10;Солдаты часто получают в боях кровоточащие раны, каждый ход уносящие определенное количество ОЗ до тех пор, пока их не обработают. Возможность лечить такие раны непосредственно в бою, делают аптечку незаменимой на полях сражений.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>

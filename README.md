@@ -1,7 +1,7 @@
 xenonauts-ru
 ============
 
-Народная русификация игры Xenonauts, за основу используется русификатор с tbs-play ( http://tbs-play.com/community/resources/xenonauts-rus.2/ он же http://icongames.ru/resources/xenonauts-rus.7/ )
+Народная русификация игры Xenonauts, за основу используется русификатор с tbs-play ( http://tbs-play.com/community/resources/xenonauts-rus.2/ )
 
 
 Цели проекта
@@ -25,7 +25,7 @@ xenonauts-ru
  * Newfr
 
  * Jumangee
- * Like-A Phoenix
+ * James_Sun
 
 
 История изменений
@@ -43,7 +43,7 @@ xenonauts-ru
   * Исправлены мелкие ошибки перевода
   * Заменён шрифт arial
   * "баллистика" заменена на "огнестрельное"
-	* Новый шрифт заголовков вкладок оружия на странице экипировки бойцов
+  * Новый шрифт заголовков вкладок оружия на странице экипировки бойцов
 
  * 04.07.2014:
   * Модифицированы тексты обучающих подсказок, чтобы помещались на экран
